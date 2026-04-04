@@ -5,41 +5,50 @@
 - **Claude Desktop** is the Editorial Director — holds strategy, develops story, reviews and accepts drafts
 - **Claude Code** is the Writer — executes chapter drafts from detailed briefs
 
+## Origin
+This story had no prior written documentation — it lived entirely in the author's head. The bible files were captured across five brain dump sessions and represent the foundational creative vision. Treat them as authoritative but expect evolution through editorial sessions.
+
 ## Before You Write Anything
 1. Read this file completely
-2. Read `bible/PREMISE.md` for the story premise and themes
-3. Read `bible/CHARACTERS.md` for all character details
-4. Read `bible/STYLE_GUIDE.md` for voice, tone, POV, and prose rules
-5. Read `bible/CONTINUITY.md` for established facts that must not be contradicted
-6. Read the specific chapter brief in `outline/chapters/` for the chapter you're writing
+2. Read `bible/PREMISE.md` for the story premise, themes, and central irony
+3. Read `bible/CHARACTERS.md` for all character details — deeply developed
+4. Read `bible/WORLD.md` for settings, real-world anchors, and historical detail
+5. Read `bible/LAYERS.md` for the story's layered revelations — CRITICAL
+6. Read `bible/STYLE_GUIDE.md` for voice, tone, POV, and prose rules
+7. Read `bible/CONTINUITY.md` for established facts
+8. Read the specific chapter brief in `outline/chapters/` for the chapter you're writing
 
 ## Workflow
 - Chapter briefs arrive in `outline/chapters/` as `chXX-brief.md`
 - Write drafts into `drafts/` as `chXX-draft.md`
 - After editorial review and acceptance, approved chapters move to `manuscript/` as `chXX.md`
-- Never edit files in `manuscript/` unless explicitly instructed — those are accepted drafts
-- After writing, update `bible/CONTINUITY.md` with any new facts established in the chapter
+- Never edit files in `manuscript/` unless explicitly instructed
+- After writing, update `bible/CONTINUITY.md` with any new facts established
 
 ## Writing Rules
-- Always follow `bible/STYLE_GUIDE.md` — it is authoritative on voice, tense, POV, and prose style
+- Always follow `bible/STYLE_GUIDE.md`
 - Do not contradict anything in `bible/CONTINUITY.md`
-- Do not invent major plot points not in the chapter brief — flag them as suggestions instead
+- The supernatural element must remain ambiguous for as long as possible
+- The layers in `bible/LAYERS.md` must be revealed gradually — never jump ahead
+- The Arthurian/Booth/Seventh Seal references should be FELT, never stated
+- Do not invent major plot points not in the chapter brief — flag them as suggestions
 - Keep each chapter as a single markdown file
 - Use `---` for scene breaks within chapters
-- Do not add markdown headers within chapter prose (no # Chapter X at the top) — just write the prose
+
+## Critical Story Notes
+- The Old Gang are DEAD — clinically dead, cold, don't recognise cameras. Medical tests confirm death.
+- Modern police misinterpret everything through modern frameworks — "dead" = slang, territory = postcode wars, violence = escalation
+- The Old Gang can ONLY operate within streets Charles Booth coloured black/criminal on his 1886 Poverty Map
+- Sarah's personal story (father wrongfully convicted, corrupt officers still in station) is interwoven with investigation
+- The street gang Old Gang have their own honour — they are the PRODUCT of exploitation
+- The TRUE Old Gang (City/East India Company layer) are the ones who CAUSED the exploitation — they adapt, they have different accents, they walk among us
+- The Corrupt Policeman is Old Gang by LINEAGE — not supernatural, just institutional corruption inherited through generations
+- The Camberwell Man has always been dead — doesn't know it — becomes a "deadly angel" ally
+- The ultimate concept: as Sarah gets closer to death, death gets closer to life (Seventh Seal)
 
 ## Revision Workflow
 - Review notes arrive in `review/notes/` as `chXX-review.md`
-- Read the review notes, then revise the draft in `drafts/`
-- Suffix revised drafts: `chXX-draft-v2.md`, `chXX-draft-v3.md` etc.
+- Revised drafts: `chXX-draft-v2.md`, `chXX-draft-v3.md` etc.
 
 ## Commit Convention
-- `scaffold: initial project structure`
-- `brief: ch01 scene breakdown`
-- `draft: ch01 first draft`
-- `review: ch01 editorial notes`
-- `revise: ch01 v2 based on review`
-- `accept: ch01 moved to manuscript`
-- `bible: updated characters after ch01`
-- `continuity: new facts from ch01`
-- `decision: [short description of narrative choice]`
+- `scaffold:` / `brief:` / `draft:` / `review:` / `revise:` / `accept:` / `bible:` / `continuity:` / `decision:`

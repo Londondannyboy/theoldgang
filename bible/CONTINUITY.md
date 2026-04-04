@@ -1,29 +1,78 @@
 # Continuity Log
 
-Track every established fact as it's written, so nothing contradicts later.
+## Pre-established Facts
 
-## Format
-- **[ChXX]** Fact established — e.g. "Dave's car is a blue Ford Cortina"
+### Characters
+- Sarah is a young junior detective (DC level)
+- Sarah is well brought up / middle-class but father was from working-class estate
+- Sarah's father was a policeman, wrongfully convicted of fraud, killed himself
+- Officers involved in wrongful conviction still serve at her station
+- The Corrupt Policeman is Old Gang by family lineage — not supernatural
+- The Corrupt Policeman was involved in Sarah's father's wrongful conviction
+- Diamond Anne (or Forty Elephants contemporary) may still be alive locally
+- The Forty Elephants were real all-female crime gang from Elephant (1870s–1950s)
+- The women of Elephant's criminal world consistently outlived the men
+- The Camberwell Man grew up in modern Camberwell, headed a modern gang — but was always dead
+- The Camberwell Man becomes "deadly angel" — wants to do good in dark Old Gang ways
+- Ignatius Sancho is True Old Gang — immaculately dressed, flamboyant, robbing the City
+- Sarah refuses to become part of the street gang Old Gang even when offered alliance
 
-## Established Facts
+### Setting
+- Police station is in Elephant and Castle
+- Estates being demolished, replaced with new builds
+- Demolition disturbs unconsecrated grave
+- Old police unit: no mobile reception, rotary phone, 80s filing cabinets
+- Abandoned room has rotary phone that shouldn't be connected — but rings
+- Filing cabinets contain evidence of Sarah's father's innocence
+- Workhouse conditions exist near Waterloo tracks (modern migrants)
+- Unconsecrated grave of prostitutes near Southwark Bridge
+- Booth's Poverty Map colour-coded streets — black = criminal rookeries
+- The Old Gang can ONLY operate on Booth's black/dark blue streets
+- Modern police interpret territorial limits as postcode wars
+- The Necropolis Railway ran from Waterloo to Brookwood Cemetery — remnants still linked
+- The Brixton horse stables: council estate, Afro-Caribbean community, kids ride horses
+- A modern School of Thieves exists — children under 16 taught to steal
+- Teddy Boy subculture invented in Elephant and Castle
+- Word "hooligan" from a real family in Elephant (1890s)
+- Elephant = origin point for Forty Elephants, Hooligans, Teddy Boys
 
 ### The Old Gang
-- Old Gang worship pineapples, purple/mauve, sunlight, flowers, cleanliness, theatre
-- Old Gang use Molecule 01 perfume to hide death smell
-- Old Gang cannot see screens, CAN perceive wireless radio
-- Old Gang refer to areas by ancient names (Jacob's Island, St Giles, Devil's Acre)
-- Old Gang drink from the Thames instinctively
-- Old Gang break into the Globe Theatre — rapture
-- Old Gang find suicide abhorrent — they know death is the grave
-- Old Gang don't see racial colour — prejudices run on class/territory
-- Old Gang reform through instinct, not plan — survival instinct
-- Old Gang can ONLY operate on Booth's black/dark blue streets
-- Old Gang reassert territory through violence — that's what street gangs do
-- The Fagin returns expecting to resume control — Old Gang refuse
-- The Avenger infiltrates True Old Gang as fake enforcer — actually planning total revenge
-- Diamond Anne starts sweet, transforms through violence to protect friend
-- Old and young Diamond Anne are the same person — simultaneous death/birth
-- "Even within the dead world, you can never be too dead"
-- The wake (noise around the dead) is the mechanism — construction wakes them
-- Street gang and City gang know each other — ancient feudal relationship
-- The Ginger Urchin is the emissary between street and City gang
+- They are literally dead — clinically dead on blood tests
+- They are cold — physical tell
+- Don't recognise modern technology (cameras, CCTV, phones)
+- Violence is extreme — Victorian-scale brutality
+- Can ONLY operate on streets Booth coloured black/dark blue
+- The street gang have their own honour — product of exploitation, not its cause
+- The True Old Gang caused the exploitation — East India Company-type City corruption
+- True Old Gang adapt — different accents, not stupid, walk among us
+- True Old Gang indistinguishable from modern City power
+- Corrupt Policeman = Old Gang by lineage — institutional corruption through generations
+- Some Old Gang become Sarah's allies against True Old Gang
+- Street gang vs City corruption = class war across centuries
+
+### Key Scenes
+- Modern gangs describe rival as "dead" — police read slang, gangs mean literally
+- White youth in custody — no camera awareness — blood test confirms dead
+- Kennish Man pub fight ("man of Kent or Kentish man?")
+- Workhouse discovery near Waterloo tracks
+- Camberwell Man chained under Traitor's Gate — straw — didn't matter — always dead
+- Sarah banished to old police unit
+- Diamond Anne greasy spoon: needle in calf, "No John, it's you who's dead"
+- Police chase: run past old woman, grab young black guy — old woman was the killer
+- Sarah overlays Booth's map on crime data — exact match — predicts next crimes
+- School of Thieves found — modern Dickensian child-theft operation
+- White youth nightclub: shanks bouncer, grime club, extreme Victorian violence
+- Teddy Boy fight erupts in modern Elephant
+- Hooligans in custody at police station — Irish name
+- The phone scene: rotary phone rings in abandoned room — call from the 1960s
+- Sarah finds father's files — evidence of innocence
+- Corrupt Policeman appears standing above her — "He is Old Gang"
+- Camberwell Man rides horse through Brixton estate — "I'm Old Gang"
+- Drill scene at Southwark Bridge — BOOM — True Old Gang awakens
+- Ignatius Sancho in the City — flamboyantly robbing institutions
+- Excavation at Southwark Bridge reveals prostitutes' grave
+- Famous figures (Chaplin, Faraday, Babbage) potentially returning / dismissed
+- Body trafficked by Necropolis Railway route from Waterloo
+
+## Established Facts (Novel)
+*No chapters written yet.*
