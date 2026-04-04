@@ -21,6 +21,16 @@
 - The Camberwell Man at Traitor's Gate
 - The nightclub scene — Victorian violence in a modern grime club
 
+## Layer 3b: Diamond Anne — The Origin and The Ending
+
+Sarah meets two people she thinks are separate: a sweet young woman and an old dying woman in a care home. Through matching rings and a body twitch, she realises: same person.
+
+The sweet young girl is confronted by modern gang members. They try to rape her and her friend. She stabs one. Blood on hands. She becomes Diamond Anne. At the EXACT same moment, old Diamond Anne dies in the care home. One candle lighting the next.
+
+The question: was there ever a world where she didn't become this? Or is Diamond Anne inevitable wherever the powerful exploit the poor?
+
+When old Diamond Anne dies — reaching for a flower, reaching for the girl she was — the young version carries on. The baton is passed. There has always been a Diamond Anne. There always will be.
+
 ## Layer 4: Sarah's Personal History — The Phone, The Files, The Chain
 
 **The Descent:** Sarah is cut off. No phone, no mobile. She searches the abandoned station, finds a rotary telephone in a room full of filing cabinets.
@@ -58,8 +68,14 @@ Excavation drill at Southwark Bridge. Sarah trying to stop it. BOOM. Dirt falls 
 
 Not horror-spectacular. Industrial. Mechanical. The boom of the drill is rhythmic, inevitable. Modern machinery meeting ancient evil. The drill that builds luxury flats is the instrument that releases the worst of London's history.
 
+The drill is a WAKE — the word "wake" comes from making noise around the dead. Modern construction is the loudest wake in history. The regeneration IS the trigger.
+
+City Gang waking: coffin lids opening. Not horror-dramatic — slow, methodical. Workers running. The money that was supposed to bury the past is the money that brought it back.
+
 ## The Alliance: Old Gang vs True Old Gang
-Sarah realises street gang Old Gang could be ALLIES against the True Old Gang. The street gang were local — Elephant's own. The True Old Gang exploited them. The Camberwell Man is the key figure — a dead man who wants to do good in dark ways. Working-class criminals vs institutional criminals. A class war running for centuries.
+Street gang could be ALLIES against True Old Gang. Street gang were local — Elephant's own. The True Old Gang exploited them. The Camberwell Man is the bridge. Working-class criminals vs institutional criminals. A class war across centuries.
+
+The Ginger Urchin in the members' club shows the relationship: the street gang and City gang KNOW each other. Always have. The exploitation is so old it feels like partnership. "This is where my father lived. I never saw him ever again."
 
 ## Series 2 / Book 2 Concept
 Book 1: Street gang, Sarah's father, Diamond Anne, community, drill scene climax.
@@ -72,6 +88,8 @@ As Sarah gets closer to death — to the Old Gang, to her father's truth — dea
 Sarah's journey is toward her father. He is dead. He was from the working-class estate. As she goes deeper — old police unit, old files, old community — she is going back to find him.
 
 The reference: **The Seventh Seal** (Bergman, 1957). The knight plays chess with Death. Death is not the enemy — Death is the conversation partner. Sarah talks with death, and through those conversations, death comes closer to life.
+
+The Old Gang's hatred of suicide (they've been dead, they know the grave) creates tension with Sarah's father's death. The dead worship life. The living move toward death. They cross, passing each other.
 
 The Old Gang returning isn't just a threat — it's a reunion. The old world coming back isn't just dangerous — it's a homecoming. Sarah is polished, modern. But her father was from the estate. She is going back to where she came from, through the dead.
 
