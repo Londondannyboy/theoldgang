@@ -17,6 +17,9 @@ Elephant and Castle is in the London Borough of Southwark, south of the Thames. 
 - Local community spaces — where the older women gather
 - **The Elsbury Estate** — a real estate in Elephant and Castle, on the cusp of regeneration. The skinhead figure hangs about on its outskirts near a community gastropub. The estate represents the last of the old Elephant — about to be demolished, about to become new builds, about to erase another layer of the area's memory.
 - **The regeneration construction sites** — where the Kennish Man works. Cranes, hoardings, hard hats. The dead labourer rebuilding the ground he was buried in.
+- **Myatt's Field** — the area where Camberwell drifts into Brixton. Victor's home territory. A modern gang rivalry exists between Myatt's Field/Brixton and Elephant and Castle — a territorial boundary Victor crosses when he joins the Old Gang.
+- **Loughborough Junction / Railway Arches** — where the community horse project operates, under the railway lines. Inner-city kids riding horses among the arches and estate blocks. Victor's starting point for the horse ride.
+- **The Estate Walkways** — the covered landings, passages, and bridges between estate blocks at level one. Victor rides a horse across these — designed for foot traffic, now carrying a man on horseback heading to war.
 
 ## The Old Police Unit
 Sarah's exile. A forgotten corner of the station:

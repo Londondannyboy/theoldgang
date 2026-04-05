@@ -142,6 +142,9 @@
 - The White Youth confronting the Fagin — abused child vs abuser — the Old Gang breaks free
 - The revelation of why Sarah can see: her father's body touching the Old Gang grave
 - The Corrupt Policeman's irony: the burial meant to hide the truth is what brings it back
+- Hooligan family pub fight at Prince of Wales — Irish-Cockney chaos
+- Custody scene: "What's your surname?" "Hooligan." Policeman laughs. "Have you heard of us?"
+- Victor rides horse from Loughborough Junction through estates, across walkways, into Old Gang territory
 
 ## Established Facts (Novel)
 *No chapters written yet.*

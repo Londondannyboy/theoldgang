@@ -1,10 +1,13 @@
 # Style Guide
 
 ## Point of View
-TO BE DECIDED — candidates:
-- **Third person limited, Sarah only** — reader knows only what Sarah knows. Revelations land with her. Isolation felt.
-- **Third person limited, rotating** — Sarah primary, with chapters from modern gang members, old women, possibly Old Gang.
-- **First person Sarah** — most intimate, heightens "is she losing it?" tension.
+**RESOLVED: Third person limited, rotating.**
+- **Sarah** — primary POV (~70% of chapters). The reader knows what Sarah knows. Her isolation and growing perception are felt directly.
+- **Victor (formerly Marcus / the Camberwell Man)** — secondary POV. His chapters show the Old Gang forming, his dual life, his revelation, the horse ride.
+- **Young Diamond Anne** — secondary POV. Camden, the Goth Girl, the transformation.
+- **Other** — occasional chapters from the Ginger Urchin (members' club), the Avenger (crossing the river), the White Youth (nightclub), or modern gang members. Used sparingly.
+
+This rotating POV allows the Old Gang to be developed as characters the reader cares about independently of Sarah's investigation. The Peaky Blinders model: we see the gang on their own terms, not just through a detective's eyes.
 
 ## Tense
 **Past tense.** The story is about the past infecting the present.

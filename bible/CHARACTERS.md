@@ -219,6 +219,11 @@ Elephant has always had gangs — Forty Elephants (female, 1870s–1950s), Hooli
 
 **Key Relationships:** Sarah (ally — the detective and the dead man, both fighting the same corruption), Diamond Anne (fellow Old Gang — she understands transformation), the Ginger Urchin (respects him as leader), the Avenger (Victor doesn't know the Avenger's true mission yet), the Fagin (rejects his authority), the Corrupt Policeman (institutional enemy), his former modern crew (the break — they lose their top boy to something they can't understand)
 
+**Victor's Former Crew — Key Members [NAMES TBD]:**
+- **The Lieutenant:** Victor's second-in-command from Myatt's Field. More aggressive than Victor, less strategic. Wants to deal with the Old Gang through pure violence. Doesn't understand why it doesn't work. When Victor is absorbed into the Old Gang, the Lieutenant must decide: follow or break away.
+- **The Young One:** A kid, 16-17, newest member of Victor's crew. The one most affected by the Old Gang's presence because he's closest in age to the Old Gang's youngest members. The parallel between him and the Victorian street kids should be visible to the reader.
+- **The Sister/Girlfriend:** A woman in Victor's circle — not a gang member exactly, but connected, respected, with her own agency. She may be the first in Victor's world to connect with Sarah or with Diamond Anne.
+
 ---
 
 ### Kennish Man — Old Gang Peripheral / The Builder
@@ -252,10 +257,22 @@ Elephant has always had gangs — Forty Elephants (female, 1870s–1950s), Hooli
 
 ---
 
-### The Hooligans — Historical Echo
-- **Role:** Minor / atmospheric
-- **Historical basis:** The word "hooligan" originated from the **Hooligan family** — Irish by descent — in Elephant and Castle in the 1890s.
-- **Key Scene:** Police station opens with Hooligans in custody — Irish name, violent. Sarah recognises the historical echo. Nobody else does.
+### The Hooligans — The Original Family
+- **Role:** Recurring minor — atmospheric but with one standout scene
+- **Historical basis:** The word **"hooligan"** entered the English language from the **Hooligan family** — Irish by descent, based in the Elephant and Castle / Southwark area in the 1890s. A series of newspaper reports in 1898 about the family's violent behaviour turned their surname into a universal term for violent troublemakers. Before the Hooligans, there was no word "hooligan." They invented the concept by living it.
+- **In the story:** A young member of the Hooligan family — returned from the dead, Irish-Cockney accent, blood and insolence — gets into a family brawl at a real pub in Elephant, like the Prince of Wales. A proper scrap — chairs, glasses, the full cliché of an Irish family pub fight. Contemporary setting, Victorian intensity. Not a gang operation — a FAMILY fight. Drunk, chaotic, personal, vicious in the way only family can be.
+- **THE SCENE — The Name:**
+  - Custody sergeant, bored, processing: "Right. What's your name?"
+  - "John."
+  - "Surname?"
+  - "Hooligan."
+  - The policeman sniggers. Thinks it's a wind-up. A joke name.
+  - John Hooligan looks at him. Doesn't blink. Blood on his lip. Irish-Cockney accent — the accent of a family that's been in Elephant long enough to sound local but never lost the Irish underneath.
+  - "Yeah. Have you heard of us?"
+  - The policeman laughs. Writes it down. Doesn't understand what he's just heard: the ORIGINAL Hooligan. The family whose name became the word. Standing in a modern police station, giving his real name, and being laughed at because the world forgot where the word came from.
+- **Function:** The literal truth spoken and misread. The Hooligan gives his real name and it's treated as a joke. Sarah, if she's present or reads the report, recognises it — another confirmation.
+- **The young Hooligan as inheritor:** The one who's going to inherit the hooligan crown. Cocky, sharp, the family name as his birthright. The fact that his surname has become a generic insult for every drunken football thug is both an insult and a point of pride. They diluted his name. He's here to reclaim it.
+- **Voice Notes:** Irish-Cockney — the specific accent of Irish families settled in South London. The Irish underneath, the Cockney on top. Insolent, warm, violent, charming — often in the same sentence.
 
 ---
 
