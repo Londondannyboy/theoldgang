@@ -75,14 +75,33 @@ Captured across five brain dump sessions. Details marked [TBD] need further edit
 
 ---
 
-### The White Youth — Old Gang Member
-- **Role:** Supporting — most visible Old Gang member
-- **Age:** Appears teens/early 20s
-- **Background:** Victorian street gang member. Insanely violent by modern standards.
-- **Key Scene — Police custody:** Doesn't acknowledge cameras or CCTV — never seen a camera. Sarah reviews footage and realises. Blood test: "This person is dead."
-- **Key Scene — The Grime Club:** Goes to a modern grime club in Elephant. Shanks the bouncer's hand to the wall with a blade, walks past. Only white kid in the club. Totally in his element — the criminal dynamics are identical across centuries. Orders a drink. Says his piece. Then: extreme Victorian violence. Up close, personal, from a time when life was cheap. The modern club has never seen anything like it.
-- **Physical Tell:** Cold. All Old Gang members are cold.
-- **Function:** Shows the collision between modern and Victorian criminal culture. Modern violence has rules and distance. Old Gang violence is intimate, disproportionate, and from another era.
+### The White Youth — Old Gang Member / The Fagin's Boy
+- **Role:** Core Old Gang member — the violent one, the thug, the one everyone fears first
+- **Age:** Appears late teens
+- **Physical:** White, lean, hard. Not big — Victorian malnutrition saw to that. But wiry, fast, and utterly without hesitation. His body is a weapon because it's the only thing that was ever truly his.
+- **Background:** A male street gang member. The most visibly violent of the Old Gang. He is the one who shocks modern people — the custody scene, the nightclub scene, the extreme Victorian brutality that modern London has never encountered.
+
+**The Origin Story — Fagin's Exploitation:**
+- He was the Fagin's boy. The favourite. The one Fagin took under his wing, trained, used, and exploited in the worst ways imaginable. The violence that defines him now was CREATED by Fagin — beaten into him, rewarded when directed at Fagin's targets, punished when turned inward. He was taught that violence was his only value. That without it, he was nothing. That Fagin was the only person who would ever want him.
+- The exploitation went beyond criminal training. The Victorians didn't have a word for what Fagin did to the children in his care, but we do. The anger, the frustration, the insecurity — the white-hot rage that drives the White Youth's violence — all of it traces back to a childhood of systematic abuse disguised as mentorship.
+- He doesn't talk about it. He may not even fully understand it. But the reader should feel it in the way he flinches from certain touches, the way his violence has a desperate, cornered quality even when he's the aggressor, the way he obeys no one — ESPECIALLY no adult male who tries to tell him what to do.
+
+**The Fagin Confrontation:**
+- When the Fagin returns and tries to resume control, the White Youth's reaction is the most intense of any Old Gang member. The others refuse the Fagin out of independence or principle. The White Youth refuses out of TERROR and RAGE — the abused child facing his abuser, but no longer a child. No longer powerless.
+- The confrontation between the White Youth and the Fagin is one of the novel's most important scenes. It's not just a gang power struggle — it's a survivor facing down their abuser. And this time, the survivor wins.
+- When the White Youth overcomes the Fagin — however that happens (violence? Words? Simply refusing to break?) — the Old Gang stands alone. They are no longer anyone's tools. They control their own destiny. This is the moment the Old Gang becomes something new rather than a repetition of the old hierarchy.
+
+**After the Fagin:**
+- The White Youth's violence doesn't disappear — it's too deep in him for that. But it changes. Before the confrontation, his violence was reactive, desperate, a cornered animal lashing out. After, it becomes purposeful. He is still the most dangerous of the Old Gang. But now he chooses when and why. The Fagin took his agency. Overcoming the Fagin gives it back.
+
+**His role in the gang:**
+- At first, he appears to be the leader — the most violent, the most visible, the one who acts while others think. But he's not a leader. He's an enforcer. A weapon. The gang's muscle. The leadership question is answered by Victor, not by the White Youth. What the White Youth provides is something different: the absolute certainty that the Old Gang will not be pushed around. By anyone. Ever again.
+
+- **Key Scene — Police custody:** Doesn't acknowledge cameras. Eyes slide past screens. Blood test: dead.
+- **Key Scene — The Grime Club:** Shanks bouncer's hand to wall. Extreme Victorian violence in a modern club.
+- **Key Scene — The Fagin confrontation:** The abused boy faces his abuser. No longer powerless. The Old Gang breaks free.
+- **Voice Notes:** Sparse. Violent language when he speaks but he doesn't speak much. One-liners. Threats that are statements of fact. He communicates primarily through action. When he DOES speak at length — which should happen rarely, maybe once — it should stop the reader cold.
+- **Key Relationships:** The Fagin (abuser — the confrontation is everything), the Ginger Urchin (possibly the only person he's genuinely close to — they were Fagin's boys together), Victor (accepts him as leader because Victor doesn't try to own him), Diamond Anne (post-transformation, they recognise something in each other — two people made violent by circumstance), Sarah (she sees the abuse underneath the violence — her detective training helps her read him)
 
 ---
 
@@ -348,6 +367,9 @@ Elephant has always had gangs — Forty Elephants (female, 1870s–1950s), Hooli
 - **The conflict:** The Old Gang are no longer powerless children. They refuse the old hierarchy. The Fagin represents the system's self-replication — even in death, exploitation tries to reassert itself.
 - **Connection to True Old Gang:** Middle figure — above street children, below real power. Provided cheap, disposable child labour to the City gang. His return exposes the chain.
 - **Voice Notes:** Charming, persuasive, manipulative. The kind of person children follow because he's the only adult who pays attention.
+- **The Exploitation:** The Fagin didn't just use the children as thieves. He abused them in every way an adult with absolute power over vulnerable children can. The White Youth was his favourite — which meant the White Youth suffered the most. The Fagin's "care" was a prison. His "family" was a trap. His "training" was systematic destruction of the children's autonomy, boundaries, and sense of self.
+- **His Defeat:** When the White Youth confronts him and wins — breaking the cycle, refusing to be the abused child ever again — the Fagin loses his power. Not just over the White Youth, but over all of them. The hierarchy collapses. The Old Gang sees that the adult who controlled them was only ever powerful because they were children. They're not children anymore. They've been dead. They've come back. And they owe him NOTHING.
+- **After defeat:** The Fagin retreats toward the True Old Gang — the City power that always employed him as the middle manager of child exploitation. He is still useful to them. The chain continues, but the Old Gang is no longer part of it.
 
 ---
 

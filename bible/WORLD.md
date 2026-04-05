@@ -117,6 +117,26 @@ Present day. Supernatural intrusions from: Victorian era (primary), 1890s (Hooli
 - The True Old Gang adapt — different accents, modern clothes, walk among us
 - The Corrupt Policeman is Old Gang by lineage, not resurrection
 
+### The Spiritual Connection — Sarah's Father and the Grave
+
+**THE MECHANISM FOR WHY SARAH CAN SEE:**
+When Sarah's father was murdered by the Corrupt Policeman, his body was buried in the excavation area — the site that was about to be cemented over as part of the regeneration. The killers believed his body would be disappeared forever — buried under concrete, gone.
+
+But his body was placed in ground that contains the Old Gang's unconsecrated grave. Sarah's father physically TOUCHES the Old Gang buried beneath. His modern body makes contact with Victorian bones.
+
+This creates an unholy, unique convergence of spiritual energy. The dead of the unconsecrated grave — the Old Gang, the historical figures, the criminals and the destitute — flow through Sarah's father. And through her father, to Sarah.
+
+**This is why Sarah can see what others can't.** She is not a "chosen one." She is not psychic. She is not special. She is connected to the Old Gang through BLOOD AND BURIAL — her father's body touching their grave. The spiritual energy flows: Old Gang → father → Sarah. She feels the Old Gang because her father is lying among them. She senses the cold because her father is cold. She notices what others miss because the dead are communicating through the one body in their grave that is connected to a living person.
+
+**What this means:**
+- Sarah's sensitivity to the Old Gang isn't arbitrary — it's physical, specific, earned through tragedy
+- Her colleagues can't see it because they don't have the connection — their fathers aren't in the ground
+- As the excavation disturbs the grave more, the connection strengthens — Sarah sees more, feels more, drifts further into the old world
+- When the drills reach her father's body, the connection reaches its peak — and her father returns
+- The connection also explains why the Old Gang respect Sarah — they sense one of their own (her father) in her
+
+**The killers' irony:** The Corrupt Policeman buried the body there to make it disappear. Instead, he created the connection that will eventually expose him. The cover-up is the catalyst. The murder is the mechanism. The thing he did to hide the truth is the thing that brings the truth back to life.
+
 ## The City of London — Ancient Places
 
 The True Old Gang don't meet in modern London. They meet in places that have ALWAYS been there.

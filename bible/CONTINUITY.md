@@ -38,6 +38,11 @@
 - Victor means "conqueror" — a dead man conquering death
 - Victor is from Myatt's Field (Camberwell/Brixton border)
 - Victor was ashamed of his birth name — too old-fashioned for the estates
+- The White Youth was the Fagin's boy — his favourite — systematically exploited and abused
+- The White Youth's violence was CREATED by Fagin's abuse — beaten into him, rewarded, punished
+- The White Youth confronts and overcomes the Fagin — the abused child breaks free
+- After the Fagin's defeat, the Old Gang stands alone — no longer anyone's tools
+- The Fagin retreats to the True Old Gang after being defeated by the White Youth
 
 ### Setting
 - Police station is in Elephant and Castle
@@ -95,6 +100,11 @@
 - Same exploitation pattern globalised — workers dying building developments in Middle East
 - Victorian exploitation didn't end — it moved offshore, out of sight
 - The modern City already does exactly what the True Old Gang did — they just resume
+- Sarah's father's body physically touches the Old Gang's unconsecrated grave
+- This physical contact creates a spiritual energy connection: Old Gang → father → Sarah
+- This is WHY Sarah can see what others can't — she's connected through blood and burial
+- The Corrupt Policeman's cover-up (burying the body there) is the catalyst that creates the connection
+- As excavation disturbs the grave more, Sarah's connection strengthens
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -129,6 +139,9 @@
 - Camberwell Man exits community meeting, Old Gang standing silently across the street
 - Victor's name reclaiming: drops "Marcus," takes back "Victor" — "Call me Victor"
 - The name change marks the moment of acceptance — street identity shed, true identity embraced
+- The White Youth confronting the Fagin — abused child vs abuser — the Old Gang breaks free
+- The revelation of why Sarah can see: her father's body touching the Old Gang grave
+- The Corrupt Policeman's irony: the burial meant to hide the truth is what brings it back
 
 ## Established Facts (Novel)
 *No chapters written yet.*

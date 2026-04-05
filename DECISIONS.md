@@ -134,3 +134,15 @@ Needs specific character — embodies old City wealth. Courteous, powerful, expl
 
 ### NOTED — Camberwell Man Clarification
 The community hall scene (walking out to find Old Gang staring across the street) is the CAMBERWELL MAN, not Marcus. The Camberwell Man is the one straddling community activism and the supernatural pull. Marcus is the modern gang leader who gets absorbed into the Old Gang through combat. Both men try to protect the community. Both are pulled into the Old Gang. But by different routes: the Camberwell Man by revelation (he was always dead), Marcus by circumstance (he fights and is absorbed).
+**NOTE:** This distinction is now moot — Camberwell Man and Marcus are confirmed as the SAME PERSON (Victor). See RESOLVED — The Camberwell Man IS Marcus IS Victor.
+
+### TBD — The White Youth's Name
+**Decision:** TO BE DECIDED — does the White Youth get a proper name, or is he known only by description/nickname?
+**Reasoning:** The Old Gang members are gradually being named (Victor, Diamond Anne). The White Youth remaining nameless could be powerful — he was never given a real identity by Fagin, just a function. Or: giving him a name when he overcomes the Fagin could mirror Victor's name-reclaiming. He earns his name by breaking free.
+**Affects:** His characterisation, the Fagin confrontation scene
+
+### TBD — The Fagin Confrontation: How Does the White Youth Win?
+**Decision:** TO BE DECIDED — is it violence? Words? Refusal to break? A combination?
+**Options:** (a) Physical — he beats the Fagin in a fight (b) Psychological — he simply refuses, and the Fagin's power evaporates because it was only ever based on the children's fear (c) Public — he exposes the Fagin's abuse in front of the other Old Gang members (d) Silent — he just walks away, and the Fagin discovers he can't make him come back
+**Reasoning:** Option (b) or (d) may be more powerful than violence — the abuser's power was only ever the child's fear. Remove the fear and there's nothing left. But this is a novel about Victorian violence, so (a) has visceral appeal.
+**Affects:** The scene's tone, what it says about breaking cycles of abuse

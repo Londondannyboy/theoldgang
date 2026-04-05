@@ -45,6 +45,9 @@ When old Diamond Anne dies — reaching for a flower, reaching for the girl she 
 
 **Sarah's position:** Completely isolated. The institution is compromised. The community is her only ally. The Camberwell Man (a dead man) is more trustworthy than the living policeman who destroyed her father. The dead are more honest than the living.
 
+### The Underlying Mechanism (revealed gradually)
+Sarah's ability to see the Old Gang is not random. Her father's murdered body was buried in the same ground as the Old Gang's unconsecrated grave — physically touching the Victorian bones. Spiritual energy flows: Old Gang → father → Sarah. This explains everything: why she senses the cold, why she notices what others miss, why the Old Gang seem to communicate with her (the phone, the wireless). She is connected through blood and burial. The reader should suspect this before it's confirmed — plant clues early (Sarah feeling physically cold at crime scenes, her hand going to her chest when the Old Gang are near, an instinctive knowledge she can't explain).
+
 ## Layer 5: Old Crimes Hiding in Plain Sight
 **What happens:** Victorian crimes haven't returned — they never left. Workhouse conditions near Waterloo tracks. The School of Thieves. Each time Sarah proves something impossible is real, she moves further from colleagues and deeper into the old world.
 
