@@ -73,6 +73,10 @@
 - Elephant = origin point for Forty Elephants, Hooligans, Teddy Boys
 - The Elsbury Estate is a real estate in Elephant — on the cusp of regeneration
 - The regeneration construction sites are where the Kennish Man works in a hard hat and high-vis
+- Manze's / Arment's pie and mash shop on Walworth Road — traditional pie, mash, liquor. Victorian-style tiled interior.
+- The Golden Eagle pub in Marylebone — last pianist sing-along pub. Live piano, communal singing.
+- The hollow tree on Hampstead Heath — "Tree of Life" — large enough to stand inside. The Urchin's private ritual.
+- Diamond Anne's gangster killing happens at the pie and mash shop — injection under table, heart attack, through the window
 
 ### The Old Gang
 - They are literally dead — clinically dead on blood tests
@@ -171,6 +175,11 @@
 - The line to audience/camera: "All of life is but a play, and I am but an actor in that play"
 - Ginger Urchin and the Actor becoming friends — the pretender and the real thing
 - Final image: fingers with rings moving in disturbed earth at Southwark Bridge — True Old Gang stirring
+- Old Diamond Anne kills gangster at pie and mash shop — injection under table, heart attack, smashes through window, she's already gone
+- Old Gang eat pie and mash at the same shop afterwards — food of their era — sitting where a man just died
+- Old Gang at the Golden Eagle in Marylebone — ecstatic at the pianist sing-along — hiding in plain sight
+- Ginger Urchin inside the hollow tree on Hampstead Heath — dead boy inside a living tree — feeling alive
+- Ginger Urchin steps out of the tree and meets the goths — Diamond Anne meets the Goth Girl through this encounter
 
 ## Established Facts (Novel)
 *No chapters written yet.*

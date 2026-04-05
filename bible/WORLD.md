@@ -20,6 +20,9 @@ Elephant and Castle is in the London Borough of Southwark, south of the Thames. 
 - **Myatt's Field** — the area where Camberwell drifts into Brixton. Victor's home territory. A modern gang rivalry exists between Myatt's Field/Brixton and Elephant and Castle — a territorial boundary Victor crosses when he joins the Old Gang.
 - **Loughborough Junction / Railway Arches** — where the community horse project operates, under the railway lines. Inner-city kids riding horses among the arches and estate blocks. Victor's starting point for the horse ride.
 - **The Estate Walkways** — the covered landings, passages, and bridges between estate blocks at level one. Victor rides a horse across these — designed for foot traffic, now carrying a man on horseback heading to war.
+- **Manze's / Arment's Pie and Mash, Walworth Road** — one of the last traditional pie and mash shops in Elephant. Victorian food (pie, mash, liquor) in a Victorian-style tiled interior. Scene of Diamond Anne's gangster killing (injection, heart attack, smashes through window) AND the Old Gang eating there afterwards — the food of their era, sitting where a man just died.
+- **The Golden Eagle, Marylebone** — last pianist sing-along pub. Live piano, communal singing. The Old Gang discover it and it becomes sacred — the one place in modern London that IS their world. Live performance, communal, unrecorded. Hiding in plain sight among the regulars.
+- **The Hollow Tree, Hampstead Heath** — "Tree of Life." Large enough to stand inside. The Ginger Urchin's private ritual — a dead boy inside a living tree, feeling alive. Where he meets the goths and Diamond Anne first encounters the Goth Girl.
 
 ## The Old Police Unit
 Sarah's exile. A forgotten corner of the station:

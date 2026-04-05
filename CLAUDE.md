@@ -92,6 +92,6 @@ Each chapter goes through a clear versioning process. Files sit side by side in 
 - `CLAUDE.md` — update "Current Status" section below if needed
 
 ### Current Status
-- **Last completed:** None — Chapter 1 brief ready to write
-- **Next up:** Chapter 1 draft
-- **Open decisions affecting next chapter:** None — Chapter 1 is straightforward setup
+- **Last completed:** Chapter 1 draft (v1.0 Claude Code), Chapter 2 draft (v1.0 Editorial Director)
+- **Next up:** Chapter 1 v2 revision (review notes pending), Chapter 2 review
+- **Open decisions affecting next chapters:** None immediate
