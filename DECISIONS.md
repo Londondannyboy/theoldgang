@@ -146,3 +146,15 @@ The community hall scene (walking out to find Old Gang staring across the street
 **Options:** (a) Physical — he beats the Fagin in a fight (b) Psychological — he simply refuses, and the Fagin's power evaporates because it was only ever based on the children's fear (c) Public — he exposes the Fagin's abuse in front of the other Old Gang members (d) Silent — he just walks away, and the Fagin discovers he can't make him come back
 **Reasoning:** Option (b) or (d) may be more powerful than violence — the abuser's power was only ever the child's fear. Remove the fear and there's nothing left. But this is a novel about Victorian violence, so (a) has visceral appeal.
 **Affects:** The scene's tone, what it says about breaking cycles of abuse
+
+### TBD — The Actor's Arc and Placement
+**Decision:** TO BE DECIDED — where does the Actor appear in the chapter outline?
+**Options:** (a) Part 2, during the South Bank festival — a standalone scene or woven into Sarah's river walk (b) The Globe Theatre scene — he's performing when the Old Gang walk in (c) Part 3 — he becomes a useful ally/source for Sarah (d) All of the above — he's a recurring minor character
+**Reasoning:** The Actor works best as a recurring presence rather than a single scene — someone Sarah encounters multiple times on the South Bank, who gradually reveals what he's seen and what he's seeking.
+**Affects:** Chapter placement, the Globe scene, whether the Actor becomes a Book 2 character
+
+### TBD — The Globe Theatre Scene Placement
+**Decision:** TO BE DECIDED — does the Globe scene appear in Book 1 or is it saved for Book 2?
+**Options:** (a) Book 1, Part 2 or 3 — the Old Gang experience theatre for the first time (b) Book 2 — saved for when the full scope of the story opens up (c) Book 1, connected to the South Bank festival — the festival gives them access
+**Reasoning:** The Globe scene is one of the most emotionally powerful in the story. Placing it in Book 1 gives Book 1 more heart. Placing it in Book 2 gives Book 2 a signature moment. The South Bank festival (if in Book 1) provides a natural reason for the Globe to be active and accessible.
+**Affects:** Book 1's emotional range, Book 2's set-pieces, the Actor's role

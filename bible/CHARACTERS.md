@@ -156,6 +156,8 @@ Elephant has always had gangs — Forty Elephants (female, 1870s–1950s), Hooli
 - **Violence:** Casual, intimate, extreme. Victorian-scale brutality. Life was cheap.
 - **Suicide:** Find it ABHORRENT. They've been dead — they know death is the grave, not peace. Creates tension with Sarah (her father killed himself).
 - **Race:** Don't see racial colour. Their prejudices run on class and territory. Mixed-race gang confuses modern frameworks.
+- **Audio blindness:** Just as they cannot see screens, they CANNOT hear recorded sound. Music from a speaker, a voice from a recording device, audio playback of any kind — they don't register it. In the police station, they don't know what the recording device is. They can't hear playback. The box means nothing. They can ONLY hear LIVE sound — live voice, live music, live instruments. This is why the wireless radio works (live broadcast, transmitted in real time) but a recording doesn't. The distinction: live = real to them. Recorded = silence. This has implications for police interviews (they don't understand the caution about being recorded — the recording device is invisible and inaudible to them) and for their obsession with live music and theatre.
+- **Live music obsession:** They LOVE live music — it's the only music they can hear. A busker, a street musician, a pub singer, a band in a venue — these are ecstatic experiences. Modern people walk past buskers. The Old Gang stop and stare, transfixed, because this is the ONLY music that exists for them. The recorded world — Spotify, radio playlists, background music in shops — is silence. Live performance is everything.
 
 ---
 
@@ -361,6 +363,22 @@ Elephant has always had gangs — Forty Elephants (female, 1870s–1950s), Hooli
 - **The Irony:** Performs death aesthetically (black clothes, dark makeup). Diamond Anne IS death. The Goth Girl thinks she wants what Diamond Anne has. Diamond Anne knows she doesn't.
 - **Witnesses the transformation:** Present during the gang confrontation. Sees sweet friend become killer. Bonded forever. Carries the knowledge in the living world.
 - **Key line from Diamond Anne:** "You don't know what life is until you know death."
+
+---
+
+### The Actor — The Living Man Seeking the Dead
+- **Role:** Supporting — a living person who deliberately crosses into the Old Gang's world
+- **Age:** Late 20s / early 30s
+- **Background:** A young, handsome, debonair actor. Working on the South Bank — possibly in the Globe Theatre company, possibly in the historical season, possibly freelance. He is a method actor: obsessed with authenticity, with REAL experience, with inhabiting a character from the inside rather than performing from the outside.
+- **How he finds the Old Gang:** Through the theatrical world. He hears whispers — from other performers, from locals, from the South Bank community — about people who aren't performing. People in Victorian clothing who are too real. Too cold. Too present. The theatrical season is full of actors in period costume, but there are figures among them who don't break character. Ever. Who don't go home. Who smell wrong. Who radiate cold.
+- **What he wants:** He wants to find them. Not to expose them — to LEARN from them. He is an actor seeking the authentic past living in plain sight. He wants to know how they move, how they speak, how they exist in a world that isn't theirs. He wants to study them. To absorb their reality into his performance. The ultimate method acting: learning from the actually dead how to play the historically alive.
+- **The irony:** He is the INVERSE of the Old Gang. They are dead and desperately want to live — seeking warmth, sunlight, music, pineapples, clean clothes. He is alive and wants to inhabit death — seeking cold, authenticity, the raw unperformed reality of another era. They are trying to escape the past. He is trying to enter it.
+- **His approach:** He goes in character. Dresses in period clothing (he's an actor — he has access to costumes). Walks the Booth streets. Speaks in Victorian cadence. Tries to pass among the Old Gang as one of them. He is performing the past. They are living it. The gap between his performance and their reality is the gap between art and life.
+- **What happens:** The Old Gang may recognise him as a fraud — or they may not care. They may find him amusing, baffling, or useful. A living person who voluntarily dresses and speaks like them is unprecedented. He could become an unlikely ally — a bridge between the theatrical world (which is the Old Gang's only entertainment) and the modern world. Or he could get too close and discover that method acting has limits — that you can't perform being dead without consequences.
+- **Connection to the Globe:** If the Old Gang break into the Globe Theatre, the Actor might be the one who encounters them there — the only person in the audience who realises the figures in the pit aren't actors. Or he might BE performing at the Globe when the Old Gang walk in — and discover that his audience includes people from the era he's pretending to inhabit.
+- **Voice Notes:** Educated, theatrical, with the slightly heightened diction of someone who performs for a living. But also genuinely curious, genuinely brave — he's not a fool or a tourist. He's an artist who has found something real and wants to understand it.
+- **Key Relationships:** The Old Gang (his subjects, who may become more), Sarah (he could be a source — someone from the legitimate world who has encountered the Old Gang independently), the Globe Theatre (his professional world, which is also the Old Gang's spiritual home)
+- **Thematic weight:** The Actor represents the question: can the living truly understand the dead? Can performance bridge the gap between eras? Or is there an unbridgeable difference between pretending to be from the past and actually being from it? He is the story's exploration of authenticity — in a world where the dead walk among performers dressed as the dead, what is real?
 
 ---
 

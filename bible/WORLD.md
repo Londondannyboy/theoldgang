@@ -188,6 +188,23 @@ Shakespeare performed at the Globe in SOUTHWARK — Old Gang territory. Theatre 
 
 **The Globe Theatre Scene:** The Old Gang break into the reconstructed Globe on the South Bank. Complete rapture. The entertainment of their era, in a building recreated from their world. They were too poor to see a play when alive. Now they weep with joy. One of the most powerful scenes in the novel.
 
+### Shakespeare and The Elephant — The Brothel Connection
+In Shakespeare's **Twelfth Night**, the line "to the Elephant you shall rest" refers NOT to Elephant and Castle as a place, but to a BROTHEL called The Elephant (or The Elephant and Castle). The "rest" is not rest — it's sex. This is an insider reference: those who know Southwark's history understand that "The Elephant" was a bawdy house, part of the South Bank's intertwined entertainment and sex trade. Shakespeare performed at the Globe in Southwark — he knew exactly what The Elephant was.
+
+**Function in story:** This reference connects the Old Gang's world directly to Shakespeare's. The South Bank of the Old Gang's era — theatre AND prostitution, entertainment AND exploitation — is the SAME South Bank Shakespeare wrote about, two centuries earlier. The pattern is ancient. Everyone who knows giggles at the reference. Everyone who doesn't thinks it means a pub.
+
+### The South Bank Historical Season — Hiding in Plain Sight
+During the story, the South Bank is hosting a historical/theatrical season — a festival celebrating the area's theatrical heritage. Actors, re-enactors, and performers walk the South Bank in period costume. Elizabethan, Jacobean, Georgian, Victorian — figures from every era of the South Bank's history, walking among tourists and theatergoers.
+
+**Function in story:** This creates the ultimate atmospheric cover. The Old Gang — actual dead Victorians — walk among actors DRESSED as Victorians. They are indistinguishable. The performers are pretending to be from the past. The Old Gang ARE from the past. Sarah walks along the river during the festival and cannot tell who is performing and who is real. The tourists laugh and take photos. The Old Gang walk among them, unseen for what they are, hiding in plain sight inside a historical re-enactment of their own era.
+
+This is the story's central irony made literal: the past walking among people who think it's entertainment. The dead treated as performers. History consumed as costume.
+
+### The River Walk — Sarah's Atmospheric Scene
+Sarah walks along the South Bank during the historical season. The river on one side — the same river the Old Gang drank from, the same river that was an open sewer. Performers in period costume on the other side. And among them, figures who are too cold, too quiet, too REAL. She can't tell. The reader can't tell. The boundary between performance and reality dissolves.
+
+The connection with the river is critical: Sarah is always drawn to the Thames. Her father's body is in the ground that the river borders. The Old Gang's relationship with the river is intimate — they drank from it, washed in it, scavenged from it. Walking the South Bank, Sarah is walking the geography of the dead.
+
 ### The Old Gang and Race
 Victorian rookeries were mixed — poverty was the leveller. Old Gang don't see racial colour. Their prejudices run on class/territory. Mixed-race gang without racial hierarchy confuses all modern frameworks.
 

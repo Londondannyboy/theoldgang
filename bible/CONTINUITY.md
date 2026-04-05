@@ -43,6 +43,9 @@
 - The White Youth confronts and overcomes the Fagin — the abused child breaks free
 - After the Fagin's defeat, the Old Gang stands alone — no longer anyone's tools
 - The Fagin retreats to the True Old Gang after being defeated by the White Youth
+- The Actor is a young method actor seeking the Old Gang for authentic performance research
+- The Actor goes in character among the Old Gang — performing the past while they live it
+- The Actor is the inverse of the Old Gang: alive, wanting to inhabit death; they are dead, wanting life
 
 ### Setting
 - Police station is in Elephant and Castle
@@ -105,6 +108,11 @@
 - This is WHY Sarah can see what others can't — she's connected through blood and burial
 - The Corrupt Policeman's cover-up (burying the body there) is the catalyst that creates the connection
 - As excavation disturbs the grave more, Sarah's connection strengthens
+- Old Gang CANNOT hear recorded sound — only live. Recording devices in police station are meaningless.
+- Old Gang hear live music as ecstatic — buskers, street musicians, pub singers
+- The wireless radio works because it's live broadcast — recordings don't register
+- Shakespeare's "to the Elephant you shall rest" (Twelfth Night) refers to a brothel, not E&C the place
+- South Bank historical/theatrical season creates cover — Old Gang walk among actors in period costume
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -145,6 +153,11 @@
 - Hooligan family pub fight at Prince of Wales — Irish-Cockney chaos
 - Custody scene: "What's your surname?" "Hooligan." Policeman laughs. "Have you heard of us?"
 - Victor rides horse from Loughborough Junction through estates, across walkways, into Old Gang territory
+- Sarah walks the South Bank during historical season — can't tell performers from actual Old Gang
+- Old Gang among costumed actors on the South Bank — hiding in plain sight as "performers"
+- The Actor encountering the Old Gang — possibly at the Globe — realising they're not acting
+- Old Gang transfixed by a busker — the only music they can hear — modern people walk past
+- Police interview: Old Gang member doesn't register the recording device — it's invisible and inaudible to them
 
 ## Established Facts (Novel)
 *No chapters written yet.*
