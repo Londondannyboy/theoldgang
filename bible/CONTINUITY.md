@@ -5,7 +5,12 @@
 ### Characters
 - Sarah is a young junior detective (DC level)
 - Sarah is well brought up / middle-class but father was from working-class estate
-- Sarah's father was a policeman, wrongfully convicted of fraud, killed himself
+- Sarah's father was a policeman, wrongfully convicted of fraud — official story was suicide
+- Sarah's father was MURDERED — not suicide — body never found — buried in unconsecrated ground
+- Sarah's father is brought back by the same drills that wake the Old Gang
+- Sarah literally meets her dead father — the Seventh Seal conversation is REAL
+- Sarah's father is Old Gang by circumstance — buried in their ground by institutional corruption
+- The Corrupt Policeman didn't just cover up wrongful conviction — he murdered Sarah's father
 - Officers involved in wrongful conviction still serve at her station
 - The Corrupt Policeman is Old Gang by family lineage — not supernatural
 - The Corrupt Policeman was involved in Sarah's father's wrongful conviction
@@ -67,6 +72,10 @@
 - The wake (noise around the dead) is the mechanism — construction wakes them
 - Street gang and City gang know each other — ancient feudal relationship
 - The Ginger Urchin is the emissary between street and City gang
+- The True Old Gang's modern face = offshore property/financial exploitation
+- Same exploitation pattern globalised — workers dying building developments in Middle East
+- Victorian exploitation didn't end — it moved offshore, out of sight
+- The modern City already does exactly what the True Old Gang did — they just resume
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -91,6 +100,9 @@
 - Excavation at Southwark Bridge reveals prostitutes' grave
 - Famous figures (Chaplin, Faraday, Babbage) potentially returning / dismissed
 - Body trafficked by Necropolis Railway route from Waterloo
+- Sarah meets her dead father — returned from the ground — the Seventh Seal conversation
+- Sarah's father tells her the truth: murdered, not suicide, buried by the Corrupt Policeman
+- Sarah says goodbye to her father — the emotional climax of Book 1
 
 ## Established Facts (Novel)
 *No chapters written yet.*

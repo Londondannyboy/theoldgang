@@ -5,9 +5,17 @@
 **Options:** (a) Fully supernatural (b) Ambiguous (c) Magical realism
 **Affects:** Everything — tone, genre, scope
 
-### TBD — Sarah's Father
-**Decision:** Full story of wrongful conviction and suicide — specifics needed.
-**Affects:** Personal arc, police station politics, thematic connection
+### RESOLVED — Sarah's Father
+**Decision:** Sarah's father was NOT a suicide. He was MURDERED. His body was never found. He was buried — in the same unconsecrated ground that the regeneration is now drilling into. The official story was suicide, but it was a cover-up by the Corrupt Policeman and the institutional chain. When the drills disturb the ground, they bring him back — just like the Old Gang. Sarah's journey toward her father is not metaphorical. She literally meets him. The Seventh Seal conversation is REAL — Sarah sits with her dead father, returned from the grave, having the conversation they never had. This is the emotional climax of Book 1.
+**Affects:** The entire personal subplot. The ending. The Seventh Seal concept. The relationship between Sarah and the Old Gang (her father IS one of them now). The Corrupt Policeman's crime escalates from cover-up to murder.
+
+### RESOLVED — Point of View
+**Decision:** Third person limited, rotating. Sarah is primary POV (~70%). Select chapters from the Camberwell Man, Young Diamond Anne, and possibly modern gangs. This allows the Old Gang to be developed as characters the reader cares about independently of Sarah's investigation.
+**Affects:** Structure, chapter allocation, whose interiority we access.
+
+### RESOLVED — Book 1 Ending
+**Decision:** Book 1 ends with the drill scene as cliffhanger (True Old Gang awakening) BUT with Sarah's father story resolved — she has met him, had the conversation, said goodbye. Emotional resolution, narrative hunger. The street gang have gone from threat to uneasy allies. Diamond Anne has transformed. Camberwell Man has accepted. And something worse is coming out of the ground.
+**Affects:** Pacing, final chapters, what's saved for Book 2.
 
 ### TBD — The True Old Gang
 **Decision:** Full nature/scope of East India Company-type City corruption.
@@ -97,3 +105,7 @@ Does he KNOW he's Old Gang? Options: (a) Conscious inheritor (b) Just "how thing
 
 ### TBD — City Gang Figure in Members' Club
 Needs specific character — embodies old City wealth. Courteous, powerful, exploitative in a way that feels like partnership.
+
+### RESOLVED — The True Old Gang's Modern Face
+**Decision:** The True Old Gang's modern motivation is offshore financial exploitation through property and commercial investment. The same exploitation pattern as Victorian London — workers dying, communities destroyed, lives treated as expendable — but now globalised. Developments in the Middle East built by subcontinent workers dying in extreme conditions. Property investment dressed up in branding. The exploitation of children and people hasn't stopped — it's just moved out of sight, offshore, into countries where the deaths don't make British newspapers. The True Old Gang don't need to adapt their methods. The modern City already does exactly what they did. They just need to walk in and resume.
+**Affects:** The True Old Gang's characterisation, the thematic climax, the connection between Victorian exploitation and modern global capitalism, Book 2's scope.

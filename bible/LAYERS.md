@@ -93,7 +93,7 @@ The Old Gang's hatred of suicide (they've been dead, they know the grave) create
 
 The Old Gang returning isn't just a threat — it's a reunion. The old world coming back isn't just dangerous — it's a homecoming. Sarah is polished, modern. But her father was from the estate. She is going back to where she came from, through the dead.
 
-**For the ending:** The resolution cannot simply be "Sarah defeats the Old Gang." It must be "Sarah says goodbye to her father." The investigation and the personal journey converge. The climax is a conversation with death.
+**For the ending:** Sarah's father was murdered, not a suicide. His body was buried in unconsecrated ground by the Corrupt Policeman. The regeneration drills bring him back — just like the Old Gang. Sarah literally meets her dead father. The Seventh Seal conversation is REAL. He tells her the truth. She says goodbye. The emotional climax is not "Sarah defeats the Old Gang" — it is "Sarah finds her father, learns the truth, and lets him go." Death got closer to life. Life got closer to death. They met. And then Sarah walks forward.
 
 **For prose:** As the novel progresses, the boundary between living and dead blurs. Early chapters: clear distinction. Middle: the old police unit, the filing cabinets — Sarah's world is already half-old. Late: Sarah walks between worlds. The prose reflects this — quiet erosion of the boundary until the reader isn't sure which world they're in.
 

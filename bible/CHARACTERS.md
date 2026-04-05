@@ -199,11 +199,15 @@ Elephant has always had gangs — Forty Elephants (female, 1870s–1950s), Hooli
 
 ---
 
-### Sarah's Father (deceased)
-- **Role:** Background / driving force for personal subplot
-- **Background:** A policeman. Working-class, from the estate. Wrongfully convicted of fraud. Killed himself. Officers in Sarah's station were involved.
-- **Arc:** His story emerges through the old files in the police unit. Evidence of his innocence is in the filing cabinets.
-- **Open Question:** Does Sarah know about his history at this station when she arrives?
+### Sarah's Father — The Returned
+- **Role:** The emotional climax of Book 1
+- **Background:** A policeman. Working-class, from the estate. He was investigating corruption — the same institutional chain that the Corrupt Policeman represents. He got too close. He was MURDERED — not suicide. His body was never found. The official story was suicide: a disgraced officer who couldn't face his wrongful fraud conviction. But the fraud conviction was fabricated to discredit him, and the "suicide" was a murder to silence him. His body was buried in unconsecrated ground — the same ground the regeneration is now drilling into.
+- **The Return:** When the drills disturb the ground, they bring him back. Just like the Old Gang. Sarah's father walks out of the same earth that released the Victorian criminals. He is dead. He is cold. He is Old Gang — not by choice, not by era, but by burial. He was put in their ground by the same institutional corruption that has always put inconvenient people in the ground.
+- **The Seventh Seal Conversation:** Sarah meets her father. This is not metaphorical. She literally sits with him. A living daughter and her dead father, returned from the grave, having the conversation they never had. He can tell her the truth — he was murdered, not a suicide. He can tell her who did it. And she can say goodbye. This is the emotional climax of Book 1.
+- **The Old Gang's reaction:** The Old Gang find suicide abhorrent. When they discover Sarah's father DIDN'T kill himself — that he was murdered — their reaction shifts. He is one of them now. Not because he chose crime, but because the system buried him in their ground. He is Old Gang by circumstance, by injustice, by the corruption that has always used unconsecrated ground to hide its sins.
+- **Thematic weight:** Sarah has been moving toward death throughout the story. Her father has been brought back to life by the same mechanism that returned the Old Gang. They meet in the middle. Death gets closer to life. Life gets closer to death. The crossing is literal.
+- **Voice Notes:** [TBD — but he should sound like a man who has been in the ground. Not Victorian — modern, working-class, South London. But changed by death. Quieter. More certain. The way someone speaks when there's nothing left to lose.]
+- **Key Relationships:** Sarah (his daughter — the reunion is everything), the Corrupt Policeman (his murderer), the Old Gang (his accidental community in death)
 
 ---
 

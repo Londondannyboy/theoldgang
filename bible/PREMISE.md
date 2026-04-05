@@ -34,5 +34,10 @@ Gritty, atmospheric, grounded in the real Elephant and Castle — multicultural,
 ## Target Length
 70,000–90,000 words. Conceived as at least two books — Book 1 (street gang) and Book 2 (True Old Gang / City layer).
 
+## The True Old Gang's Modern Face — Offshore Exploitation
+The True Old Gang's corruption didn't stay in Victorian London. It went global. The modern version is offshore financial exploitation through property and commercial investment — developments in the Middle East built by subcontinent workers dying in extreme conditions. The same pattern: workers exploited, communities destroyed, lives expendable, profits extracted. The exploitation of children and people hasn't stopped — it's moved out of sight, into countries where the deaths don't make British newspapers. The True Old Gang don't need to learn new methods. The modern City already does exactly what they did. They just walk in and resume.
+
+This connects Victorian Southwark to modern Dubai, Victorian child labour to modern supply chain exploitation, Victorian slum landlords to modern offshore property developers. The class war didn't end. It got a passport.
+
 ## Sequel Potential (Book 2 / Series 2)
-The True Old Gang fully operational. City-layer criminals including Ignatius Sancho loose in modern London. Sarah, estranged from police, allied with community and the Camberwell Man, confronts institutional corruption that has been running for centuries. The drill scene at Southwark Bridge is the hinge between books.
+The True Old Gang fully operational. Their offshore exploitation network exposed. Ignatius Sancho and City-layer criminals loose in modern London. Sarah, estranged from police, allied with community and the Camberwell Man, confronts institutional corruption that operates globally. The Avenger is embedded inside. The drill scene at Southwark Bridge is the hinge between books.
