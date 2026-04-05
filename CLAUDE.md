@@ -52,3 +52,31 @@ This story had no prior written documentation — it lived entirely in the autho
 
 ## Commit Convention
 - `scaffold:` / `brief:` / `draft:` / `review:` / `revise:` / `accept:` / `bible:` / `continuity:` / `decision:`
+
+## Writing Workflow — How Chapters Are Produced
+
+### The Tag-Team Process
+1. **Claude Desktop** (Editorial Director) writes the chapter brief → commits to `outline/chapters/chXX-brief.md`
+2. **Claude Code** (Writer) reads CLAUDE.md, the relevant bible files, and the chapter brief → writes the chapter → saves to `drafts/chXX-draft.md`
+3. **Claude Desktop** reviews the draft, provides notes → saved to `review/notes/chXX-review.md`
+4. **Claude Code** revises based on notes → saves as `drafts/chXX-draft-v2.md`
+5. When approved, **Claude Code** copies to `manuscript/chXX.md` and updates `bible/CONTINUITY.md` with new facts
+
+### Context Management
+- **CLAUDE.md** = master orientation (read first, every session)
+- **bible/CHARACTERS.md** = all characters (read before writing any chapter)
+- **bible/STYLE_GUIDE.md** = voice, tone, POV rules (read before writing)
+- **bible/CONTINUITY.md** = established facts (read before writing, update after)
+- **outline/STRUCTURE.md** = full 28-chapter outline (reference for pacing and placement)
+- **outline/chapters/chXX-brief.md** = specific chapter instructions (the "ticket")
+- Each chapter brief specifies WHICH bible files are most relevant for that chapter
+
+### What Gets Updated After Each Chapter
+- `bible/CONTINUITY.md` — add any new facts established in the chapter
+- `outline/STRUCTURE.md` — mark chapter as drafted/revised/accepted
+- `CLAUDE.md` — update "Current Status" section below if needed
+
+### Current Status
+- **Last completed:** None — Chapter 1 brief ready to write
+- **Next up:** Chapter 1 draft
+- **Open decisions affecting next chapter:** None — Chapter 1 is straightforward setup
