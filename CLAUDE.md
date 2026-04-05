@@ -62,6 +62,21 @@ This story had no prior written documentation — it lived entirely in the autho
 4. **Claude Code** revises based on notes → saves as `drafts/chXX-draft-v2.md`
 5. When approved, **Claude Code** copies to `manuscript/chXX.md` and updates `bible/CONTINUITY.md` with new facts
 
+### Version Naming Convention
+Each chapter goes through a clear versioning process. Files sit side by side in `drafts/` so versions can be compared:
+
+- `chXX-draft.md` — **v1.0 Claude Code** — first draft from brief
+- `chXX-draft-v2.md` — **v1.1 Claude Code** — revision from editorial review notes
+- `chXX-draft-v3.md` — **v1.2 Claude Code** — further revision if needed
+- `chXX-draft-dan.md` — **Dan's version** — author's own pass (polish, rewrite, or hybrid)
+- `manuscript/chXX.md` — **Accepted final** — whichever version is approved
+
+**Rules:**
+- Never delete earlier drafts — they stay in `drafts/` for comparison
+- The git history always shows: what Claude Code produced, what Dan changed, what was accepted
+- Only the author (Dan) or the Editorial Director (Claude Desktop) can approve a chapter into `manuscript/`
+- Review notes from the Editorial Director go into `review/notes/chXX-review.md`
+
 ### Context Management
 - **CLAUDE.md** = master orientation (read first, every session)
 - **bible/CHARACTERS.md** = all characters (read before writing any chapter)
