@@ -28,6 +28,10 @@
 - The Elsbury Estate Skinhead may or may not be supernatural — the ambiguity is the point
 - The Camberwell Man is involved in community work (town hall, gentrification meetings) before his revelation
 - The Camberwell Man walks out of a community meeting to find the Old Gang standing across the street staring
+- Marcus is the modern gang leader of Elephant — smart, trying to go legitimate
+- Marcus is ABSORBED into the Old Gang through combat — equals them, becomes their living leader
+- Marcus becomes the Old Gang's top boy — a living man leading a dead gang
+- Marcus's arc parallels Diamond Anne and Camberwell Man — the inevitability of circumstance
 
 ### Setting
 - Police station is in Elephant and Castle

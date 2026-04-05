@@ -119,5 +119,15 @@ Needs specific character — embodies old City wealth. Courteous, powerful, expl
 **Reasoning:** It works best early-to-mid story (Part 1 or early Part 2) when Sarah is still unsure what's real. By late story, the supernatural is confirmed — the ambiguity scenes lose power.
 **Affects:** Pacing, when the reader's uncertainty peaks
 
+### TBD — Marcus's Nightclub Scene Placement
+**Decision:** TO BE DECIDED — does the nightclub scene (White Youth) become part of Marcus's introduction? Option (c) allows the nightclub scene to be part of a larger territorial confrontation.
+**Affects:** Pacing, chapter count, how much space Marcus gets
+
+### RESOLVED — Marcus's Arc: Absorbed into the Old Gang
+**Decision:** Marcus does NOT remain a separate modern gang leader. He is ABSORBED into the Old Gang through circumstance. He fights to protect someone in his gang against the Old Gang — and he EQUALS them. The Old Gang see someone who matches them for the first time in the modern world. Marcus discovers he belongs with them. He becomes the Old Gang's leader — the top boy — because he's the only living person who can stand in their world.
+**The parallel:** Just like Diamond Anne tried not to be Old Gang and was forced into it. Just like the Camberwell Man tried to be alive and was already dead. Marcus tried to be the one who got out — built a legitimate operation, the smart gangster, the businessman. And the Old Gang pulled him back in. "Just when I thought I was out, they pull me back in." The inevitability of circumstance. The system creates the same people, century after century.
+**What this means:** Marcus is the MODERN Old Gang. He is the living proof that the conditions haven't changed — that Elephant still produces the same people the rookeries did. He becomes their leader not because he chose it but because the world made him. Same as Diamond Anne. Same as all of them.
+**Affects:** Marcus's entire arc, the Old Gang's leadership question (RESOLVED — Marcus leads), the turf clash scene (transforms from confrontation to recruitment), Book 2 (Marcus as living leader of a dead gang)
+
 ### NOTED — Camberwell Man Clarification
 The community hall scene (walking out to find Old Gang staring across the street) is the CAMBERWELL MAN, not Marcus. The Camberwell Man is the one straddling community activism and the supernatural pull. Marcus is the modern gang leader who gets absorbed into the Old Gang through combat. Both men try to protect the community. Both are pulled into the Old Gang. But by different routes: the Camberwell Man by revelation (he was always dead), Marcus by circumstance (he fights and is absorbed).

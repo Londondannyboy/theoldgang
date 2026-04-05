@@ -247,10 +247,23 @@ Elephant has always had gangs — Forty Elephants (female, 1870s–1950s), Hooli
 
 ---
 
+### Marcus — Modern Gang Leader / The Living Top Boy
+- **Role:** Major supporting — becomes the Old Gang's living leader
+- **Background:** The top boy of the modern Elephant gang. Smart, strategic, trying to go legitimate. The businessman gangster — the one who was supposed to get out. He's built something real: a legitimate operation, community respect, the smart version of the game. He protects his people. He fights for the community. He is NOT a Victorian — he is entirely modern.
+- **The Absorption:** Marcus fights to protect one of his crew against an Old Gang member. He is the first modern person to EQUAL an Old Gang member in combat — matching their fearlessness, their intensity, their refusal to stop. The Old Gang see this. They recognise one of their own — not by era, but by nature.
+- **The Pull:** Marcus tries to walk away. He's the smart one. The businessman. The one who was going to get out. But he can't escape. He's been pulled in — just like Diamond Anne, just like the Camberwell Man — by the inevitability of who he is in this place. Elephant creates the same people, century after century. Marcus is the modern version of the Old Gang's original leader. He just didn't know it.
+- **Top Boy:** Marcus becomes the Old Gang's leader. Not their Victorian leader — their NOW leader. A living man leading a dead gang. The only person who can bridge both worlds because he belongs to both. He has modern knowledge, modern tactics, modern connections. They have fearlessness, Old Gang honour, and the supernatural reality of being beyond death. Together, they are something new.
+- **The Godfather III:** "Just when I thought I was out, they pull me back in." Marcus's entire arc is the inevitability of circumstance. He is the story's proof that the conditions that created the Old Gang still exist. The system hasn't changed. The rookeries became estates. The estates became construction sites. And the people the system produces are the same.
+- **This resolves the leadership question:** The Old Gang were leaderless when they reformed (survival instinct, not hierarchy). The Fagin tried to lead them and was rejected (the old hierarchy). Diamond Anne became a figure of authority after her transformation. But Marcus — the living leader, the modern top boy absorbed by circumstance — is the one who ultimately leads them. A living man leading the dead against the True Old Gang. That's Book 2's premise.
+- **Voice Notes:** [TBD — modern South London, educated in the streets, articulate. The register of someone who has learned to code-switch between the estate and the boardroom.]
+
+---
+
 ### Modern Gangs
 - **Role:** Supporting / world-building
 - **Function:** Black, modern, contemporary gangs of Elephant. In a key scene, they describe a rival gang as "dead" — police interpret as slang, but they literally mean it. They KNOW the Old Gang are not alive. They are more frightened than anyone because they share the streets.
 - **The distinction:** Modern violence has rules, hierarchy, territory logic. Old Gang violence is on a different scale — casual, extreme, Victorian.
+- **Marcus's gang:** Led by Marcus — the smart gangster trying to go legitimate. His crew are the first to encounter the Old Gang and understand what they are. When Marcus is absorbed into the Old Gang, his modern crew must decide: follow their leader into the supernatural, or break away.
 
 ---
 
