@@ -119,6 +119,8 @@
 - The wireless radio works because it's live broadcast — recordings don't register
 - Shakespeare's "to the Elephant you shall rest" (Twelfth Night) refers to a brothel, not E&C the place
 - South Bank historical/theatrical season creates cover — Old Gang walk among actors in period costume
+- True Old Gang is Book 2 — Book 1 seeds but does not develop them
+- Book 1 ending image: fingers with beautiful rings moving in the earth at Southwark Bridge
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -168,6 +170,7 @@
 - Ginger Urchin on stage — speaks authentically Victorian — audience stunned — "greatest method actor"
 - The line to audience/camera: "All of life is but a play, and I am but an actor in that play"
 - Ginger Urchin and the Actor becoming friends — the pretender and the real thing
+- Final image: fingers with rings moving in disturbed earth at Southwark Bridge — True Old Gang stirring
 
 ## Established Facts (Novel)
 *No chapters written yet.*

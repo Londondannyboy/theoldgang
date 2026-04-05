@@ -43,3 +43,6 @@ The oldest thing in the city. A meeting point older than any institution. Where 
 Gangsters are the biggest role players in real life — street names, codes, personas, territory as stage. The theatre is not separate from the gang world. It IS the gang world, formalised. Shakespeare knew this — he put his theatre in Southwark, among the brothels and the criminals, because entertainment and crime were the same business.
 
 The Ginger Urchin on stage is the moment the story acknowledges its own nature: this is all performance. The only question is who knows they're performing and who doesn't.
+
+## The Drill Scene Ending Image
+The final image of Book 1: in the disturbed earth at Southwark Bridge, fingers with beautiful rings begin to move. Not faces — fingers. Not named characters — jewellery. The wealthy dead. The powerful dead. The True Old Gang, stirring. Book 2's promise in a single image.

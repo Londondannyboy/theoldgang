@@ -2,7 +2,7 @@
 
 ## POV: Third person limited, rotating
 - **Sarah** — primary (~70%)
-- **The Camberwell Man** — secondary
+- **Victor (formerly Marcus / the Camberwell Man)** — secondary
 - **Young Diamond Anne** — secondary
 - **Other** — occasional (modern gangs, Old Gang members)
 
@@ -41,13 +41,12 @@
 - "They don't cross this line. They don't go this way." Police hear postcode territory. It's something else.
 - End on: one of the gang members, off the record, says something Sarah can't unhear: "They're not alive."
 
-### Chapter 5 — The Camberwell Man (Camberwell Man POV)
+### Chapter 5 — Victor (Victor POV)
 - First POV chapter away from Sarah
-- A young black man in Camberwell — heading up a modern gang, living the life
-- But something is wrong. He's always cold. People comment on it. He explains it away.
-- The other Old Gang members — he doesn't know them yet — seem to appear on the same streets. He recognises behaviour, not faces. The way someone watches a room. The way someone checks exits.
-- He's drawn to Elephant and Castle — not his patch, but something pulls him there
-- End on: he walks past the construction site where the grave was disturbed. He feels something. He doesn't know what.
+- Victor (known as Marcus) in Myatt's Field — heading up a modern gang, community work at the horse project under the Loughborough Junction railway arches, involved in anti-gentrification meetings
+- But something is wrong. He's always cold. People comment. He explains it away.
+- Drawn to Elephant — not his patch, but something pulls him there. Crosses the gang territorial boundary without understanding why.
+- End on: walks past the construction site where the grave was disturbed. Feels something. Doesn't know what.
 
 ### Chapter 6 — Kennish Man and the Pub (Sarah POV)
 - A pub fight is reported — "Are you a man of Kent or a Kentish man?"
@@ -67,13 +66,11 @@
 - End on: Diamond Anne in sunlight outside the Camden Lock market, face turned up, eyes closed. Ecstatic. Worshipping warmth on dead skin.
 
 ### Chapter 8 — The Custody Scene (Sarah POV)
-- The White Youth is brought into custody — arrested after an incident of extreme violence
-- In the interview room, he doesn't acknowledge the cameras. His eyes slide past the TV screen.
-- Sarah reviews the footage later. She freezes it. His eyes never once track to any screen in the room.
-- She brings it to her DCI. Dismissed.
-- Then the blood test comes back. The medical officer calls Sarah. "This is... I need you to see this."
-- **The blood test: "This person is dead."**
-- End on: Sarah standing in the corridor, holding the printout. Her colleagues walk past. Nobody notices her face.
+- The White Youth in custody — extreme violence incident
+- In the interview room: doesn't acknowledge cameras. Eyes slide past the TV screen. Doesn't register the recording device — it's invisible and inaudible to him.
+- Sarah reviews footage. His eyes never track to any screen.
+- Blood test comes back. "This person is dead."
+- End on: Sarah in the corridor, holding the printout. Nobody notices her face.
 
 ### Chapter 9 — The Banishment (Sarah POV)
 - Sarah presents her accumulated evidence — the anomalies, the cold, the custody footage, the blood test
@@ -97,13 +94,12 @@
 - She predicts where the next crime will happen. She's right.
 - End on: Sarah in the old unit, the Victorian map and the modern data side by side. The room is silent. She is the only person who sees this.
 
-### Chapter 11 — The Old Gang Reform (Camberwell Man POV)
-- The Old Gang finding each other on the Booth streets
-- Not recognition — instinct. Gravitating to corners, to doorways, to the rhythm of a street they know
-- The Ginger Urchin appears. Then the White Youth. Then a girl — sweet, quiet, cold.
-- They don't talk much. They don't need to. They fall into formation the way a pack does.
-- The Camberwell Man watches from across the street. He feels drawn. He doesn't go over. Not yet.
-- End on: the five of them standing on a corner. Not talking. Not moving. Just... there. The beginning of the Old Gang.
+### Chapter 11 — The Old Gang Reform (Victor POV)
+- The Old Gang finding each other on the Booth streets. Not recognition — instinct.
+- The Ginger Urchin. The White Youth. A sweet, quiet, cold girl.
+- They fall into formation the way a pack does.
+- Victor watches from across the street. Drawn. Doesn't go over. Not yet.
+- End on: five of them on a corner. Not talking. Not moving. Just there.
 
 ### Chapter 12 — The School of Thieves (Sarah POV)
 - Sarah follows a lead from the old files — a location that appears in both Victorian records and modern reports
@@ -148,14 +144,14 @@
 - And the suicide report. Inconsistencies. No body ever found.
 - End on: footsteps behind her. She turns. The Corrupt Policeman is standing in the doorway. "I told you this unit was no good for you."
 
-### Chapter 17 — The Fagin Returns (Old Gang POV — could be Ginger Urchin)
-- The Old Gang on their Booth streets — settling in, asserting territory, doing what gangs do
-- Then: a figure appears. Older. An adult. He looks at them with the certainty of ownership.
-- The Fagin. He's back. He expects the old hierarchy — he ran them before, he'll run them again.
-- The Old Gang freeze. For a moment, they ARE children again. The pattern asserts itself.
-- Then one of them — possibly the Camberwell Man, possibly Diamond Anne pre-transformation — says no.
-- The refusal is quiet but absolute. They are not his anymore.
-- End on: the Fagin, rejected, watching them walk away. His face shifts. He knows where else to go. He looks toward the City.
+### Chapter 17 — The Fagin Returns (Ginger Urchin POV)
+- Old Gang on their Booth streets. A figure appears. Older. Adult. Certainty of ownership.
+- The Fagin. Expects the old hierarchy.
+- The Old Gang freeze. For a moment, children again.
+- The White Youth's reaction is the most intense — terror and rage. The abused child facing his abuser.
+- Refusal. Quiet but absolute. They are not his anymore.
+- The White Youth overcomes the Fagin — breaks the cycle. The abused child refuses to be controlled.
+- End on: the Fagin retreats. Looks toward the City. He knows where else to go.
 
 ### Chapter 18 — The Transformation (Diamond Anne POV)
 - Diamond Anne and the Goth Girl in Elephant — back from Camden, on home turf
@@ -173,7 +169,7 @@
 - Their confrontation. He doesn't deny it — not directly. He speaks in the language of institutional power: "Some things are better left buried."
 - Sarah: "Like my father?"
 - He is Old Gang. Not dead. Not supernatural. The chain. The family. The corruption inherited through generations. He IS the system.
-- Sarah is now completely isolated from the institution. But she has the community. She has the old women. She has the Camberwell Man.
+- Sarah is now completely isolated from the institution. But she has the community. She has the old women. She has Victor.
 - End on: Sarah leaves the station. She doesn't know if she'll come back. She walks toward Elephant. Toward the old world. Toward her father.
 
 ---
@@ -182,19 +178,16 @@
 *The alliance forms. Sarah's father returns. The True Old Gang stirs. Book 1 closes.*
 
 ### Chapter 20 — The Alliance (Sarah POV)
-- Sarah meets with the Camberwell Man — properly, openly, as allies
-- She tells him about her father. About the Corrupt Policeman. About what she's found.
-- The Camberwell Man understands. He has been dead his whole life without knowing it. He knows about systems that bury people.
-- They discuss the Booth map, the pattern, the True Old Gang — the deeper layer
-- Sarah realises: the street gang Old Gang could be allies. They are Elephant's own. The True Old Gang exploited them too.
-- End on: the Camberwell Man says something about Sarah's father — about the ground, about what comes back. He knows something she doesn't yet.
+- Sarah meets Victor properly. Allies.
+- She tells him about her father, the Corrupt Policeman, what she's found.
+- They discuss the Booth map, the True Old Gang.
+- End on: Victor says something about the ground, about what comes back.
 
-### Chapter 21 — The Camberwell Man's Revelation (Camberwell Man POV)
-- The straw at Traitor's Gate didn't matter. He was never going to drown.
-- He has always been dead. His whole modern life — the gang, the respect, the streets — was a surface.
-- Grief. Then acceptance. Then: liberation.
-- He IS the Old Gang. And with that comes purpose.
-- **The Brixton Horse Scene:** He gets on a horse. Rides through the estate. "I'm Old Gang." A dead man on a living horse.
+### Chapter 21 — Victor's Revelation (Victor POV)
+- The straw at Traitor's Gate didn't matter. Always been dead.
+- Grief. Acceptance. Liberation. He IS the Old Gang.
+- Drops "Marcus." Reclaims his name. **"Call me Victor."**
+- The horse ride: Loughborough Junction → through estates → across walkways → into Elephant. "I'm Old Gang."
 - End on: "Old Gang. Boom."
 
 ### Chapter 22 — Diamond Anne Joins (Diamond Anne POV)
@@ -253,20 +246,21 @@
 - Coffin lids opening. Slowly. Methodically. Like waking from sleep.
 - The noise — the wake. The loudest wake in history.
 - The street gang Old Gang watch from across the river. They know what's coming.
-- The Camberwell Man: "Old Gang."
-- Diamond Anne: silence.
+- Victor: "Old Gang." Diamond Anne: silence.
 - The Avenger, inside the City, receives a message. The True Old Gang are coming. His mission begins.
-- End on: the final image — figures rising from the earth at Southwark Bridge. The True Old Gang. The money that was supposed to bury the past is the money that brought it back.
+- End on: in the disturbed earth at Southwark Bridge — fingers with beautiful rings begin to move. The wealthy dead. The powerful dead. The True Old Gang, stirring. The money that was supposed to bury the past is the money that brought it back.
 
 **THE OLD GANG — BOOK ONE**
 
 ---
 
-## Book 2 Setup (seeded in Book 1)
+## Book 2 Setup (seeded throughout Book 1)
+- The True Old Gang is BOOK 2's story — NOT developed in Book 1 beyond the seeding
 - The Avenger embedded in the True Old Gang
-- Ignatius Sancho's first appearance (possibly a glimpse in Chapter 28)
-- The offshore exploitation thread established
-- Sarah allied with community, Camberwell Man, Diamond Anne
-- Sarah's father as ongoing presence / advisor from death
-- The Corrupt Policeman exposed but not yet brought to justice
-- The Globe Theatre scene (could be Book 1 or early Book 2 — TBD)
+- Ignatius Sancho (first glimpse: fingers with rings in the final image)
+- Offshore exploitation thread established
+- Sarah allied with community, Victor, Diamond Anne
+- Sarah's father as ongoing presence
+- The Corrupt Policeman exposed but not brought to justice
+- The Globe Theatre scene saved for Book 2
+- The True Old Gang = a whole new narrative requiring its own full development

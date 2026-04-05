@@ -205,6 +205,9 @@ Sarah walks along the South Bank during the historical season. The river on one 
 
 The connection with the river is critical: Sarah is always drawn to the Thames. Her father's body is in the ground that the river borders. The Old Gang's relationship with the river is intimate — they drank from it, washed in it, scavenged from it. Walking the South Bank, Sarah is walking the geography of the dead.
 
+### Audio Rules
+The Old Gang cannot hear recorded sound — only live. Recording devices in the police station are meaningless. Live music (buskers, bands, theatre) is ecstatic. The recorded world is silence.
+
 ### The Old Gang and Race
 Victorian rookeries were mixed — poverty was the leveller. Old Gang don't see racial colour. Their prejudices run on class/territory. Mixed-race gang without racial hierarchy confuses all modern frameworks.
 

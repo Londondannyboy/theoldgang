@@ -158,3 +158,7 @@ The community hall scene (walking out to find Old Gang staring across the street
 **Options:** (a) Book 1, Part 2 or 3 — the Old Gang experience theatre for the first time (b) Book 2 — saved for when the full scope of the story opens up (c) Book 1, connected to the South Bank festival — the festival gives them access
 **Reasoning:** The Globe scene is one of the most emotionally powerful in the story. Placing it in Book 1 gives Book 1 more heart. Placing it in Book 2 gives Book 2 a signature moment. The South Bank festival (if in Book 1) provides a natural reason for the Globe to be active and accessible.
 **Affects:** Book 1's emotional range, Book 2's set-pieces, the Actor's role
+
+### RESOLVED — The True Old Gang Is Book 2
+**Decision:** The True Old Gang is NOT developed in Book 1 beyond seeding. Book 1 is the street gang. Book 2 is the City gang. The drill scene is the hinge. The final image — fingers with beautiful rings — tells the reader who's coming without showing a face. Trying to develop them in Book 1 would dilute the street gang story, Sarah's father, and Diamond Anne's transformation.
+**Affects:** Book 1 scope, Book 2 planning, what gets saved
