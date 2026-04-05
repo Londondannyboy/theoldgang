@@ -12,6 +12,8 @@
 - White youth in custody doesn't acknowledge cameras
 - Blood test: "This person is dead."
 - Sarah tells colleagues about real-world impossibilities (harmonica lad) — they laugh
+- The Elsbury Skinhead: Sarah sees a figure who looks like a 1970s skinhead — is he dead? Or an art student? She can't tell. The skinhead has an altercation with a Teddy Boy who might be a real 1950s return OR a modern person in fancy dress. Neither Sarah nor the reader can untangle what's old, what's new, what's dead, what's alive. The murky waters deepen.
+- The Kennish Man on the construction site: Sarah recognises him — the man from the pub fight is working on the regeneration. A dead labourer rebuilding the ground that woke him. The irony of regeneration made flesh.
 
 ## Layer 3: The Old Gang Is Real
 **What happens:** Evidence becomes undeniable. Literally dead Victorian criminals, brought back by demolition disturbing their unconsecrated grave. Cold. Clinically dead.

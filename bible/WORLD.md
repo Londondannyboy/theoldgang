@@ -15,6 +15,8 @@ Elephant and Castle is in the London Borough of Southwark, south of the Thames. 
 - Demolished/demolishing estates — construction sites where graves are disturbed
 - Old pubs — where Kennish Man picks fights
 - Local community spaces — where the older women gather
+- **The Elsbury Estate** — a real estate in Elephant and Castle, on the cusp of regeneration. The skinhead figure hangs about on its outskirts near a community gastropub. The estate represents the last of the old Elephant — about to be demolished, about to become new builds, about to erase another layer of the area's memory.
+- **The regeneration construction sites** — where the Kennish Man works. Cranes, hoardings, hard hats. The dead labourer rebuilding the ground he was buried in.
 
 ## The Old Police Unit
 Sarah's exile. A forgotten corner of the station:

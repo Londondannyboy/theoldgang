@@ -21,6 +21,13 @@
 - The Camberwell Man becomes "deadly angel" — wants to do good in dark Old Gang ways
 - Ignatius Sancho is True Old Gang — immaculately dressed, flamboyant, robbing the City
 - Sarah refuses to become part of the street gang Old Gang even when offered alliance
+- Kennish Man works as a builder/labourer on the regeneration construction site
+- Kennish Man is a dead Victorian labourer doing the same work on the site that disturbed his grave
+- The Fighting Priest is a real historical figure — bare-knuckle fought in pubs for conversions
+- Fighting Priest fights the Kennish Man — winner undecided
+- The Elsbury Estate Skinhead may or may not be supernatural — the ambiguity is the point
+- The Camberwell Man is involved in community work (town hall, gentrification meetings) before his revelation
+- The Camberwell Man walks out of a community meeting to find the Old Gang standing across the street staring
 
 ### Setting
 - Police station is in Elephant and Castle
@@ -40,6 +47,8 @@
 - Teddy Boy subculture invented in Elephant and Castle
 - Word "hooligan" from a real family in Elephant (1890s)
 - Elephant = origin point for Forty Elephants, Hooligans, Teddy Boys
+- The Elsbury Estate is a real estate in Elephant — on the cusp of regeneration
+- The regeneration construction sites are where the Kennish Man works in a hard hat and high-vis
 
 ### The Old Gang
 - They are literally dead — clinically dead on blood tests
@@ -103,6 +112,11 @@
 - Sarah meets her dead father — returned from the ground — the Seventh Seal conversation
 - Sarah's father tells her the truth: murdered, not suicide, buried by the Corrupt Policeman
 - Sarah says goodbye to her father — the emotional climax of Book 1
+- Sarah walks past construction site, sees the Kennish Man in a hard hat — recognises him from the pub fight
+- The Fighting Priest challenges someone in a modern gastropub to bare-knuckle fight for their soul
+- Fighting Priest vs Kennish Man — souls vs identity — winner undecided
+- The Elsbury Skinhead vs a Teddy Boy in fancy dress (or is it?) — Sarah cannot tell what's real
+- Camberwell Man exits community meeting, Old Gang standing silently across the street
 
 ## Established Facts (Novel)
 *No chapters written yet.*

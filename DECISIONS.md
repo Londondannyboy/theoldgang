@@ -109,3 +109,15 @@ Needs specific character — embodies old City wealth. Courteous, powerful, expl
 ### RESOLVED — The True Old Gang's Modern Face
 **Decision:** The True Old Gang's modern motivation is offshore financial exploitation through property and commercial investment. The same exploitation pattern as Victorian London — workers dying, communities destroyed, lives treated as expendable — but now globalised. Developments in the Middle East built by subcontinent workers dying in extreme conditions. Property investment dressed up in branding. The exploitation of children and people hasn't stopped — it's just moved out of sight, offshore, into countries where the deaths don't make British newspapers. The True Old Gang don't need to adapt their methods. The modern City already does exactly what they did. They just need to walk in and resume.
 **Affects:** The True Old Gang's characterisation, the thematic climax, the connection between Victorian exploitation and modern global capitalism, Book 2's scope.
+
+### TBD — The Fighting Priest's Real Identity
+**Decision:** TO BE DECIDED — which specific East End priest is this based on? Research needed to find the real historical figure and the street named after him.
+**Affects:** Historical authenticity, the character's specifics
+
+### TBD — The Skinhead/Teddy Boy Scene Placement
+**Decision:** TO BE DECIDED — where does this ambiguity scene sit in the chapter outline?
+**Reasoning:** It works best early-to-mid story (Part 1 or early Part 2) when Sarah is still unsure what's real. By late story, the supernatural is confirmed — the ambiguity scenes lose power.
+**Affects:** Pacing, when the reader's uncertainty peaks
+
+### NOTED — Camberwell Man Clarification
+The community hall scene (walking out to find Old Gang staring across the street) is the CAMBERWELL MAN, not Marcus. The Camberwell Man is the one straddling community activism and the supernatural pull. Marcus is the modern gang leader who gets absorbed into the Old Gang through combat. Both men try to protect the community. Both are pulled into the Old Gang. But by different routes: the Camberwell Man by revelation (he was always dead), Marcus by circumstance (he fights and is absorbed).

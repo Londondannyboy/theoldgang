@@ -149,6 +149,8 @@ Elephant has always had gangs — Forty Elephants (female, 1870s–1950s), Hooli
 - **The Revelation:** It didn't matter. He was never going to drown. He was always dead. The straw, the struggle — none of it was necessary. He was already what he feared becoming.
 - **The Transformation — Deadly Angel:** Acceptance = liberation. He "comes back to life" spiritually. He IS the Old Gang. With acceptance comes purpose — he wants to do good, but in twisted, dark, Old Gang ways. Becomes Sarah's most powerful ally against the True Old Gang.
 - **The Brixton Horse Scene:** A real place in Brixton — stables on a council estate, Afro-Caribbean community, kids riding horses. After his revelation, the Camberwell Man gets on a horse. Rides it through the estate. People confront him. He says: "I'm Old Gang." No violence. No threat. Just identity, claimed. A dead man on a living horse.
+- **The Community Scene:** Before his revelation, the Camberwell Man is involved in community life — attending meetings about gentrification, fighting for the community hall, the schools, the spaces that matter. He's trying to be the good version of himself — the one who gets out, who gives back, who uses his influence for the community rather than crime. Then he walks out of a town hall or community meeting — clipboard in hand, doing the right thing — and the Old Gang are just STANDING there across the street. Silent. Staring. Cold. The dead world and the live world, facing each other across a road. And he doesn't yet know which side he belongs to.
+- **The contradiction he shares with Marcus:** Both men are trying to protect a community while being entangled with the forces that harm it. The Camberwell Man's version is more acute because he IS the thing that threatens the community — he is Old Gang, he just doesn't know it yet. His community work is the living half of him trying to be good. The dead half is standing across the street, waiting.
 - **Arc:** Doesn't know he's dead → fights to survive → discovers truth → grief/acceptance → deadly angel → "He is the Old Gang. Old Gang. Boom."
 - **Voice Notes:** [TBD — shifts across arc. Before revelation: modern, alive. After: older, calmer, certain.]
 - **First Appearance:** Early-to-mid story. The revelation should come LATE.
@@ -160,10 +162,34 @@ Elephant has always had gangs — Forty Elephants (female, 1870s–1950s), Hooli
 
 ---
 
-### Kennish Man — Old Gang Associated
-- **Role:** Minor / atmospheric
-- **Concept:** Fights people in pubs based on "Are you a man of Kent or a Kentish man?" — a real historical distinction (east vs west of the Medway). His appearance = return of old pub violence.
-- **Key Scene:** Pub fight triggered by this question. Modern drinkers baffled. Sarah recognises it as historical.
+### Kennish Man — Old Gang Peripheral / The Builder
+- **Role:** Recurring minor character — atmospheric, but with a specific function in the story
+- **Concept:** Fights people in pubs based on "Are you a man of Kent or a Kentish man?" — a real historical distinction (people born east of the River Medway are "men of Kent"; west are "Kentish men"). This was once a serious matter of identity, serious enough to fight over. Modern drinkers are completely baffled by the question.
+- **Day Job:** He works as a builder — a labourer on the REGENERATION construction site. This is perfect for his character: a dead Victorian labourer, returned to life, doing the same manual work he did in his original life, on the very site that disturbed his grave. He works on the demolition and rebuilding of Elephant and Castle without anyone realising what he is. He's cold, he's strong, he doesn't complain. He's the perfect labourer. He just happens to be dead.
+- **Key Scene 1 — The Pub Fight:** Kennish Man in an Elephant pub. Turns to someone: "Are you a man of Kent or a Kentish man?" Complete bafflement. The question is deadly serious to him. A fight breaks out — disproportionate, intimate, Victorian. Sarah is called to investigate or witnesses it. She recognises the historical reference. Nobody else does.
+- **Key Scene 2 — The Construction Site:** Sarah walks past the regeneration construction site — the demolition, the cranes, the hoardings. She sees him. Working. In a hard hat, in a high-vis vest, doing manual labour. She recognises him. He's the Kennish Man. The man from the pub fight is working on the very regeneration project that brought the Old Gang back to life. He is literally rebuilding the ground he was buried in.
+- **Function:** The Kennish Man embodies the irony of regeneration — the dead labourer rebuilding the site that woke him. He also provides Sarah with a visible, trackable Old Gang member in the real world — someone she can observe, follow, build evidence from. And his pub fights are the atmospheric markers of the old world bleeding into the new.
+- **Voice Notes:** Blunt. Serious. The question about Kent is not banter to him — it's identity. He doesn't understand why people don't care.
+
+---
+
+### The Fighting Priest — Historical Echo
+- **Role:** Minor / atmospheric — a true historical character returning
+- **Historical basis:** A REAL priest in the East End of London (a street has been named after him) who would walk into pubs and challenge men to bare-knuckle fights. If HE won, they had to convert to Christianity and attend church. If THEY won, he would buy them a pint. This is a documented true story.
+- **In the story:** The Fighting Priest returns — a dead clergyman who walks into pubs in modern Elephant and Southwark and challenges people to fight for their souls. He is utterly sincere. He believes he is doing God's work. The violence is real but so is the faith. He is simultaneously terrifying and absurd — a Victorian priest bare-knuckle boxing in a modern gastropub.
+- **Key Scene — Priest vs Kennish Man:** At some point, the Fighting Priest meets the Kennish Man in a pub. Two dead men, two fighting traditions, two completely different reasons for violence. The Priest fights for souls. The Kennish Man fights for identity. They fight each other. The winner is undecided — because this isn't about winning. It's about two echoes of the past colliding, neither understanding the other, both deadly serious.
+- **Function:** The Fighting Priest adds to the story's range of historical echoes — not all the returning dead are criminals. Some are righteous (in their own terms). His existence complicates the Old Gang narrative: the unconsecrated graves didn't just release gangsters. They released an entire era. Priests, labourers, fighters, children — everyone who was buried without church blessing.
+- **Voice Notes:** Formal, ecclesiastical, but with the physical confidence of a man who fights. He speaks like a sermon and punches like a docker.
+
+---
+
+### The Elsbury Estate Skinhead — The Ambiguity Figure
+- **Role:** Minor / atmospheric — the scene that makes Sarah (and the reader) question everything
+- **Based on real observation:** A real person the author observed — a young guy, full skinhead look, immaculate, big red Dr. Martens boots. He hung about on the outskirts of the Elsbury Estate (a real estate in Elephant and Castle, soon to be regenerated) near a community gastropub. Outwardly he looked like a bother boy, a skinhead from the 1970s-80s. But he was almost certainly an art student. Modern. Alive. Just... dressed like the past.
+- **Function in the story:** This is the ambiguity scene. Sarah sees this figure and doesn't know: is he an Old Gang return? A skinhead from the 1970s brought back by the excavations? Or is he just a modern art student in vintage clothing, living his life, no supernatural element at all?
+- **Why this matters:** This scene is essential because it shows that Sarah's world has become so saturated with the old-bleeding-into-new that she can no longer tell what's real and what's coincidence. Is every anachronism supernatural? Or is London just... like this? The skinhead might be dead. He might be alive. The reader doesn't know either. And that uncertainty is the story's power.
+- **Key Scene — Skinhead vs Teddy Boy:** The skinhead (who may or may not be a return from the past) has an altercation with a Teddy Boy (who IS a return from the past — the 1950s echo). But here's the twist: the Teddy Boy might actually be a modern person going to a fancy dress party dressed as a Teddy Boy. So you have: a possible real skinhead fighting a possible real Teddy Boy, and NEITHER might be supernatural — or BOTH might be. Sarah witnesses it and cannot untangle what's old, what's new, what's dead, what's alive. The murky waters of past and future clashing around her.
+- **Thematic weight:** This is the scene that proves the story's thesis: the old world and the new are so intertwined that they're indistinguishable. You can't separate the dead from the living, the past from the present, the authentic from the performed. It was always like this. The Old Gang just made it visible.
 
 ---
 
