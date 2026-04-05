@@ -46,6 +46,12 @@
 - The Actor is a young method actor seeking the Old Gang for authentic performance research
 - The Actor goes in character among the Old Gang — performing the past while they live it
 - The Actor is the inverse of the Old Gang: alive, wanting to inhabit death; they are dead, wanting life
+- The Ginger Urchin has an artistic streak never realised in his Victorian life
+- The Urchin befriends actors during the South Bank theatrical season — accepted without judgment
+- Actors assume Urchin's Molecule 01 explains smell, his coldness is "method," his speech is rehearsed
+- The Urchin steps onto stage and speaks in actual Victorian terms — believed to be greatest method actor ever
+- The Urchin's line: "You, my friend — all of life is but a play, and I am but an actor in that play"
+- Performance is a central theme: everyone in the story plays roles — gangsters are the biggest role players
 
 ### Setting
 - Police station is in Elephant and Castle
@@ -158,6 +164,10 @@
 - The Actor encountering the Old Gang — possibly at the Globe — realising they're not acting
 - Old Gang transfixed by a busker — the only music they can hear — modern people walk past
 - Police interview: Old Gang member doesn't register the recording device — it's invisible and inaudible to them
+- Ginger Urchin among actors on South Bank — accepted as fellow performer, authenticity misread as talent
+- Ginger Urchin on stage — speaks authentically Victorian — audience stunned — "greatest method actor"
+- The line to audience/camera: "All of life is but a play, and I am but an actor in that play"
+- Ginger Urchin and the Actor becoming friends — the pretender and the real thing
 
 ## Established Facts (Novel)
 *No chapters written yet.*

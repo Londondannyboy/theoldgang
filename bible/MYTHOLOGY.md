@@ -28,3 +28,18 @@ The same rings on young hands and old hands. Time collapsed into jewellery.
 
 ## The London Stone
 The oldest thing in the city. A meeting point older than any institution. Where the dead meet because it predates their deaths.
+
+## Performance and Roles
+"All of life is but a play, and I am but an actor in that play." Everyone in the story performs:
+- Victor performs "Marcus" (the street name as costume)
+- Diamond Anne performs sweetness (before the transformation strips it away)
+- The Corrupt Policeman performs respectability (corruption wearing a uniform)
+- The Ginger Urchin performs "alive" (the most fundamental role)
+- The Actor performs "Victorian" (while the Urchin actually is)
+- Sarah performs "normal detective" (while seeing the dead)
+- Modern gangs perform toughness (while terrified of the Old Gang)
+- The Avenger performs subservience (while planning total revenge)
+
+Gangsters are the biggest role players in real life — street names, codes, personas, territory as stage. The theatre is not separate from the gang world. It IS the gang world, formalised. Shakespeare knew this — he put his theatre in Southwark, among the brothels and the criminals, because entertainment and crime were the same business.
+
+The Ginger Urchin on stage is the moment the story acknowledges its own nature: this is all performance. The only question is who knows they're performing and who doesn't.
