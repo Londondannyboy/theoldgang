@@ -32,6 +32,12 @@
 - Marcus is ABSORBED into the Old Gang through combat — equals them, becomes their living leader
 - Marcus becomes the Old Gang's top boy — a living man leading a dead gang
 - Marcus's arc parallels Diamond Anne and Camberwell Man — the inevitability of circumstance
+- The Camberwell Man and Marcus are the SAME PERSON — now named Victor
+- Victor's street name is Marcus — his birth name is Victor (Victorian, Caribbean heritage)
+- Victor reclaims his real name when he accepts he's Old Gang: "Call me Victor"
+- Victor means "conqueror" — a dead man conquering death
+- Victor is from Myatt's Field (Camberwell/Brixton border)
+- Victor was ashamed of his birth name — too old-fashioned for the estates
 
 ### Setting
 - Police station is in Elephant and Castle
@@ -121,6 +127,8 @@
 - Fighting Priest vs Kennish Man — souls vs identity — winner undecided
 - The Elsbury Skinhead vs a Teddy Boy in fancy dress (or is it?) — Sarah cannot tell what's real
 - Camberwell Man exits community meeting, Old Gang standing silently across the street
+- Victor's name reclaiming: drops "Marcus," takes back "Victor" — "Call me Victor"
+- The name change marks the moment of acceptance — street identity shed, true identity embraced
 
 ## Established Facts (Novel)
 *No chapters written yet.*

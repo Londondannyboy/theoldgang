@@ -60,9 +60,12 @@
 **Options:** (a) Appear, recognised by reader (b) Appear, never named (c) Referenced only (d) Only Chaplin
 **Affects:** Tone, scope, groundedness
 
-### TBD — The Camberwell Man's Name
-**Decision:** Needs a name — historically plausible for Black Victorian/Georgian Camberwell.
-**Affects:** Characterisation, identity
+### RESOLVED — Victor
+**Decision:** His name is Victor. A strong Victorian name, common in Caribbean communities. He was ashamed of it — too old-fashioned for Myatt's Field. He reclaims it when he accepts he's Old Gang. "Call me Victor."
+
+### RESOLVED — The Camberwell Man IS Marcus IS Victor
+**Decision:** The Camberwell Man and Marcus are the SAME CHARACTER. His street name is Marcus. His real birth name is Victor — a classical Victorian name from the Caribbean colonial naming tradition, which he was ashamed of and never used. When he accepts his Old Gang identity, he reclaims it: "Call me Victor." Victor means "conqueror."
+**Affects:** All references to "the Camberwell Man" and "Marcus" throughout the bible should be understood as the same person. Going forward, he is referred to as Victor (with Marcus as his former street name).
 
 ### TBD — The Phone Call Content
 **Decision:** What does Sarah hear when the phone rings?

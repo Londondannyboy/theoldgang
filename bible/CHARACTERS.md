@@ -113,7 +113,7 @@ Elephant has always had gangs — Forty Elephants (female, 1870s–1950s), Hooli
 
 **THE FIVE CORE MEMBERS:**
 1. **The Ginger Urchin** — emissary, crosses between worlds
-2. **The Camberwell Man** — deadly angel, Sarah's ally, didn't know he was dead
+2. **Victor (Marcus)** — deadly angel, Sarah's ally, didn't know he was dead, becomes the leader
 3. **The White Youth** — enforcer, pure Victorian violence, refuses to adapt
 4. **Diamond Anne (The Woman)** — starts sweet, becomes the boss (see full entry)
 5. **The Avenger** — infiltrates True Old Gang, plans total revenge
@@ -140,25 +140,65 @@ Elephant has always had gangs — Forty Elephants (female, 1870s–1950s), Hooli
 
 ---
 
-### The Camberwell Man — Old Gang Member / Deadly Angel
-- **Role:** Major supporting — one of the most important characters
-- **Origin:** From Camberwell (adjacent to Elephant and Castle)
-- **Race:** Black
-- **Background:** A young guy who grew up in modern Camberwell. Was heading up a modern gang. He is NOT a Victorian transported to the present — he has always been here, living a modern life. But he has ALWAYS been dead without knowing it. His modern gang life was a surface; underneath, he was always something older. The other Old Gang members always respected him in a way he couldn't understand.
-- **The Traitor's Gate Scene:** Chained in mist under Traitor's Gate to drown. Survives with a straw in his mouth. Presented as heroic survival.
-- **The Revelation:** It didn't matter. He was never going to drown. He was always dead. The straw, the struggle — none of it was necessary. He was already what he feared becoming.
-- **The Transformation — Deadly Angel:** Acceptance = liberation. He "comes back to life" spiritually. He IS the Old Gang. With acceptance comes purpose — he wants to do good, but in twisted, dark, Old Gang ways. Becomes Sarah's most powerful ally against the True Old Gang.
-- **The Brixton Horse Scene:** A real place in Brixton — stables on a council estate, Afro-Caribbean community, kids riding horses. After his revelation, the Camberwell Man gets on a horse. Rides it through the estate. People confront him. He says: "I'm Old Gang." No violence. No threat. Just identity, claimed. A dead man on a living horse.
-- **The Community Scene:** Before his revelation, the Camberwell Man is involved in community life — attending meetings about gentrification, fighting for the community hall, the schools, the spaces that matter. He's trying to be the good version of himself — the one who gets out, who gives back, who uses his influence for the community rather than crime. Then he walks out of a town hall or community meeting — clipboard in hand, doing the right thing — and the Old Gang are just STANDING there across the street. Silent. Staring. Cold. The dead world and the live world, facing each other across a road. And he doesn't yet know which side he belongs to.
-- **The contradiction he shares with Marcus:** Both men are trying to protect a community while being entangled with the forces that harm it. The Camberwell Man's version is more acute because he IS the thing that threatens the community — he is Old Gang, he just doesn't know it yet. His community work is the living half of him trying to be good. The dead half is standing across the street, waiting.
-- **Arc:** Doesn't know he's dead → fights to survive → discovers truth → grief/acceptance → deadly angel → "He is the Old Gang. Old Gang. Boom."
-- **Voice Notes:** [TBD — shifts across arc. Before revelation: modern, alive. After: older, calmer, certain.]
-- **First Appearance:** Early-to-mid story. The revelation should come LATE.
+### Victor / Marcus — The Camberwell Man / Top Boy / Old Gang Leader
 
----
+**THE MERGE:** The Camberwell Man and Marcus are the SAME PERSON. One character carrying every arc.
 
-### The Dead Gang Member Who Doesn't Know He's Dead
-- **NOTE:** This concept has been MERGED into the Camberwell Man above. They are the same character.
+- **Role:** Major character — arguably the co-protagonist alongside Sarah
+- **Known as:** "Marcus" on the streets — his road name, his modern identity. His REAL name — his birth name — is **Victor** [surname TBD]. A strong, classical, Victorian name common in Caribbean communities from the colonial naming tradition. He has never used it. He was embarrassed by it — too old-fashioned, too formal, too different for a kid from Myatt's Field. Everyone calls him Marcus. He lets them.
+- **Age:** Mid-20s
+- **Race:** Black British — Caribbean heritage
+- **From:** Myatt's Field — the specific area where Camberwell drifts into Brixton. A modern gang rivalry exists between Myatt's Field and Elephant and Castle.
+
+**His modern life:**
+- A top boy. Heading up a gang from Myatt's Field — respected, capable, feared. But slightly disaffiliated from the main crew. An individual unit. They want him fully committed; he keeps his distance without knowing why.
+- Smart — genuinely intelligent. Runs his operation like a business. The kind of kid who could have gone to university but the system didn't offer that path.
+- Involved in community work — the horse project at Loughborough Junction (under the railway arches), community meetings about gentrification, fighting for the community hall, the schools. He straddles the contradiction: protecting the community by day, heading the gang whose drugs harm it by night. He KNOWS the contradiction. He lives inside it.
+- He is always cold. People comment on it. He explains it away.
+
+**The truth he doesn't know:**
+- He has ALWAYS been dead. His entire modern life — the gang, the community work, the respect — was a surface. Underneath, he was always Old Gang. He was always something older. The other Old Gang members, when they start appearing, respect him in a way he can't understand. He's drawn to Elephant — not his patch, but something pulls him there.
+
+**The Traitor's Gate Scene:**
+- Chained in mist under Traitor's Gate to drown. Survives with a straw in his mouth. Presented as heroic survival. But it didn't matter. He was never going to drown. He was always dead. The straw was irrelevant.
+
+**The Community Scene:**
+- He walks out of a town hall or community meeting — clipboard in hand, doing the right thing — and the Old Gang are standing across the street. Silent. Staring. Cold. The dead world and the live world, facing each other across a road. He doesn't yet know which side he belongs to.
+
+**The Turf Clash:**
+- When the Old Gang assert territory on Booth streets that overlap with his territory, Marcus does what any gang leader would do: pushes back. This is HIS ground. He doesn't care if they're dead. The clash is real — modern weapons, modern tactics vs. Old Gang fearlessness.
+- The moment he fights an Old Gang member to protect one of his crew — and EQUALS them. The Old Gang see someone who matches them for the first time. He discovers something terrible: he BELONGS with them.
+
+**The Revelation:**
+- He has always been dead. His whole modern life was a surface. Grief. Then acceptance. Then liberation. He IS the Old Gang.
+
+**The Name Reclaiming:**
+- When he accepts what he is, he drops the street name. "Marcus" was his road identity — the name of a modern gang leader, a persona, a performance. His real name is VICTOR. He reclaims it.
+- **"Call me Victor."**
+- Not a street name. Not a gang name. Who he actually is. The name his family gave him — a Victorian name from the Caribbean colonial tradition, a name he was ashamed of because it sounded old-fashioned on an estate in Brixton. Now he understands: it was always his true name. He was always Victor. He was always Old Gang.
+- The name VICTOR means "conqueror." A dead man, conquering death. The resonance doesn't need to be stated. The reader feels it.
+
+**The Horse Scene — THE SET-PIECE:**
+- When Victor accepts the inevitable battle, he goes to the community centre at Loughborough Junction. The horse project, under the railway arches. He gets on a horse.
+- He rides like no one has seen him ride. The horse responds immediately — recognises something in him.
+- He rides through the estates. Not on roads — through the ESTATES. Across the landings. Level one walkways between blocks. Concrete corridors designed for pushchairs. A horse clattering across them. Residents staring. Kids running alongside.
+- He rides across walkways between estate blocks — covered passages, bridges between buildings — heading from Myatt's Field toward Elephant. Crossing the modern gang boundary AND the supernatural boundary simultaneously.
+- "I'm Old Gang."
+- A dead man on a living horse, riding through the architecture of modern poverty toward the territory of Victorian poverty. The estates will be demolished soon. Right now, they are his road to war.
+
+**The Deadly Angel:**
+- With acceptance comes purpose. He wants to do good — but in twisted, dark, Old Gang ways. He becomes Sarah's most powerful ally against the True Old Gang.
+
+**Top Boy — Leader of the Old Gang:**
+- Victor becomes the Old Gang's leader. Not their Victorian leader — their NOW leader. A living-dead man leading a dead gang. The only person who can bridge both worlds.
+- He has modern knowledge, modern tactics, modern connections. The Old Gang have fearlessness, honour, and the reality of being beyond death. Together, they are something new.
+- The Godfather III: "Just when I thought I was out, they pull me back in." Victor tried to be the one who got out — community work, legitimate influence, the smart gangster. The Old Gang pulled him back. The system creates the same people, century after century.
+
+**Arc summary:** Top boy → community activist → drawn to Elephant → turf clash → equals Old Gang → revelation (always been dead) → grief → acceptance → reclaims his name ("Call me Victor") → horse ride into Old Gang territory → deadly angel → leader of the Old Gang → ally to Sarah → the living-dead leader against the True Old Gang.
+
+**Voice Notes:** Before revelation: modern South London, road vernacular, code-switches between street and community meeting. After revelation: quieter, calmer, more certain. Something older underneath the modern voice. When he says "Call me Victor," his voice changes. The street drops away. What's left is who he always was.
+
+**Key Relationships:** Sarah (ally — the detective and the dead man, both fighting the same corruption), Diamond Anne (fellow Old Gang — she understands transformation), the Ginger Urchin (respects him as leader), the Avenger (Victor doesn't know the Avenger's true mission yet), the Fagin (rejects his authority), the Corrupt Policeman (institutional enemy), his former modern crew (the break — they lose their top boy to something they can't understand)
 
 ---
 
@@ -247,23 +287,11 @@ Elephant has always had gangs — Forty Elephants (female, 1870s–1950s), Hooli
 
 ---
 
-### Marcus — Modern Gang Leader / The Living Top Boy
-- **Role:** Major supporting — becomes the Old Gang's living leader
-- **Background:** The top boy of the modern Elephant gang. Smart, strategic, trying to go legitimate. The businessman gangster — the one who was supposed to get out. He's built something real: a legitimate operation, community respect, the smart version of the game. He protects his people. He fights for the community. He is NOT a Victorian — he is entirely modern.
-- **The Absorption:** Marcus fights to protect one of his crew against an Old Gang member. He is the first modern person to EQUAL an Old Gang member in combat — matching their fearlessness, their intensity, their refusal to stop. The Old Gang see this. They recognise one of their own — not by era, but by nature.
-- **The Pull:** Marcus tries to walk away. He's the smart one. The businessman. The one who was going to get out. But he can't escape. He's been pulled in — just like Diamond Anne, just like the Camberwell Man — by the inevitability of who he is in this place. Elephant creates the same people, century after century. Marcus is the modern version of the Old Gang's original leader. He just didn't know it.
-- **Top Boy:** Marcus becomes the Old Gang's leader. Not their Victorian leader — their NOW leader. A living man leading a dead gang. The only person who can bridge both worlds because he belongs to both. He has modern knowledge, modern tactics, modern connections. They have fearlessness, Old Gang honour, and the supernatural reality of being beyond death. Together, they are something new.
-- **The Godfather III:** "Just when I thought I was out, they pull me back in." Marcus's entire arc is the inevitability of circumstance. He is the story's proof that the conditions that created the Old Gang still exist. The system hasn't changed. The rookeries became estates. The estates became construction sites. And the people the system produces are the same.
-- **This resolves the leadership question:** The Old Gang were leaderless when they reformed (survival instinct, not hierarchy). The Fagin tried to lead them and was rejected (the old hierarchy). Diamond Anne became a figure of authority after her transformation. But Marcus — the living leader, the modern top boy absorbed by circumstance — is the one who ultimately leads them. A living man leading the dead against the True Old Gang. That's Book 2's premise.
-- **Voice Notes:** [TBD — modern South London, educated in the streets, articulate. The register of someone who has learned to code-switch between the estate and the boardroom.]
-
----
-
 ### Modern Gangs
 - **Role:** Supporting / world-building
 - **Function:** Black, modern, contemporary gangs of Elephant. In a key scene, they describe a rival gang as "dead" — police interpret as slang, but they literally mean it. They KNOW the Old Gang are not alive. They are more frightened than anyone because they share the streets.
 - **The distinction:** Modern violence has rules, hierarchy, territory logic. Old Gang violence is on a different scale — casual, extreme, Victorian.
-- **Marcus's gang:** Led by Marcus — the smart gangster trying to go legitimate. His crew are the first to encounter the Old Gang and understand what they are. When Marcus is absorbed into the Old Gang, his modern crew must decide: follow their leader into the supernatural, or break away.
+- **Victor's former crew:** Led by Victor (as "Marcus") — the smart gangster trying to go legitimate. His crew are the first to encounter the Old Gang and understand what they are. When Victor is absorbed into the Old Gang, his modern crew must decide: follow their leader into the supernatural, or break away.
 
 ---
 
