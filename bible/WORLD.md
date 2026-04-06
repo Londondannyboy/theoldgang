@@ -43,6 +43,19 @@ Modern migrants exploited near Waterloo railway tracks in conditions mirroring V
 ### Traitor's Gate, Tower of London
 The Camberwell Man's set-piece — chained in mist to drown, survives with a straw.
 
+### The Thames Foreshore — The Knife in the Wood
+The old docks south of the river — Rotherhithe, Bermondsey, the Pool of London. At low tide, the Thames reveals its history: clay pipes, pottery, bones, Victorian brickwork, the stumps of old wharves and warehouses. Mudlarkers pick through the foreshore looking for artefacts. The Old Gang know this ground — they lived on it.
+
+**The Scene — Excalibur:** At low tide, in the shadow of a warehouse wall or old dock structure, a knife is embedded in a piece of old wood — waterlogged timber from a Victorian warehouse or wharf, half-buried in Thames mud. The wood has been submerged for over a century. The knife is old — not modern, not a kitchen knife or a flick knife. A blade from their era, embedded in the wood, preserved by the river, revealed only when the tide drops.
+
+John (the White Youth) finds it. He pulls it from the wood. It comes free.
+
+**The Arthurian echo:** This is the sword from the stone. A young man, born to nothing, pulling a weapon from ancient material and becoming armed by choice rather than by circumstance. The reader should feel the Excalibur parallel without it ever being stated. No character says "like King Arthur." No narrator draws the connection. It's just a boy on a riverbank pulling a knife from old wood — but the image carries the weight of the myth underneath.
+
+**What it means for John:** Before this, John's violence was reactive — created by Fagin, beaten into him, a cornered animal's reflex. The knife in the wood is the first weapon he CHOOSES. Not given to him by Fagin. Not picked up in a fight. Found. Claimed. His. The moment he pulls it free, he transitions from being someone else's weapon to being his own. Armed by the river, by the city, by the ground itself.
+
+**Function:** The Thames foreshore is liminal — neither land nor water, revealed and hidden twice a day by the tide. The Old Gang exist in the same liminal space — neither alive nor dead, revealed by the excavation. The knife being visible only at low tide connects their world to the river's rhythm: old things surface when the water drops, just as old things surface when the ground is disturbed.
+
 ### The Brixton Horse Stables
 A real place in Brixton — horse-riding stables on a council estate. Afro-Caribbean community, young people riding horses. The Camberwell Man's declaration scene: "I'm Old Gang."
 

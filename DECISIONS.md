@@ -136,10 +136,9 @@ Needs specific character — embodies old City wealth. Courteous, powerful, expl
 The community hall scene (walking out to find Old Gang staring across the street) is the CAMBERWELL MAN, not Marcus. The Camberwell Man is the one straddling community activism and the supernatural pull. Marcus is the modern gang leader who gets absorbed into the Old Gang through combat. Both men try to protect the community. Both are pulled into the Old Gang. But by different routes: the Camberwell Man by revelation (he was always dead), Marcus by circumstance (he fights and is absorbed).
 **NOTE:** This distinction is now moot — Camberwell Man and Marcus are confirmed as the SAME PERSON (Victor). See RESOLVED — The Camberwell Man IS Marcus IS Victor.
 
-### TBD — The White Youth's Name
-**Decision:** TO BE DECIDED — does the White Youth get a proper name, or is he known only by description/nickname?
-**Reasoning:** The Old Gang members are gradually being named (Victor, Diamond Anne). The White Youth remaining nameless could be powerful — he was never given a real identity by Fagin, just a function. Or: giving him a name when he overcomes the Fagin could mirror Victor's name-reclaiming. He earns his name by breaking free.
-**Affects:** His characterisation, the Fagin confrontation scene
+### RESOLVED — The White Youth's Name Is John
+**Decision:** His name is John. Plain, English, working-class, invisible. The kind of name the Fagin gave a boy he saw as a function, not a person. Nobody remembers a John. Unlike Victor's grand name-reclaiming ("Call me Victor"), John's name was always there — unremarkable, forgettable, the name of someone the system never bothered to see. He doesn't reclaim it. He just is it.
+**Affects:** His characterisation, dialogue, how other characters refer to him
 
 ### TBD — The Fagin Confrontation: How Does the White Youth Win?
 **Decision:** TO BE DECIDED — is it violence? Words? Refusal to break? A combination?

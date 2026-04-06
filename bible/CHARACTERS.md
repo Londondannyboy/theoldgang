@@ -57,13 +57,21 @@ Developed across 25 brain dump sessions. This is the definitive character bible.
 
 ---
 
-### The White Youth — Old Gang Member / The Fagin's Boy
+### John (The White Youth) — Old Gang Member / The Fagin's Boy
 - **Role:** Core Old Gang — the violent one, the enforcer
+- **Name:** John. Plain, English, working-class, invisible. The kind of name the Fagin would have given a boy he saw as a function, not a person. Nobody remembers a John. But John remembers everything.
 - **Age:** Appears late teens
 - **Physical:** White, lean, wiry. Victorian malnutrition. Utterly without hesitation.
 - **Fagin's Exploitation:** Was the Fagin's favourite. Systematically exploited and abused. Violence CREATED by Fagin — beaten in, rewarded, punished. The rage traces back to childhood abuse disguised as mentorship.
 - **The Fagin Confrontation:** When the Fagin returns, the White Youth refuses out of TERROR and RAGE. The abused child facing his abuser. Breaks free. The Old Gang stands alone.
 - **After the Fagin:** Violence becomes purposeful, not reactive. He chooses when and why.
+
+**The Knife in the Wood — Thames Foreshore:**
+- At low tide on the Thames foreshore, John finds a knife embedded in old warehouse wood — Victorian timber, waterlogged, half-buried in mud. The knife is from their era. He pulls it free.
+- This is the Excalibur moment — FELT, never stated. A young man pulling a blade from ancient material. The sword from the stone. But silent. No speech, no declaration. John just pulls a knife from the riverbank and walks away with it.
+- Before this, his violence was reactive — Fagin's creation. The knife in the wood is the first weapon he CHOOSES. Found. Claimed. His. He transitions from being someone else's weapon to being his own.
+- This is NOT Victor's name-reclaiming moment (grand, theatrical, a declaration). John's moment is silent. He pulls. He walks. He is armed. That's all.
+
 - **Key Scenes:** Police custody (screen blindness, blood test: dead), grime club (shanks bouncer, extreme violence), Fagin confrontation
 - **Voice Notes:** Sparse. One-liners. Communicates through action.
 
@@ -91,7 +99,7 @@ Five core members. Victorian street gang from Booth's black-coded streets. Burie
 **THE FIVE:**
 1. The Ginger Urchin — emissary, artist
 2. Victor (Marcus) — deadly angel, leader
-3. The White Youth — enforcer, Fagin's survivor
+3. John (The White Youth) — enforcer, Fagin's survivor, armed by the river
 4. Diamond Anne — starts sweet, becomes the boss
 5. The Avenger — infiltrates True Old Gang
 

@@ -29,6 +29,11 @@ The same rings on young hands and old hands. Time collapsed into jewellery.
 ## The London Stone
 The oldest thing in the city. A meeting point older than any institution. Where the dead meet because it predates their deaths.
 
+## The Knife in the Wood — The Unspoken Excalibur
+John pulls a knife from old wood on the Thames foreshore at low tide. The Arthurian echo is deliberate but NEVER stated in the text. No character says "Excalibur." No narrator draws the parallel. The image carries the myth underneath: a boy born to nothing, pulling a weapon from ancient material, becoming armed by choice. The Style Guide rule applies absolutely — this reference must be FELT, never stated.
+
+The Thames foreshore is liminal — neither land nor water, revealed twice daily. The Old Gang are liminal — neither alive nor dead, revealed by excavation. The knife surfaces when the water drops. The Old Gang surface when the ground is disturbed. The river and the earth follow the same rule: what's buried comes back.
+
 ## Performance and Roles
 "All of life is but a play, and I am but an actor in that play." Everyone in the story performs:
 - Victor performs "Marcus" (the street name as costume)

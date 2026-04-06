@@ -52,6 +52,11 @@
 - The Urchin steps onto stage and speaks in actual Victorian terms — believed to be greatest method actor ever
 - The Urchin's line: "You, my friend — all of life is but a play, and I am but an actor in that play"
 - Performance is a central theme: everyone in the story plays roles — gangsters are the biggest role players
+- The White Youth's name is JOHN — plain, English, working-class, invisible
+- John finds a knife embedded in old wood on the Thames foreshore at low tide
+- The knife scene is the Excalibur parallel — FELT, never stated
+- John's knife is the first weapon he CHOOSES — not given by Fagin, not picked up in a fight
+- John's moment is silent — no speech, no declaration — he pulls, he walks, he is armed
 
 ### Setting
 - Police station is in Elephant and Castle
@@ -180,6 +185,9 @@
 - Old Gang at the Golden Eagle in Marylebone — ecstatic at the pianist sing-along — hiding in plain sight
 - Ginger Urchin inside the hollow tree on Hampstead Heath — dead boy inside a living tree — feeling alive
 - Ginger Urchin steps out of the tree and meets the goths — Diamond Anne meets the Goth Girl through this encounter
+- John on the Thames foreshore at low tide — pulls a knife from old warehouse wood — Excalibur echo
+- The knife is Victorian, preserved by the river, visible only when the tide drops
+- John transitions from being someone else's weapon to being his own
 
 ## Established Facts (Novel)
 *No chapters written yet.*
