@@ -82,6 +82,10 @@
 - The Golden Eagle pub in Marylebone — last pianist sing-along pub. Live piano, communal singing.
 - The hollow tree on Hampstead Heath — "Tree of Life" — large enough to stand inside. The Urchin's private ritual.
 - Diamond Anne's gangster killing happens at the pie and mash shop — injection under table, heart attack, through the window
+- Southwark was OUTSIDE City of London jurisdiction — that's why the brothels, theatres, rookeries, and unconsecrated graves are all south of the river
+- The Thames is the class boundary — north = power, south = the people the City used
+- The Old Gang are from the wrong side of the river — always have been
+- SE1, SE5, SE11, SE17 = Old Gang territory. EC1-EC4 = the City. Postcodes tell the same story.
 
 ### The Old Gang
 - They are literally dead — clinically dead on blood tests
@@ -143,6 +147,11 @@
 - The City invented the trust structure — offshore exploitation runs through City-created mechanisms
 - Ignatius Sancho at a guild event — recites the ritual, stuns the room, power extends
 - Sancho robs institutions through their OWN mechanisms — trusts, guilds, ancient legal structures
+- The Old Gang looking across the Thames at the City = the visual thesis of the story
+- "You're just toe-rags from the south. You're from outside the City." = the ancient dismissal
+- The City has a LIVING contemporary representative — a modern guild member, unbroken lineage
+- The Living City Man sees the Old Gang's return as a management problem, not a supernatural event
+- The Corrupt Policeman is street-side lineage. The City Man is institutional-side lineage. Same chain.
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -204,6 +213,9 @@
 - The Farm Boy driving sheep across London Bridge for the guild — street kid doing ancient City work
 - The Farm Boy (or another Old Gang member) reciting guild/Masonic ritual word-perfect — modern City men stunned
 - The Old Gang recognising guild rituals as their native language, not ceremony
+- Old Gang standing on South Bank looking across at the City — awe and resentment — the same feeling they've always had
+- The City Man at a guild dinner — normal, respectable, centuries of breeding — the scariest antagonist because completely legal
+- The dismissal: "You're from the other side. You're from outside the City."
 
 ## Established Facts (Novel)
 *No chapters written yet.*

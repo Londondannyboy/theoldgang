@@ -299,6 +299,19 @@ Police hear: (1) older criminals out of prison (2) death threat / gang war (3) e
 
 ---
 
+### The City Man — The Living Antagonist [BOOK 2 CHARACTER]
+- **Role:** Book 2's primary antagonist — a LIVING person, not a supernatural return
+- **Concept:** The City never left. The City never died. The City never needed to be resurrected. So the City has a contemporary representative: a living, breathing senior guild member whose family has been City for centuries.
+- **Background:** A man (or woman) who sits on a Livery Company board. Attends the Lord Mayor's banquet. Knows the rituals because they were taught by their father, who was taught by their father, who was taught by their father. The chain. Unbroken. Continuous. Centuries of institutional power inherited like furniture.
+- **How they see the Old Gang:** Not as a supernatural event. As a management problem. The street kids are back. Manage them. Use them. Same as always. The City has been managing the poor for a thousand years. A few dead Victorians returning from the grave is an operational matter, not an existential one.
+- **The mirror to the Corrupt Policeman:** The Corrupt Policeman is Old Gang by lineage on the STREET side — institutional corruption wearing a police uniform. The City Man is City by lineage on the INSTITUTIONAL side — institutional power wearing a guild chain. Both are living. Both are continuous. Both represent chains that never broke. But the Corrupt Policeman is middle management. The City Man is the board.
+- **Why they're the scariest antagonist:** The dead Old Gang are frightening because they're impossible. The City Man is frightening because they're completely normal. A respectable person. A pillar of the community. A senior figure at guild dinners and charity events. The exploitation they oversee — the offshore developments, the workers dying in the Middle East, the trusts that move money invisibly — is legal, documented, and dressed in tradition. You can't arrest the City. You can't fight the City. The City is the law.
+- **Voice Notes:** Educated, measured, centuries of breeding. Never raises their voice. Never threatens directly. Speaks in the language of partnership, opportunity, tradition — the same language the guilds have used to exploit for a thousand years.
+- **Key Relationships:** Ignatius Sancho (who KNOWS them — or their ancestors — from the Georgian era), the Ginger Urchin (who meets them in the members' club in Book 1, Ch23), the Avenger (who infiltrates their world), Sarah (who eventually connects the Corrupt Policeman to this person — the street and the City are the same chain)
+- **NOTE:** Seed in Book 1 only — possibly the unnamed figure the Urchin meets in the members' club. Fully developed in Book 2.
+
+---
+
 ### Police Colleagues
 - **Role:** Collective antagonist. Laugh, patronise, reassign. Some involved in father's case.
 - **[TBD — need individual characters]**

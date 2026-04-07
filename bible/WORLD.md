@@ -156,6 +156,35 @@ This creates an unholy, unique convergence of spiritual energy. The dead of the 
 
 **The killers' irony:** The Corrupt Policeman buried the body there to make it disappear. Instead, he created the connection that will eventually expose him. The cover-up is the catalyst. The murder is the mechanism. The thing he did to hide the truth is the thing that brings the truth back to life.
 
+## The Thames — The Class Boundary
+
+### Southwark Was OUTSIDE the City
+The City of London controlled everything inside its walls. Southwark — Elephant and Castle, Bermondsey, Jacob's Island, Rotherhithe, the South Bank — was OUTSIDE City jurisdiction. This is not incidental. It is the reason EVERYTHING in the story exists where it does:
+- The **brothels** were in Southwark because the City pushed the sex trade outside its walls (while the Bishop of Winchester licensed and profited from it)
+- The **theatres** were in Southwark because the City banned public performance inside its walls (Shakespeare built the Globe on the South Bank because he had no choice)
+- The **rookeries** were in Southwark because the City's poor were pushed across the river
+- The **unconsecrated graves** were in Southwark because the City wouldn't bury its undesirables on consecrated City ground
+
+The Old Gang are from the wrong side of the Thames. Always have been. They are the people the City created, used, and discarded — pushed to the South Bank along with the whores, the actors, the criminals, and the dead.
+
+### The Old Gang Looking Across the River
+When the Old Gang stand on the South Bank and look north across the Thames at the City — the glass towers, the ancient spires, the cranes building more — they are seeing what they have ALWAYS seen. The power that used them. The power that built itself on their labour, their suffering, their short lives. The awe and the resentment are the same feeling. They look across and see something magnificent that was built on their bones.
+
+This image — the Old Gang on the South Bank, staring across the river at the City — should recur. It is the visual expression of the story's thesis: the exploited looking at the exploiters, separated by water, connected by history. The river between them is not just geography. It is class. It is power. It is the boundary the City drew and the Old Gang were born on the wrong side of.
+
+### "You're from the other side"
+The City's contempt for the Old Gang is geographical as much as social: "You're just toe-rags from the south. You're from outside the City." This is the ancient dismissal — Southwark as the wrong side, the dirty side, the side where the City puts things it doesn't want to see but still wants to use. The Old Gang crossing the river into the City is transgression. It always was.
+
+### Historical Accuracy
+To this day, the areas the Old Gang come from are still distinct:
+- **SE1** (Elephant, Southwark, Bermondsey) — still rougher, still changing, still the "other side"
+- **SE5** (Camberwell) — Victor's territory, Myatt's Field
+- **SE11** (Kennington) — where Sarah lives
+- **SE17** (Walworth) — Chaplin's birthplace, the old Elephant heartland
+- **EC1-EC4** (the City) — the square mile, the guilds, the banks, the power
+
+The postcodes tell the same story the geography always told. South of the river: the people. North of the river: the power.
+
 ## The City of London — Ancient Places
 
 The True Old Gang don't meet in modern London. They meet in places that have ALWAYS been there.

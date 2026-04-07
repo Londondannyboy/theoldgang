@@ -29,6 +29,11 @@ The same rings on young hands and old hands. Time collapsed into jewellery.
 ## The London Stone
 The oldest thing in the city. A meeting point older than any institution. Where the dead meet because it predates their deaths.
 
+## The River Thames — The Class Boundary
+The Thames is not just a river. It is the line the City drew between itself and its poor. North: power, wealth, the guilds, the City. South: the rookeries, the brothels, the theatres, the dead. The Old Gang crossing the river is transgression — the exploited entering the territory of the exploiters. Every time an Old Gang member crosses a bridge heading north, they are doing what they were never supposed to do: entering the City.
+
+The image of the Old Gang on the South Bank, staring across at the City, is the visual thesis of the entire story.
+
 ## The Knife in the Wood — The Unspoken Excalibur
 John pulls a knife from old wood on the Thames foreshore at low tide. The Arthurian echo is deliberate but NEVER stated in the text. No character says "Excalibur." No narrator draws the parallel. The image carries the myth underneath: a boy born to nothing, pulling a weapon from ancient material, becoming armed by choice. The Style Guide rule applies absolutely — this reference must be FELT, never stated.
 

@@ -172,3 +172,9 @@ The community hall scene (walking out to find Old Gang staring across the street
 **Decision:** In the prose, the street gang is "the Old Gang." The City institutional layer is "the City." The term "True Old Gang" is used only in the bible/editorial documents, never in the novel's text. Characters say: "The City wants to use us." "The City knows we're back." "The City never left."
 **Reasoning:** "The City" already carries every connotation needed — place, power, institution, state-within-a-state. It's what Londoners actually call it. The street gang and the City are different things and should sound different.
 **Affects:** All prose, all dialogue, Book 2 framing
+
+### TBD — The City Man: Gender and Specifics
+**Decision:** TO BE DECIDED — is the living City antagonist male or female? Which specific guild? What's their public role?
+**Options:** (a) Male — traditional City patriarch, guild master (b) Female — a woman in the City's inner circle, which would subvert expectations (c) Could be both — a married couple, or a family, representing the dynasty
+**Reasoning:** A woman might be more interesting — the City has always used women (Winchester Geese) while excluding them from power. A modern woman who has broken into the guild structure while perpetuating its exploitation would be a complex antagonist.
+**Affects:** Book 2 characterisation, the Sancho dynamic, Sarah's relationship to power
