@@ -153,7 +153,9 @@ Five core members. Victorian street gang from Booth's black-coded streets. Burie
 
 **THE MERGE:** Camberwell Man and Marcus are the SAME PERSON.
 
-- **Known as:** "Marcus" on streets. Birth name: **Victor**. Victorian name, Caribbean heritage. Ashamed of it. Reclaims it: **"Call me Victor."** Means "conqueror."
+- **Known as:** "Marcus" on the streets — his road name, his modern identity. His REAL birth name is **Victor Thomas**. Victor: a strong Victorian name, common in Caribbean communities from the colonial naming tradition. Thomas: the FAMILY name. The Camberwell name. The name that appears in parish records going back generations. He was ashamed of both — too old-fashioned for Myatt's Field. Everyone calls him Marcus. He lets them.
+- **"Call me Victor."** When he accepts what he is. The street name drops. But the full declaration, when he traces his lineage, is: **"I am Victor. Son of Tom. Of Camberwell."** Not just a name — a lineage, a place, a history.
+- **Tom of Camberwell:** When Victor traces his family backwards, he finds the name Thomas in the parish records. His family. Camberwell. Going back generations. And the song "Wot Cher! (Knocked 'Em in the Old Kent Road)" — 1891 — contains the line: "your rich uncle Tom of Camberwell, popped off recent." A dead man from Camberwell. His own ancestor, described in a music hall song from the Old Gang's era. The song was always about his family. He just didn't know it.
 - **Age:** Mid-20s. **Race:** Black British, Caribbean heritage.
 - **From:** Myatt's Field (Camberwell/Brixton border).
 - **Modern life:** Top boy, community activist (horse project at Loughborough Junction, anti-gentrification). Straddles contradiction: protecting community by day, gang by night. Always cold.

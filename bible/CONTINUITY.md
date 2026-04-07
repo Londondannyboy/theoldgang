@@ -195,6 +195,10 @@
 - Music hall songs are the Old Gang's music — singalongs, comedy songs, pub performances
 - Victorian daguerreotype photographs of slum children exist — Old Gang members recognisable in them
 - Sarah may find/recognise Old Gang faces in historical photographs
+- Victor's full name is VICTOR THOMAS — Victor is his given name, Thomas is the family name
+- The Thomas family is from Camberwell — parish records going back generations
+- "Wot Cher!" song mentions "your rich uncle Tom of Camberwell" — Victor's ancestor
+- Full declaration: "I am Victor. Son of Tom. Of Camberwell."
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally

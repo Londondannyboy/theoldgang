@@ -60,8 +60,8 @@
 **Options:** (a) Appear, recognised by reader (b) Appear, never named (c) Referenced only (d) Only Chaplin
 **Affects:** Tone, scope, groundedness
 
-### RESOLVED — Victor
-**Decision:** His name is Victor. A strong Victorian name, common in Caribbean communities. He was ashamed of it — too old-fashioned for Myatt's Field. He reclaims it when he accepts he's Old Gang. "Call me Victor."
+### RESOLVED — Victor Thomas
+**Decision:** His full name is Victor Thomas. Victor = given name (Victorian, Caribbean heritage, means "conqueror"). Thomas = family name (the Camberwell name, parish records going back generations). Street name: Marcus. When he accepts he's Old Gang: "Call me Victor." When he traces his full lineage: "I am Victor. Son of Tom. Of Camberwell." The Thomas name connects to "Wot Cher!" — "your rich uncle Tom of Camberwell, popped off recent." His ancestor, in a music hall song. The song was always about his family.
 
 ### RESOLVED — The Camberwell Man IS Marcus IS Victor
 **Decision:** The Camberwell Man and Marcus are the SAME CHARACTER. His street name is Marcus. His real birth name is Victor — a classical Victorian name from the Caribbean colonial naming tradition, which he was ashamed of and never used. When he accepts his Old Gang identity, he reclaims it: "Call me Victor." Victor means "conqueror."
@@ -192,3 +192,7 @@ The community hall scene (walking out to find Old Gang staring across the street
 ### RESOLVED — Diamond Anne Is Sarah's Ancestor
 **Decision:** Diamond Anne is Sarah's direct ancestor. The bloodline runs: Diamond Anne → generations of Elephant women → Sarah's father → Sarah. The four female leads (Sarah, young Diamond Anne, old Diamond Anne, the Goth Girl) are connected not just by theme but by BLOOD. Sarah IS Diamond Anne's future. Diamond Anne is Sarah's past. This was resolved in Session 36.
 **Affects:** The revelation scene, the emotional weight, Diamond Anne's protective instinct toward Sarah, the meaning of the simultaneous death/birth scene
+
+### RESOLVED — Screen-Ready Writing
+**Decision:** The novel is written as prose FIRST but structured for Netflix adaptation. Scene-based writing. Episode-ready chapter endings. Dialogue-forward. Visual set-pieces written with shot-list clarity. The 28-chapter outline maps to 10 episodes across Season 1. Season 2 = Book 2 (the City, the guilds). The bible IS the series bible.
+**Affects:** Prose style, chapter structure, how briefs are written, what Claude Code prioritises in drafts
