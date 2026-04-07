@@ -48,6 +48,10 @@ When old Diamond Anne dies — reaching for a flower, reaching for the girl she 
 ### The Underlying Mechanism (revealed gradually)
 Sarah's ability to see the Old Gang is not random. Her father's murdered body was buried in the same ground as the Old Gang's unconsecrated grave — physically touching the Victorian bones. Spiritual energy flows: Old Gang → father → Sarah. This explains everything: why she senses the cold, why she notices what others miss, why the Old Gang seem to communicate with her (the phone, the wireless). She is connected through blood and burial. The reader should suspect this before it's confirmed — plant clues early (Sarah feeling physically cold at crime scenes, her hand going to her chest when the Old Gang are near, an instinctive knowledge she can't explain).
 
+**The Final Revelation (late Book 1 or Book 2):** Sarah discovers she is Old Gang by blood. Her father's family goes back generations in Elephant — to the unconsecrated grave. Her ancestors are buried there. One of the five Old Gang members is her direct ancestor. The spiritual connection was never stranger-to-stranger — it was family calling to family through the ground. Sarah was never a "chosen one" or a gifted detective. She is a daughter of the ground. The dead have been talking to their own granddaughter since she arrived.
+
+**Plant clues throughout:** Sarah's unexplained instincts. Her physical reactions (cold, hand to chest). Moments where she KNOWS something before she understands it. A gesture an Old Gang member makes that reminds her of her father. A face she almost recognises. Build this so the revelation feels earned — the reader should suspect before Sarah confirms.
+
 ## Layer 5: Old Crimes Hiding in Plain Sight
 **What happens:** Victorian crimes haven't returned — they never left. Workhouse conditions near Waterloo tracks. The School of Thieves. Each time Sarah proves something impossible is real, she moves further from colleagues and deeper into the old world.
 

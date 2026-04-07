@@ -64,6 +64,14 @@
 - The City Woman is the bridge from inside — belongs in the City by merit AND by blood
 - The City Man manages global reach: BVI, Cayman, Jersey — protectorates and trusts created by the City centuries ago
 - The City Man's son faces internal guild politics alongside managing Old Gang return and global network
+- Sarah IS Old Gang by BLOOD — her father's working-class roots go back generations to the unconsecrated grave
+- Sarah's grandparents, great-grandparents etc. are buried in the same unconsecrated ground as the Old Gang
+- When the Corrupt Policeman buried Sarah's father there, he unknowingly put a son back with his own family
+- One of the five core Old Gang members is Sarah's direct ancestor — [TBD which one]
+- The Old Gang have sensed Sarah's blood connection since she arrived — that's why they respect/protect her
+- The spiritual connection is LINEAGE not proximity — family calling to family through the ground
+- Sarah's "chosen one" issue permanently resolved — she's not chosen, she's FAMILY
+- Sarah's class straddling is literally one generation of escape from generations of Elephant poverty
 
 ### Setting
 - Police station is in Elephant and Castle
@@ -261,6 +269,10 @@
 - Old Gang member at a busy junction, breathing in deeply, eyes closed — traffic fumes = mountain air to them
 - Old Gang member in yoga class — weeping at breathing exercises — instructor thinks spiritual breakthrough
 - Old Gang member in cocktail bar — adds turpentine to expensive gin — "THAT'S gin" — bartender horrified
+- Sarah traces her father's family backwards through records — finds the names, the streets, the burials
+- Sarah discovers her ancestors are in the unconsecrated grave — her family's grave
+- Sarah looks at an Old Gang member and sees her own face — recognition through blood
+- "She went to Elephant to find her father. She found her entire bloodline."
 
 ## Established Facts (Novel)
 *No chapters written yet.*

@@ -178,3 +178,13 @@ The community hall scene (walking out to find Old Gang staring across the street
 **Options:** (a) Male — traditional City patriarch, guild master (b) Female — a woman in the City's inner circle, which would subvert expectations (c) Could be both — a married couple, or a family, representing the dynasty
 **Reasoning:** A woman might be more interesting — the City has always used women (Winchester Geese) while excluding them from power. A modern woman who has broken into the guild structure while perpetuating its exploitation would be a complex antagonist.
 **Affects:** Book 2 characterisation, the Sancho dynamic, Sarah's relationship to power
+
+### RESOLVED — Sarah Is Old Gang by Blood
+**Decision:** Sarah's connection to the Old Gang is biological, not coincidental. Her father's working-class roots go back generations to the unconsecrated grave. Her ancestors are buried there. One of the five core Old Gang members is her direct ancestor. The Corrupt Policeman unknowingly buried her father among his own family.
+**Affects:** Sarah's entire character arc, the spiritual connection mechanism, the "chosen one" problem (permanently resolved — she's family), which Old Gang member is her ancestor (TBD), the lineage discovery scene
+
+### TBD — Which Old Gang Member Is Sarah's Ancestor?
+**Decision:** TO BE DECIDED — which of the five core members is Sarah's direct ancestor?
+**Options:** (a) Diamond Anne — connects the four female leads through blood as well as theme (b) John — the violent enforcer is the ancestor of the detective, irony of the bloodline (c) The Ginger Urchin — the one who crosses worlds is the ancestor of the woman who crosses worlds (d) An unnamed sixth member — someone not in the core five, someone whose story is specifically about lineage (e) Victor — though this may overcomplicate his already dense arc
+**Reasoning:** Diamond Anne is the strongest option — it means Sarah, young Diamond Anne, old Diamond Anne, and the Goth Girl are connected not just thematically but by BLOOD. The four female leads become a bloodline across centuries. Sarah IS Diamond Anne's future. Diamond Anne is Sarah's past.
+**Affects:** The revelation scene, the emotional weight, which Old Gang member protects Sarah most intensely

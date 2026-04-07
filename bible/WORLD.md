@@ -138,6 +138,10 @@ Present day. Supernatural intrusions from: Victorian era (primary), 1890s (Hooli
 
 ### The Spiritual Connection — Sarah's Father and the Grave
 
+**REVISED UNDERSTANDING:** The spiritual connection is not proximity — it is LINEAGE. Sarah's father was buried in unconsecrated ground that contains his OWN ancestors. Generations of Sarah's family — working-class Elephant people — are in that grave. The Corrupt Policeman put a son back with his family without knowing it. The energy doesn't flow stranger-to-stranger. It flows family-to-family, through the ground, through blood, through generations of shared burial.
+
+This changes the mechanism: Sarah can see the Old Gang because the Old Gang ARE her people. Not metaphorically. Biologically. One of the five core members is her direct ancestor. The ground isn't connecting strangers — it's reconnecting a bloodline that was separated by death and brought back together by a murderer's mistake.
+
 **THE MECHANISM FOR WHY SARAH CAN SEE:**
 When Sarah's father was murdered by the Corrupt Policeman, his body was buried in the excavation area — the site that was about to be cemented over as part of the regeneration. The killers believed his body would be disappeared forever — buried under concrete, gone.
 
