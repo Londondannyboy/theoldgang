@@ -181,6 +181,20 @@ The City of London is a pseudo-state within London — ancient, opaque, self-gov
 
 **The Rituals:** The guilds and the Freemasons have ancient rituals — oaths, ceremonies, initiations, recitations. Modern members learn them as tradition, performing words whose original meaning has faded into pageantry. The Old Gang KNOW these rituals because they were alive when the rituals were CURRENT — not heritage, not ceremony, but the actual operating language of City power. When an Old Gang member recites a guild ritual, they're not performing. They're speaking their native tongue.
 
+### The City as Pseudo-State
+The City of London is unique in modern history — a state within a state. Its own police force (the City of London Police, separate from the Met), its own Lord Mayor, its own governance. The monarch cannot enter without permission. This is not metaphor. This is constitutional reality. The City has maintained this independence for nearly a thousand years. The True Old Gang — "the City" in the prose — didn't need to build a power structure. They had one. It was already there. It had been there since the Normans.
+
+### The Guilds — Still Operating
+Over 100 Livery Companies still exist:
+- The Worshipful Company of Woolmen (sheep across London Bridge)
+- The Guild of Watermen (control of the Thames)
+- The Mercers, Goldsmiths, Drapers, Fishmongers
+- The Shoemakers, the Cordwainers, the Glovers
+Each guild still holds property, wealth, influence. Many still exercise ancient rights. The Old Gang know these guilds not as heritage but as employers, exploiters, power brokers — the people who used them.
+
+### Trusts and Protectorates
+The City invented the trust structure centuries ago. Many global protectorates, offshore structures, and financial mechanisms trace their legal origins to City of London guild law. The offshore exploitation (Middle East developments, subcontinent workers) runs through structures the City created. The True Old Gang don't need to learn modern finance. Modern finance was built from their tools.
+
 ### Why NOT Modern Locations
 The Old Gang meet ONLY in places that have continuously existed since their era. Not Shoreditch House, not the Shard. The members' clubs, ancient pubs, the Stone — these survived everything. The Old Gang walk in as if they never left.
 

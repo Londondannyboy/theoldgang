@@ -39,10 +39,18 @@ The True Old Gang's corruption didn't stay in Victorian London. It went global. 
 
 This connects Victorian Southwark to modern Dubai, Victorian child labour to modern supply chain exploitation, Victorian slum landlords to modern offshore property developers. The class war didn't end. It got a passport.
 
-## The True Old Gang's Institutional Framework — The Guilds
-The City of London's Livery Companies (guilds) are the True Old Gang's institutional skeleton. Over 100 guilds, some dating to the 12th century. They control vast wealth, property, influence — and they are largely invisible to modern Londoners. The True Old Gang don't infiltrate the guilds. They ARE the guilds. The merchant class, the City wealth, the exploitation machine — returning to their institutional home.
+## The City of London — The Power That Never Left
+The street gang Old Gang were buried and had to be woken. The City never went away.
 
-The ancient rituals of the guilds and the Freemasons are not heritage to the Old Gang — they are the operating language of power from their era. When an Old Gang member recites a guild ritual word-perfect, the modern City men stare. The street kid knows their secrets. But they were never secrets — they were just how things worked.
+The City of London is a pseudo-state within a state — the only example in modern history. It has its own police, its own Lord Mayor, its own laws. The reigning monarch must technically knock and ask permission to enter. The Livery Companies (guilds) are its institutional skeleton: over 100 guilds, some dating to the 12th century. The Guild of Watermen. The Guild of Shoemakers. The Mercers, the Goldsmiths, the Drapers. They control vast wealth, property, and global influence through trusts and protectorates established centuries ago that still operate today.
+
+**The City didn't adapt to the modern world. The modern world was built by the City.** The trusts, the offshore structures, the protectorates — these aren't modern financial innovations. They're ancient mechanisms, refined over centuries, still functioning. The exploitation didn't move to the City. The City IS the exploitation. It always was.
+
+**This is more fascinating than generic finance.** Everyone has written the evil banker. Nobody has written the Worshipful Company of Watermen as the institutional face of centuries-old exploitation. The guilds are real, ancient, opaque, and strange enough that the reader will want to Google them — which is when they discover it's all true.
+
+**The naming resolution:** In the bible, we call them the "True Old Gang." In the PROSE, they are simply "the City." The characters say: "The City wants to use us." "The City knows we're back." "The City never left." The word "City" carries all the weight — place, institution, power structure, state-within-a-state. The street gang is "the Old Gang." The institutional power is "the City." The reader feels the difference.
+
+**The beautiful burden:** The Old Gang (street) were products of the City's exploitation. The City created the conditions — the poverty, the child labour, the rookeries — that made the Old Gang necessary. And now both are back. But the Old Gang had to be woken from the dead. The City never slept. That asymmetry is the story's deepest irony: the victims had to be resurrected. The perpetrators just kept going.
 
 ## Sequel Potential (Book 2 / Series 2)
 The True Old Gang fully operational. Their offshore exploitation network exposed. Ignatius Sancho and City-layer criminals loose in modern London. Sarah, estranged from police, allied with community and the Camberwell Man, confronts institutional corruption that operates globally. The Avenger is embedded inside. The drill scene at Southwark Bridge is the hinge between books.

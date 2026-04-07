@@ -135,6 +135,14 @@
 - Old Gang members know the guild and Masonic rituals because they lived in that era — not heritage, actual practice
 - The Farm Boy is an Old Gang member with rural origins — placed with a guild by the Fagin for his animal skills
 - The Fagin used the Farm Boy's guild placement to build connections to City power
+- NAMING: Street gang = "the Old Gang" in prose. City layer = "the City" in prose. "True Old Gang" is bible-only terminology.
+- The City of London is a pseudo-state — own police, own Lord Mayor, monarch needs permission to enter
+- The City never left — continuous operation for centuries through guilds, trusts, protectorates
+- The street gang had to be woken from the dead. The City never slept. The asymmetry is the deepest irony.
+- Over 100 Livery Companies still operate — ancient rights, property, wealth, influence
+- The City invented the trust structure — offshore exploitation runs through City-created mechanisms
+- Ignatius Sancho at a guild event — recites the ritual, stuns the room, power extends
+- Sancho robs institutions through their OWN mechanisms — trusts, guilds, ancient legal structures
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally

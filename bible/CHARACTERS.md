@@ -261,11 +261,17 @@ Five core members. Victorian street gang from Booth's black-coded streets. Burie
 
 ---
 
-### Ignatius Sancho — True Old Gang Member
-- **Historical basis:** Real figure (c.1729–1780). First Black British voter.
-- **In story:** Reimagined as flamboyant gangster robbing the City. Righteous redistribution.
-- **First Appearance:** Late — after Southwark Bridge. Possibly just the fingers with rings in the final image.
-- **NOTE:** Requires careful handling. Book 2 character primarily.
+### Ignatius Sancho — The City's Own
+- **Role:** Key figure in the City layer (Book 2)
+- **Historical basis:** **Ignatius Sancho (c.1729–1780)** — real historical figure, first known Black British voter (1774), writer, composer, painted by Gainsborough. A man who moved in the highest circles of Georgian London.
+- **In the story:** Ignatius Sancho returns not as a street criminal but as what he always was — a man of the City. Immaculately dressed. Insanely flamboyant. Georgian style adapted with absolute confidence. He doesn't infiltrate the guilds. He IS the guild. He was there when the rituals were written. He was there when the trusts were established. He was there when the City built the machine that built the Empire.
+- **The Guild Event Scene:** Sancho walks into a Livery Company hall for a guild dinner or ceremony. The room looks at him — not with racism exactly (the City has always been more comfortable with wealth than with colour) but with confusion. Who is this man? Dressed magnificently, carrying himself with the absolute certainty of someone who belongs. And then he opens his mouth and recites the guild ritual. Every word. Every gesture. Not performing — knowing. He IS the guild. The room goes quiet. And then someone introduces him to a senior director at one of the old banks — Coutts, or Barings, or something with centuries behind its name — and the handshake happens, and power extends. Because the City recognises its own. Always has.
+- **What he represents:** Sancho is the proof that Black Londoners were part of EVERYTHING — including the power structures. He is not an outsider breaking in. He is an insider returning. The City's discomfort isn't racial — it's temporal. They don't understand how this man knows what he knows. But they recognise power when they see it, and they always have.
+- **His robberies:** Sancho robs the institutions that were built on slavery — but through the City's OWN mechanisms. Trusts. Guilds. The ancient legal structures that the City invented. He doesn't need a gun. He needs a quill and the right words in the right room. Righteous criminal redistribution through institutional channels.
+- **Function:** Shows the true depth of Black London history — centuries before Windrush. Shows the City's power is not modern finance but ancient institutional machinery. Book 2's most flamboyant and most political character.
+- **Voice Notes:** Georgian formality mixed with absolute authority. Theatrical but never performing — this is how he actually speaks. Comfortable in the modern City because the City hasn't changed.
+- **First Appearance:** Book 1 — possibly just the fingers with beautiful rings in the final image. Or a glimpse at a guild event Sarah stumbles into. Book 2 — fully operational.
+- **NOTE:** Requires careful handling — real, revered historical figure. The point is NOT to diminish but to say: Black Londoners were part of everything, including the power. They were never outside it.
 
 ---
 

@@ -167,3 +167,8 @@ The community hall scene (walking out to find Old Gang staring across the street
 **Options:** (a) Book 2 only — introduced when the True Old Gang and guild world opens up (b) Seeded in Book 1 — a brief appearance, maybe the sheep scene glimpsed by Sarah (c) The Farm Boy is one of the existing five core members reimagined with this backstory
 **Reasoning:** Option (a) is safest — keeps Book 1 focused on the street gang. Option (c) is interesting — could the Ginger Urchin or even John have a rural origin that hasn't been revealed yet?
 **Affects:** Cast size, Book 1 scope, Book 2 character introduction
+
+### RESOLVED — Naming: Old Gang vs The City
+**Decision:** In the prose, the street gang is "the Old Gang." The City institutional layer is "the City." The term "True Old Gang" is used only in the bible/editorial documents, never in the novel's text. Characters say: "The City wants to use us." "The City knows we're back." "The City never left."
+**Reasoning:** "The City" already carries every connotation needed — place, power, institution, state-within-a-state. It's what Londoners actually call it. The street gang and the City are different things and should sound different.
+**Affects:** All prose, all dialogue, Book 2 framing
