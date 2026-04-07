@@ -97,6 +97,38 @@ This novel is written as a novel FIRST — but structured and styled so that a N
   - **Episode 9** (Ch 20-24): Alliance, Victor's revelation, Urchin crosses river, Avenger goes in
   - **Episode 10** (Ch 25-28): Old crimes, father returns, the Conversation, THE DRILL
 
+### Music as Episode Signature
+Each episode/chapter has a signature old song — a real song from the Old Gang's era or from the early-to-mid 20th century that the Old Gang know. The song is played in a modern context (a pub, a nightclub, a theatre, a phone speaker) and accompanies or precedes violence. The audience learns: when an old song starts playing, something terrible is about to happen. The charm is the disguise. The nostalgia is the warning.
+
+**The Song List (candidates for episode signatures):**
+- **"Wot Cher! (Knocked 'Em in the Old Kent Road)"** (1891) — the anthem. The Old Gang's song. Used at the Golden Eagle. The title becomes a status report.
+- **"The Lambeth Walk"** (1937) — the Old Gang walking to confront a modern gang, doing the Lambeth Walk. A jaunty promenade that ends in Victorian violence. The audience sees the walk become a march.
+- **"Roll Out the Barrel"** (1927/1939) — "have a barrel of fun" — the fun is extreme violence. The song's cheerfulness is the disguise.
+- **"We'll Meet Again"** (Vera Lynn, 1939) — the nightclub DJ scene. Forced over the speakers in a grime club. "We'll meet again, don't know where, don't know when." The Old Gang HAVE met again. They always do.
+- **"My Old Dutch"** (Albert Chevalier, 1892) — a love song to a wife. Same era as "Wot Cher." Could accompany a Diamond Anne scene — the old woman who was once young, the love that death couldn't end.
+- **"It's a Long Way to Tipperary"** (1912) — a marching song. Could accompany the Old Gang crossing the river into the City — a long way from Elephant to the guilds.
+- **"Daisy Bell (Bicycle Built for Two)"** (1892) — innocence. Could accompany a scene of false calm before violence.
+- **"Any Old Iron"** (1911) — about showing off with borrowed finery. Could accompany the Old Gang discovering modern fashion.
+- **[Additional songs TBD as chapters are written]**
+
+**Rules for music use:**
+- The Old Gang can only hear LIVE music or live broadcast. So the songs must be performed live (pub pianist, busker, theatre), or played through a mechanism the Old Gang force (the DJ scene — they make someone play it).
+- The songs should be real, historically accurate, and available for licensing (important for Netflix).
+- Not every episode needs a signature song — overuse dilutes the effect. Maybe 6-7 songs across 10 episodes.
+- The irony is always present: the modern audience thinks these songs represent a rosy, charming past. The Old Gang know the truth — people were poor, sick, dying young. The songs hid the misery. They still do.
+
+### The Nightclub DJ Scene
+The Ginger Urchin walks into a modern nightclub — grime, bass, dark. He gets to the DJ booth. Not with a knife — with a DOCKER'S HOOK. A tool the DJ has never seen. The Urchin doesn't need to explain. He gestures. The DJ, terrified, changes the music.
+
+Vera Lynn. "We'll meet again, don't know where, don't know when."
+
+The whole club stops. Grime kids staring at the speakers. A World War II song in a South London club. Nobody moves. Nobody understands.
+
+The Urchin finds his target in the crowd. The violence comes while Vera Lynn sings about meeting again. Because the Old Gang have met again. They always do.
+
+### Theatre Violence — The Irony Scene
+A theatre on the South Bank plays an old song — part of the historical season. The audience inside is charmed. Outside, the Old Gang use the music as a soundtrack. The song plays through the open doors. The violence happens on the street, accompanied by a melody the audience thinks is nostalgic and harmless. The modern audience claps along to a song about poverty while actual poverty's children beat someone bloody on the pavement. The charm is a lie. It always was.
+
 ### Tone Reference for Screen
 - **Peaky Blinders** — visual style, period gang culture, the slow-motion set-piece
 - **Life on Mars** — time displacement, the detective out of their depth, institutional wrongness

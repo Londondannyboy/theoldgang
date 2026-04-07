@@ -148,6 +148,17 @@ Five core members. Victorian street gang from Booth's black-coded streets. Burie
 - **Gin — With Turpentine:** The Old Gang know London gin better than James Bond. Gin is THEIR drink — London dry gin was born in their era. But their gin was poison: adulterated with turpentine, sulphuric acid, sawdust. Gin Lane wasn't metaphor. People went blind. So when the Old Gang walk into a fine cocktail bar or hotel and order the most expensive gin in the world — taste it — they say: something's missing. Then they produce turpentine. Add it to the glass. Stir. Drink. Eyes light up. THAT'S gin. The bartender stares in horror. Other customers back away. The Old Gang member is having the best night of their life. They just made a proper drink for the first time since they died. This scene is COMEDY — dark, absurd, historically precise. The joke is that they're RIGHT about the history. Gin WAS turpentine. They're not being eccentric. They're being authentic. Everyone else just forgot what gin used to be.
 - **"Wot Cher":** The Old Gang's verbal signature. A Victorian Cockney greeting — contraction of "What Cheer," used since the Middle Ages. Sounds quaint. Sounds like an old man greeting his neighbour. The audience/reader learns to DREAD it — because when an Old Gang member says "Wot Cher" to someone, extreme violence is about to follow. The greeting IS the warning. The last friendly thing you hear. It's their "say my name." Their "I am the one who knocks." Except it's from 1891 and sounds like your granddad at the door. Use sparingly — it should land like a gunshot every time.
 - **"Knocked 'em in the Old Kent Road":** Not a song lyric. A STATUS REPORT. When the Old Gang deal with someone — violently, definitively — and someone asks what happened, the answer is: "Knocked 'em in the Old Kent Road." The phrase the world thinks is a funny old music hall song is actually the Old Gang's operational language. A crime scene report dressed as a chorus. This should be used even more sparingly than "Wot Cher" — maybe twice in Book 1, so it carries maximum weight. The audience should hear the song differently after they understand what the words actually mean.
+- **Victorian tools, never modern weapons:** The Old Gang NEVER use modern weapons. No zombie knives. No machetes. No guns. They use the tools of their era — the implements of Victorian manual labour, weaponised:
+  - Docker's hooks
+  - Cobbler's awls
+  - Mason's chisels
+  - Riveter's grippers
+  - Bargeman's poles
+  - Farrier's hammers
+  - Chandler's needles (Diamond Anne's weapon of choice — the injection)
+  - The knife from the Thames foreshore (John's Excalibur)
+  These were the weapons of the poor — people who couldn't afford swords or pistols fought with what they worked with. The tools of their trade became the tools of their violence. A docker's hook does things a zombie knife can't imagine.
+  **Forensic implication:** When modern forensic teams examine Old Gang wounds, they won't match any weapon in the database. The injuries look like industrial accidents from a century that doesn't exist anymore. Pathologists will be baffled. Sarah will recognise the pattern — wounds from tools, not weapons. Work implements. This is another clue that something from another era is operating on these streets.
 
 ---
 

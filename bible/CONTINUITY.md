@@ -204,6 +204,17 @@
 - "Knocked 'em in the Old Kent Road" is not a song lyric — it's a status report for violence completed
 - Both phrases should be used SPARINGLY for maximum impact — "Wot Cher" a few times per book, "Knocked 'em" maybe twice in Book 1
 - The Old Kent Road is core Old Gang territory — the cheapest Monopoly property (never state this in text)
+- Old Gang NEVER use modern weapons — only Victorian-era tools of manual labour
+- Docker's hooks, cobbler's awls, mason's chisels, grippers, hammers, needles, bargeman's poles
+- Diamond Anne's weapon = chandler's needle (the injection)
+- John's weapon = the Thames foreshore knife (Excalibur)
+- Forensics can't match the wounds — injuries look like industrial accidents from a vanished century
+- Sarah recognises the wound patterns as TOOLS not weapons — another clue
+- Old songs are episode/chapter signatures — charm preceding violence
+- "The Lambeth Walk," "Roll Out the Barrel," "We'll Meet Again," "Wot Cher!" etc.
+- The Urchin's nightclub scene: docker's hook to the DJ booth, forces Vera Lynn over the speakers
+- Theatre violence: old song playing inside, violence happening outside to the same soundtrack
+- The irony: modern audience thinks old songs = rosy past. Old Gang know = poverty and misery disguised as charm
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -294,6 +305,10 @@
 - Old Gang member confrontation on Old Kent Road — tough crowd, "Wot Cher," extreme violence, "Knocked 'em in the Old Kent Road"
 - The moment the audience first connects "Wot Cher" with violence — the greeting becoming a threat
 - Someone asks what happened — "Knocked 'em in the Old Kent Road" — the song becomes a crime report
+- Ginger Urchin in nightclub — docker's hook at DJ booth — Vera Lynn over the speakers — violence while "We'll Meet Again" plays
+- Old Gang walking the Lambeth Walk to confront a modern gang — jaunty promenade ending in Victorian violence
+- Theatre on South Bank — old song playing inside — Old Gang violence on the pavement outside — same soundtrack
+- Forensic team baffled by wounds from tools that haven't been used in a century
 
 ## Established Facts (Novel)
 *No chapters written yet.*

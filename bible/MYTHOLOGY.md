@@ -85,6 +85,14 @@ The Old Gang's relationship to the modern world follows one rule: the deprived e
 
 Each tells the same story: what was denied is now available. What was poisonous is now pure. What was impossible is now ordinary. The Old Gang experience modern London as a sensory miracle — and their gratitude is simultaneously moving and unsettling, because it reminds the reader of how terrible their world was, and how much the living take for granted.
 
+## Victorian Tools — The Weapons of Work
+The Old Gang fight with the tools of their trade. Docker's hooks. Cobbler's awls. Mason's chisels. Grippers. Hammers. Needles. The weapons of the poor are the implements of their labour — the same hands that built the docks, cobbled the streets, and riveted the bridges also used those tools to fight, to protect, to kill.
+
+Modern weapons — zombie knives, machetes, guns — are designed for violence. Victorian tools were designed for WORK and repurposed for violence. The difference matters: the Old Gang's violence is an extension of their labour. They were worked to death and they fight with the things that worked them. The tool IS the biography. A docker fights with a docker's hook because that's who he was. A cobbler kills with an awl because that's all he had. The weapon tells you the life.
+
+## The Old Songs — Charm as Disguise
+The old music hall songs, the wartime singalongs, the pub standards — they sound charming, nostalgic, innocent. "Have a barrel of fun." "We'll meet again." "Knocked 'em in the Old Kent Road." The modern world hears heritage. The Old Gang hear truth — these songs were written about poverty, about loss, about lives that were cheap and short and brutal. The charm was always a disguise. The song was always a survival mechanism — if you can't escape misery, you sing about it. And now the Old Gang use the songs as soundtracks to violence, and the disguise becomes a weapon: the audience HEARS charm while they SEE brutality. The disconnect is the point.
+
 ## The Victorian Photographs
 The faces in the daguerreotypes. Real children. Real women. Real poverty. Frozen in time by a camera they didn't understand, in conditions they couldn't escape. The photographs survived. The people didn't. Until now.
 
