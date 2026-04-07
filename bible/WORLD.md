@@ -265,6 +265,27 @@ Shakespeare performed at the Globe in SOUTHWARK — Old Gang territory. Theatre 
 
 **The Globe Theatre Scene:** The Old Gang break into the reconstructed Globe on the South Bank. Complete rapture. The entertainment of their era, in a building recreated from their world. They were too poor to see a play when alive. Now they weep with joy. One of the most powerful scenes in the novel.
 
+### Music Hall — The Old Gang's Spotify
+Before theatre, before the Globe, there were the music halls. The Old Gang's actual entertainment: singalongs, comedy songs, performers in pubs and halls across South London. The music hall tradition is the closest ancestor to the modern sing-along pub — which is why the Golden Eagle in Marylebone is sacred to them.
+
+**"Wot Cher! (Knocked 'Em in the Old Kent Road)"**
+Written in 1891 by Albert Chevalier — a Cockney music hall comedy song. Set on the Old Kent Road (literally in Old Gang territory, running from Elephant toward New Cross). The song tells the story of Bill and his wife, living down an alleyway in one of the poorest districts in London, who inherit a donkey cart from "your rich uncle Tom of Camberwell" — CAMBERWELL, Victor's territory.
+
+The Old Gang KNOW this song. It's from their era. They heard it in the music halls. When they walk into the Golden Eagle and the pianist plays it — or when someone suggests it at a sing-along — the Old Gang sing every word. Not nostalgia. Not performance. MEMORY. They were alive when this song was new. The crowd thinks they're enthusiastic locals. They're time travellers singing their own anthem.
+
+**Function in story:** "Wot Cher!" is the Old Gang's signature song — their musical identity. It's Cockney, it's South London, it's about poverty and community and making the best of nothing. The mention of Camberwell connects it directly to Victor. The Old Kent Road connects it to Elephant. It is the song equivalent of Booth's map: a Victorian artefact that maps perfectly onto the Old Gang's world.
+
+**Other music hall songs:** The Old Gang would know dozens — "My Old Dutch," "Any Old Iron," "It's a Long Way to Tipperary," "Daisy Bell." Each is a potential scene: the Old Gang hearing their songs performed in a modern context and reacting with the intensity of people hearing their childhood music for the first time in 150 years.
+
+### Victorian Photographs — The Faces That Come Back
+Real daguerreotypes and early photographs exist of Victorian slum children, women, and families in Southwark, the East End, and across London's poorest districts. These images — taken by social reformers, journalists, and early photographers — show the incredible faces of the people who lived in the rookeries. Children with old eyes. Women with hard mouths and soft hands. Families posed in doorways of houses that shouldn't be standing.
+
+**Function in story:** These photographs are a visual anchor. Sarah might find them in archives, in the old police unit's files, in a library. She looks at the faces. She recognises one. Or thinks she does. A face from 1890 that looks like someone she's seen on the streets of modern Elephant. The photograph doesn't move. But the person in it is walking around outside.
+
+**Netflix/Adaptation Opening Concept:** Slow pan across real Victorian photographs. Real faces. Real poverty. The incredible daguerreotypes of slum children — staring at the camera with eyes that have seen too much. Held. Still. Historical. And then one of them MOVES. Blinks. Looks at the camera. The photograph becomes alive. Cut to: modern Elephant. The same face. Walking. Cold. Dead. Alive. The opening credits become the Old Gang's return.
+
+The song "Wot Cher! (Knocked 'Em in the Old Kent Road)" plays over the credits — a Victorian music hall song, tinny and old at first, then swelling, becoming full and present, as the photographs become people and the past becomes the present.
+
 ### Shakespeare and The Elephant — The Brothel Connection
 In Shakespeare's **Twelfth Night**, the line "to the Elephant you shall rest" refers NOT to Elephant and Castle as a place, but to a BROTHEL called The Elephant (or The Elephant and Castle). The "rest" is not rest — it's sex. This is an insider reference: those who know Southwark's history understand that "The Elephant" was a bawdy house, part of the South Bank's intertwined entertainment and sex trade. Shakespeare performed at the Globe in Southwark — he knew exactly what The Elephant was.
 

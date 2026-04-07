@@ -84,3 +84,8 @@ The Old Gang's relationship to the modern world follows one rule: the deprived e
 - **The Thames** → their river, now clean → bewildered drinking
 
 Each tells the same story: what was denied is now available. What was poisonous is now pure. What was impossible is now ordinary. The Old Gang experience modern London as a sensory miracle — and their gratitude is simultaneously moving and unsettling, because it reminds the reader of how terrible their world was, and how much the living take for granted.
+
+## The Victorian Photographs
+The faces in the daguerreotypes. Real children. Real women. Real poverty. Frozen in time by a camera they didn't understand, in conditions they couldn't escape. The photographs survived. The people didn't. Until now.
+
+A photograph is a record of light that once touched a living face. The Old Gang were that light. They were those faces. When Sarah looks at a Victorian photograph and sees someone she recognises on a modern street, she is seeing light that touched a face 150 years ago — and that face is now touching the modern world again. The photograph is proof: they existed. The Old Gang walking the streets is the photograph coming to life.

@@ -189,6 +189,12 @@
 - Old Gang discover yoga/breathing practice — ecstatic at clean oxygen — weep with joy at being able to breathe
 - Old Gang know London gin better than anyone — but add turpentine because that's what real gin was
 - The gin-turpentine scene is dark comedy — historically precise, horrifying to modern observers
+- "Wot Cher! (Knocked 'Em in the Old Kent Road)" — 1891 music hall song — the Old Gang's signature anthem
+- The song mentions Camberwell (Victor's territory) and the Old Kent Road (Elephant territory)
+- The Old Gang KNOW this song from their era — they sing it from memory, not nostalgia
+- Music hall songs are the Old Gang's music — singalongs, comedy songs, pub performances
+- Victorian daguerreotype photographs of slum children exist — Old Gang members recognisable in them
+- Sarah may find/recognise Old Gang faces in historical photographs
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -273,6 +279,9 @@
 - Sarah discovers her ancestors are in the unconsecrated grave — her family's grave
 - Sarah looks at an Old Gang member and sees her own face — recognition through blood
 - "She went to Elephant to find her father. She found her entire bloodline."
+- Old Gang at the Golden Eagle singing "Wot Cher!" — every word from memory — crowd thinks they're enthusiasts
+- Sarah looking at Victorian photographs and recognising a face from modern Elephant
+- Netflix opening concept: slow pan across real daguerreotypes, one face MOVES, cut to modern Elephant
 
 ## Established Facts (Novel)
 *No chapters written yet.*

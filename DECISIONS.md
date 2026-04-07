@@ -188,3 +188,7 @@ The community hall scene (walking out to find Old Gang staring across the street
 **Options:** (a) Diamond Anne — connects the four female leads through blood as well as theme (b) John — the violent enforcer is the ancestor of the detective, irony of the bloodline (c) The Ginger Urchin — the one who crosses worlds is the ancestor of the woman who crosses worlds (d) An unnamed sixth member — someone not in the core five, someone whose story is specifically about lineage (e) Victor — though this may overcomplicate his already dense arc
 **Reasoning:** Diamond Anne is the strongest option — it means Sarah, young Diamond Anne, old Diamond Anne, and the Goth Girl are connected not just thematically but by BLOOD. The four female leads become a bloodline across centuries. Sarah IS Diamond Anne's future. Diamond Anne is Sarah's past.
 **Affects:** The revelation scene, the emotional weight, which Old Gang member protects Sarah most intensely
+
+### RESOLVED — Diamond Anne Is Sarah's Ancestor
+**Decision:** Diamond Anne is Sarah's direct ancestor. The bloodline runs: Diamond Anne → generations of Elephant women → Sarah's father → Sarah. The four female leads (Sarah, young Diamond Anne, old Diamond Anne, the Goth Girl) are connected not just by theme but by BLOOD. Sarah IS Diamond Anne's future. Diamond Anne is Sarah's past. This was resolved in Session 36.
+**Affects:** The revelation scene, the emotional weight, Diamond Anne's protective instinct toward Sarah, the meaning of the simultaneous death/birth scene
