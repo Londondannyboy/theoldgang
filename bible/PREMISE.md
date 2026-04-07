@@ -52,5 +52,10 @@ The City of London is a pseudo-state within a state — the only example in mode
 
 **The beautiful burden:** The Old Gang (street) were products of the City's exploitation. The City created the conditions — the poverty, the child labour, the rookeries — that made the Old Gang necessary. And now both are back. But the Old Gang had to be woken from the dead. The City never slept. That asymmetry is the story's deepest irony: the victims had to be resurrected. The perpetrators just kept going.
 
+## Blood That Continued — The Old Gang's Living Descendants
+The Old Gang died. Their bloodlines didn't. Generations continued — on the same streets, in the same poverty, in the same conditions. When the Old Gang return, they discover their blood is still alive. Their descendants are drug addicts, labourers, cleaners, single mothers — the modern version of the same exploitation. But one descendant made it out. One woman crossed the river and succeeded in the City. She is the proof that escape is possible. She is also the proof that it shouldn't have to be an escape.
+
+The Old Gang protecting their living descendants — with extreme, Victorian violence — is the story's most human thread. Not territory. Not supernatural destiny. Family. Blood across centuries. The dead protecting the living because nobody else will.
+
 ## Sequel Potential (Book 2 / Series 2)
 The True Old Gang fully operational. Their offshore exploitation network exposed. Ignatius Sancho and City-layer criminals loose in modern London. Sarah, estranged from police, allied with community and the Camberwell Man, confronts institutional corruption that operates globally. The Avenger is embedded inside. The drill scene at Southwark Bridge is the hinge between books.

@@ -294,6 +294,40 @@ Police hear: (1) older criminals out of prison (2) death threat / gang war (3) e
 
 ---
 
+### Old Gang Living Descendants — Blood That Continued
+The Old Gang died in the Victorian era. But their bloodlines didn't. They had parents, siblings, cousins — and those relatives had children, and those children had children, down through generations to the present day. The Old Gang, returned from the dead, discover that their blood continued. Their descendants are alive. Living in London. Many of them on the same streets, in the same poverty, in the same conditions that created the Old Gang in the first place.
+
+**What this means:**
+- The Old Gang have emotional stakes in the modern world beyond territory. They have FAMILY. Blood they didn't know survived.
+- The cycle of poverty is made visible through lineage — the Old Gang see their own descendants living the same lives they lived, on the same streets, exploited by the same forces. Nothing changed.
+- This gives the Old Gang a reason to protect specific modern people — not out of gang loyalty but out of blood.
+
+---
+
+### The Drug Addict Relative — [CHARACTER TBD]
+- **Role:** Supporting — a living descendant of an Old Gang member
+- **Background:** A woman. Drug addict. Being exploited by a dealer. Living on the same streets as her Old Gang ancestor, in the same poverty, in the same conditions. She is the living proof that the cycle never broke.
+- **Which Old Gang member:** [TBD — could be John's line, or another member's. The connection should be specific: his sister's descendants, his mother's line, traceable through generations.]
+- **The Scene:** The Old Gang member finds her. Discovers the biological connection — maybe through a name, an address, a face that looks like someone he knew. He turns up. Dead. Cold. Victorian. And he says: she's mine.
+  The dealer confronts him. "Who are you? Get out of my business."
+  The Old Gang member: "Really?"
+  Extreme violence. Victorian-scale. The dealer learns what happens when you exploit someone whose family has been dead for 150 years and has NOTHING LEFT TO LOSE.
+  The woman — confused, terrified, not understanding who this cold stranger is — is protected by a dead man she's never met who shares her blood.
+- **Function:** Shows the Old Gang as protectors, not just criminals. Shows the unbroken cycle of poverty and exploitation. Shows that the Old Gang's return has personal, biological stakes — not just territorial or supernatural ones.
+- **Thematic weight:** The Old Gang were exploited as children. Their descendants are exploited as adults. Different century. Same streets. Same exploitation. The Old Gang's violence against the dealer is not crime — it is a family protecting its own across time.
+
+---
+
+### The City Woman — Old Gang Descendant Who Made It [BOOK 2 CHARACTER]
+- **Role:** Supporting / potential major — a living woman who succeeded in the modern City and discovers she's connected to the Old Gang by blood
+- **Background:** A woman who's done well. Finance, law, or the guilds. Educated, powerful, respected. She belongs in the City by modern merit — she earned her place. But she doesn't know where she really comes from. Her family history has been sanitised, the way poverty always gets sanitised when someone escapes it. She thinks she's self-made. She is. But her blood goes back to the rookeries, the unconsecrated ground, the Old Gang.
+- **The Discovery:** She learns her lineage. Maybe through Sarah's investigation. Maybe through DNA, or old records, or a name that appears in both guild archives and Old Gang history. She discovers she is the Old Gang's success story — the descendant who got out, who climbed, who made it to the other side of the river. And she discovers that the other side of the river was always built on the bones of her people.
+- **What she becomes:** The bridge from the INSIDE. Not the Avenger (who infiltrates by pretending). Not the Urchin (who visits as an outsider). A woman who BELONGS in the City by modern right AND by ancient blood. She can move in both worlds because she IS both worlds. She is what Diamond Anne might have been in another life. She is what the Old Gang fought and died so that someone, someday, could become.
+- **Connection to Sarah:** Two women who straddle worlds. Sarah straddles police and community. The City Woman straddles the City and the street. Both discover their fathers' truths. Both must choose which side of the river they stand on.
+- **NOTE:** Book 2 character primarily. Possibly seeded late in Book 1 if natural.
+
+---
+
 ### The True Old Gang (City Layer)
 - **Role:** Real antagonist. BOOK 2.
 - **Concept:** East India Company-type corrupt power. Offshore exploitation. Adapt, walk among us.
@@ -352,6 +386,8 @@ Police hear: (1) older criminals out of prison (2) death threat / gang war (3) e
 - **The Father's Historical Range:** Born ~1931, dying ~2026. His memory stretches back to the 1930s-40s. His father's memory would reach back to the 1890s-1900s. His grandfather's memory: the 1860s-70s — the OLD GANG'S ERA. Three generations of living memory connect the dying father to the Victorian exploitation. He KNOWS what was done because the knowledge was passed down like an heirloom. The guilt is inherited along with the wealth.
 
 - **Forsyte Saga Parallel:** The story of a family dynasty whose wealth was built on exploitation, told across generations. The patriarch who feels the weight. The inheritor who feels only the privilege. The Old Gang is the Forsyte Saga's dark mirror — not a family losing its grip on values, but a family that never had values, only interests, dressed up as tradition.
+- **International Reach:** The City Man doesn't just operate in London. The City of London's power extends globally through trusts, protectorates, and offshore structures — many of which the City literally CREATED. The British Virgin Islands. The Cayman Islands. Jersey. Guernsey. These aren't independent financial centres — they are City of London infrastructure, exported. When the City Man says "I'm having a problem with the BVI" or "the protectorate isn't cooperating," he's talking about managing a global empire that most people don't realise is connected to a square mile in London. The offshore exploitation (Middle East developments, subcontinent workers dying) runs through trust structures that the City invented centuries ago. The City Man manages these the way his ancestors managed the guilds — as property, as entitlement, as ancient right.
+- **The son's battles within the guilds:** The City Man (the son, after his father's death) faces internal guild politics — factions, rivalries, competing interests within the Livery Companies. The City is not a monolith. It's a network of competing dynasties, each with their own interests, their own secrets, their own debts. The son must navigate this while managing the Old Gang's return AND the global trust network. He is fighting on three fronts: the street (Old Gang), the guilds (internal politics), and the world (protectorates, trusts, offshore).
 
 ---
 

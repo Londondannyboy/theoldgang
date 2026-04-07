@@ -57,6 +57,13 @@
 - The knife scene is the Excalibur parallel — FELT, never stated
 - John's knife is the first weapon he CHOOSES — not given by Fagin, not picked up in a fight
 - John's moment is silent — no speech, no declaration — he pulls, he walks, he is armed
+- Old Gang members have LIVING biological descendants in modern London — blood that continued after their deaths
+- The cycle of poverty visible through lineage — descendants living same lives on same streets
+- A female descendant is a drug addict being exploited — Old Gang member protects her with extreme violence
+- A City Woman is an Old Gang descendant who succeeded in the modern City — doesn't know her lineage
+- The City Woman is the bridge from inside — belongs in the City by merit AND by blood
+- The City Man manages global reach: BVI, Cayman, Jersey — protectorates and trusts created by the City centuries ago
+- The City Man's son faces internal guild politics alongside managing Old Gang return and global network
 
 ### Setting
 - Police station is in Elephant and Castle
@@ -238,6 +245,10 @@
 - The patriarch sees the Urchin and RECOGNISES — begs for mercy — generations of knowledge in one look
 - The patriarch dies — filed as natural causes — the City's own systems cover for the Old Gang
 - The son returns to find his father dead — doesn't know what really happened
+- Old Gang member discovers a living descendant — a drug addict on the same streets — "she's mine"
+- Confrontation with drug dealer: "Get out of my business." "Really?" Extreme Victorian violence.
+- The City Woman discovers her Old Gang lineage — the descendant who got out, who made it to the other side of the river
+- The City Man dealing with BVI/protectorate issues — the global dimension of City power
 
 ## Established Facts (Novel)
 *No chapters written yet.*
