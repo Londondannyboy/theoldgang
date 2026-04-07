@@ -19,6 +19,7 @@ This rotating POV allows the Old Gang to be developed as characters the reader c
 - **Sarah's interiority:** Increasingly fractured as old world infects her life.
 - **The old police unit:** Slower, more tactile — weight of filing cabinet drawers, click of old phone, silence where notifications should be.
 - **Late chapters:** Boundary between living and dead blurs in the writing itself. Quiet erosion.
+- **Violence and blood:** When the Old Gang commit violence, describe it from INSIDE their sensory experience. The warmth of blood on cold skin. The smell of iron. The colour against dead flesh. Violence for the Old Gang is not just action — it is a sensory event, the most vivid connection to the living world they can experience. The reader should feel the dead person's experience of touching life through blood, and simultaneously feel the horror of what that means. Sympathy and fear. Both. Always.
 
 ## Things to Do
 - Ground in real Elephant geography — real streets, estates, pubs

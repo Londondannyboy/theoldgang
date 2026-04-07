@@ -172,6 +172,11 @@
 - The patriarch recognises the Urchin — begs for mercy — the Old Gang dispatch him
 - Death recorded as natural causes — nobody remembers the visitor
 - "You reap what you sow" — the moral of the story
+- First blood after returning is a SENSORY EVENT for the Old Gang — warmth, smell, colour — overwhelming
+- Blood on dead hands = the most vivid sensation since returning — same logic as sunlight/flowers/music worship
+- NOT vampiric — not hunger, not feeding — but instinctive, reflexive, the deprived reaching for sensation
+- John is likely the first to draw blood — the nightclub scene or earlier confrontation
+- The tonal tightrope: reader feels sympathy AND horror simultaneously — always both, never just one
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally

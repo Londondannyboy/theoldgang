@@ -72,6 +72,13 @@ Developed across 25 brain dump sessions. This is the definitive character bible.
 - Before this, his violence was reactive — Fagin's creation. The knife in the wood is the first weapon he CHOOSES. Found. Claimed. His. He transitions from being someone else's weapon to being his own.
 - This is NOT Victor's name-reclaiming moment (grand, theatrical, a declaration). John's moment is silent. He pulls. He walks. He is armed. That's all.
 
+**First Blood — John's Scene:**
+- John is the most violent of the Old Gang. He will be the first to draw blood after their return. When it happens — maybe the nightclub scene, maybe an earlier confrontation — the moment should be described from INSIDE his experience.
+- The knife goes in. Warm. The warmth is what hits him first. Not the act — the TEMPERATURE. Living blood is warm. His hands haven't felt warmth from another body in over a century. It spreads across his fingers. He looks at his hand. Red against white. Alive against dead.
+- He licks his hand. Not hunger. Not savagery. Instinct. The way you'd put your hand to your mouth if you burned it — reflexive, animal, reaching for sensation. The taste of iron. Of copper. Of LIFE. The most alive thing he's tasted since he came back from the ground.
+- And then: stillness. The person on the floor. The blood cooling. The warmth leaving. Becoming dead, like him. The moment passes. The blood goes cold. He is alone again with the cold.
+- This scene should make the reader hold their breath. Not from horror — from recognition. The reader has felt warmth. The reader knows what it is to be cold and suddenly feel heat. The reader understands the reflexive reach for sensation. And then the reader remembers what caused it, and the sympathy and the horror collide.
+
 - **Key Scenes:** Police custody (screen blindness, blood test: dead), grime club (shanks bouncer, extreme violence), Fagin confrontation
 - **Voice Notes:** Sparse. One-liners. Communicates through action.
 
@@ -126,6 +133,9 @@ Five core members. Victorian street gang from Booth's black-coded streets. Burie
 - **Violence:** Casual, intimate, extreme. Victorian-scale.
 - **Suicide:** ABHORRENT. They know death is the grave.
 - **Race:** Don't see racial colour. Class and territory.
+- **Blood — The First Kill:** The Old Gang have been dead for over a century. Death is sensory deprivation — no warmth, no smell (beyond their own decay), no touch that carries life. When they kill for the first time after returning — when warm, living blood hits their dead skin — it is the most vivid sensation they have felt since coming back. Not evil. Not vampiric. ELECTRIC. The warmth of living blood on skin that hasn't felt another body's warmth since the Victorian era. The smell — iron, copper, life itself. The colour against pale dead skin. It is overwhelming. Almost religious. The same way sunlight is religious to them. The same way flowers and music and pineapples are religious. Blood is the most alive substance in the world, and they are the least alive people touching it.
+- **The tonal tightrope:** The reader should feel sympathy AND horror simultaneously. Sympathy: this dead person is experiencing something vivid and alive for the first time in 150 years. Horror: that something is another person's blood. The reader shouldn't know whether to grieve for the Old Gang member or fear them. Both. At once. This is the novel's emotional core — the dead are not monsters and not victims. They are people experiencing the living world with the intensity of the deprived.
+- **NOT vampire fiction:** This is sensory logic, not supernatural hunger. They don't NEED blood. They don't seek it. They don't feed. But when violence happens — and it will, because they are a street gang and violence is what street gangs do — the blood is a sensory event. It connects them to the living world in the most intimate, most terrible way possible. A dead hand covered in warm blood is the crossing point between death and life made physical.
 
 ---
 

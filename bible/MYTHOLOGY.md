@@ -63,3 +63,6 @@ The moral of the story. The Old Gang were buried by the City's exploitation. The
 You reap what you sow. The City sowed poverty, exploitation, child labour, unconsecrated burials. It reaped wealth, power, guilds, dynasty. And now the harvest comes back: the people they buried, standing at the foot of the bed, collecting the debt.
 
 The Old Gang's return is not vengeance. It is agriculture. You put something in the ground. It grows. It comes back. The City planted the dead. The dead grew. The crop is ready.
+
+## Blood — Life on Dead Hands
+The Old Gang worship warmth (sunlight), beauty (flowers), sound (live music), taste (pineapples), cleanliness (modern hygiene). Each is a sensory miracle for people who came from filth, stench, cold, and silence. Blood completes the sensory theology: the warmest, most alive substance in the world, on the coldest, most dead skin. It is the crossing point. The moment where death touches life most intimately. Not feeding — feeling. Not vampire — human. The dead experiencing the living through the most primal substance there is.
