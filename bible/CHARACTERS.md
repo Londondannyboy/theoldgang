@@ -353,6 +353,17 @@ The Old Gang died in the Victorian era. But their bloodlines didn't. They had pa
 
 ---
 
+### The Bankside Woman — Descendant in Exploitation
+- **Role:** Supporting — a living descendant of an Old Gang member, discovered on Bankside
+- **Background:** A sex worker. Bankside / Southwark. May be trafficked, may be survival sex work, may be controlled by a modern pimp or network. She doesn't know her lineage. She doesn't know that women in her family have been on these same streets for centuries — the Winchester Geese, the stew workers, the women the Church licensed and the City used.
+- **Which Old Gang member:** [TBD — could be Diamond Anne's line (connecting the female leads further), or another member's. The connection should emphasise that women in this family have been exploited on Bankside for generations — the cycle is gender-specific as well as class-specific.]
+- **The Discovery:** An Old Gang member encounters her on Bankside. Recognises the blood — a face, a gesture, a name. Realises: this is family. Their descendant. Still here. Still being used. The same streets. The same transaction. Five hundred years of exploitation and nothing changed except the clothes.
+- **The Reckoning:** The Old Gang member finds the City client. Victorian tool. Bankside doorway. The institutional man who crossed the river for what institutional men have always crossed the river for discovers that the ground has a memory and the memory has a docker's hook.
+- **Restraint:** This scene is handled with absolute restraint. We do NOT show exploitation. We show the Old Gang member's face when they recognise their descendant. We show the aftermath. We show the woman who doesn't understand why a cold stranger saved her. The horror is in the CONTINUITY, not in the act.
+- **Thematic weight:** The Winchester Geese were licensed by the Church, consumed by the City, and buried in unconsecrated ground. Their descendants are still working the same streets. The cycle didn't break. The Old Gang's return is the first time anyone has intervened — and the intervention comes from the dead, because the living never bothered.
+
+---
+
 ### The City Woman — Old Gang Descendant Who Made It [BOOK 2 CHARACTER]
 - **Role:** Supporting / potential major — a living woman who succeeded in the modern City and discovers she's connected to the Old Gang by blood
 - **Background:** A woman who's done well. Finance, law, or the guilds. Educated, powerful, respected. She belongs in the City by modern merit — she earned her place. But she doesn't know where she really comes from. Her family history has been sanitised, the way poverty always gets sanitised when someone escapes it. She thinks she's self-made. She is. But her blood goes back to the rookeries, the unconsecrated ground, the Old Gang.

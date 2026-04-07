@@ -258,8 +258,29 @@ The Old Gang drank from it, washed in it, scavenged from it. Pre-Great Stink (18
 - One third of young London women (15-25) were prostitutes in 1851
 - Life expectancy in worst slums: 18.5 years
 
-### Prostitution and the Church
-South Bank brothels ("stews") licensed by the Bishop of Winchester. Prostitutes known as "Winchester Geese." The Church profited from the sex trade while preaching morality. Institutional hypocrisy has precedent going back centuries.
+### Bankside — Prostitution, the Church, and the City (Historical and Modern)
+
+**The Historical Reality:**
+South Bank brothels ("stews") were licensed by the Bishop of Winchester from the 12th century onwards. Prostitutes were known as "Winchester Geese." The Church PROFITED from the sex trade while preaching morality from the pulpit. The City of London pushed prostitution outside its walls to Southwark — then sent its men across the bridge to use the services. Church and City: partners in exploitation. One licensed it. The other consumed it. Both profited. Neither acknowledged it.
+
+**The same streets, the same exploitation:**
+Modern Bankside — the area around Southwark Bridge, Borough, the South Bank — still has a sex trade. Not licensed by the Bishop. Not in medieval stews. But present. Street workers, brothels disguised as massage parlours, trafficking victims, survival sex workers. The geography hasn't changed. The transaction hasn't changed. The institutional hypocrisy hasn't changed — modern City men cross the river to Southwark for what City men have always crossed the river for. The buildings are different. The power dynamic is identical.
+
+**The Descendant Scene (Book 1 or Book 2):**
+A woman working on Bankside — a sex worker. She doesn't know her lineage. She doesn't know that her blood goes back to the Old Gang, to the unconsecrated ground, to the Victorian streets where her ancestors lived and died. She just knows this is her life, on these streets, and men with money come to Southwark for what they've always come for.
+
+Her client: a City figure. Respectable. Guild member. Married. He comes to Bankside the way City men have always come — discreetly, entitled, treating the transaction as his due. The same institutional power that licensed the Winchester Geese, centuries later, still using women on the same ground.
+
+An Old Gang member finds her. Recognises the blood — a descendant. Their daughter's daughter's daughter. Being used by the same power structure that used the Winchester Geese. The same geography. The same exploitation. The same hypocrisy in a different suit.
+
+**The vengeance:** Delivered with a Victorian tool. On Bankside. Where the stews stood. The scene shows AFTERMATH — the Old Gang member in a doorway, the City man learning what a docker's hook feels like, and somewhere nearby a woman who doesn't understand why a cold stranger just changed her life. We don't show exploitation. We show the reckoning.
+
+**What this scene does:**
+- Connects Victorian Bankside prostitution to modern sexual exploitation — same streets, same transaction
+- Shows the Church/City institutional hypocrisy continuing across centuries
+- Gives the Old Gang another living descendant to protect — the most vulnerable kind
+- Demonstrates that the Old Gang's vengeance is not random violence — it is specific, historical, justified
+- Uses the geography: Bankside is where the Winchester Geese walked. Bankside is where this woman walks. The ground remembers.
 
 ### Theatre — The Old Gang's Netflix
 Shakespeare performed at the Globe in SOUTHWARK — Old Gang territory. Theatre was mass entertainment. The Old Gang cannot see screens but CAN experience live theatre.

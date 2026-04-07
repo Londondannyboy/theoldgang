@@ -215,6 +215,12 @@
 - The Urchin's nightclub scene: docker's hook to the DJ booth, forces Vera Lynn over the speakers
 - Theatre violence: old song playing inside, violence happening outside to the same soundtrack
 - The irony: modern audience thinks old songs = rosy past. Old Gang know = poverty and misery disguised as charm
+- Bankside prostitution: Winchester Geese (Church-licensed) → modern sex trade — same streets, same exploitation
+- An Old Gang descendant is a sex worker on Bankside — doesn't know her lineage
+- Her client is a City figure — institutional man using Bankside the way City men always have
+- Old Gang member discovers her, recognises the blood, delivers vengeance on the City client
+- The scene shows aftermath and reckoning, NOT exploitation — handled with restraint
+- Bankside is the oldest exploitation ground in London — the transaction never changed
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -309,6 +315,9 @@
 - Old Gang walking the Lambeth Walk to confront a modern gang — jaunty promenade ending in Victorian violence
 - Theatre on South Bank — old song playing inside — Old Gang violence on the pavement outside — same soundtrack
 - Forensic team baffled by wounds from tools that haven't been used in a century
+- Old Gang member discovers descendant working Bankside — recognises blood — the cycle visible across centuries
+- City client on Bankside meets Victorian vengeance — docker's hook in a doorway
+- The Bankside woman saved by a cold stranger she doesn't understand — the dead protecting the living
 
 ## Established Facts (Novel)
 *No chapters written yet.*

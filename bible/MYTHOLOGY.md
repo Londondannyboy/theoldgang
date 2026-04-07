@@ -93,6 +93,11 @@ Modern weapons — zombie knives, machetes, guns — are designed for violence. 
 ## The Old Songs — Charm as Disguise
 The old music hall songs, the wartime singalongs, the pub standards — they sound charming, nostalgic, innocent. "Have a barrel of fun." "We'll meet again." "Knocked 'em in the Old Kent Road." The modern world hears heritage. The Old Gang hear truth — these songs were written about poverty, about loss, about lives that were cheap and short and brutal. The charm was always a disguise. The song was always a survival mechanism — if you can't escape misery, you sing about it. And now the Old Gang use the songs as soundtracks to violence, and the disguise becomes a weapon: the audience HEARS charm while they SEE brutality. The disconnect is the point.
 
+## Bankside — The Oldest Transaction
+Bankside is where the Church licensed prostitution and the City consumed it. Winchester Geese walked these streets for five hundred years. The ground they walked on is the same ground modern sex workers walk on. The stews became massage parlours. The Bishop became the landlord. The City man crossing the bridge became the City man in an Uber. The transaction never changed. Only the technology did.
+
+When an Old Gang member discovers a descendant working Bankside, they are seeing the oldest exploitation in London continuing on the oldest exploitation ground in London. The intervention — violent, Victorian, delivered with a work tool — is the first time in five hundred years that anyone has stood between the women of Bankside and the men who use them. And it took a dead person to do it, because the living institutions that could have stopped it were the ones profiting from it.
+
 ## The Victorian Photographs
 The faces in the daguerreotypes. Real children. Real women. Real poverty. Frozen in time by a camera they didn't understand, in conditions they couldn't escape. The photographs survived. The people didn't. Until now.
 
