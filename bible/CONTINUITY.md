@@ -266,6 +266,15 @@
 - Soames BELIEVES his own speech — the whitewashing is inherited, not cynical — that's what makes it terrifying
 - The ragged schools were control, not charity — make the poor useful, obedient, grateful
 - The Old Gang were the children these schools failed or never reached
+- VULNERABILITY: Old Gang have NO biological resistance to modern diseases, chemicals, or pharmaceuticals
+- 150 years of pathogen evolution they missed — modern flu, modern compounds, modern food additives
+- Their obsession with cleanliness is instinctive SELF-PRESERVATION — they're drawn to purity because modern impurity could destroy them
+- The irony: they worship what could kill them — clean air carries hostile particulates they can't resist
+- Soames discovering this vulnerability gives the City a weapon: modern science against the dead
+- Using disease against the Old Gang mirrors Victorian history: disease killed the poor, the rich survived
+- This maintains the power balance: Old Gang have death/fearlessness, City has science/biology
+- "Kill them." — Soames to the gang leader — two words — he IS a gangster
+- Soames ordering a hit through the modern gang is the City commanding the street — same as always
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -383,6 +392,10 @@
 - Cut between the speech and the cocaine/prostitution scenes — the hypocrisy made visible through editing
 - Sarah (or Old Gang member) recognising the Old School building in Waterloo — another relic hiding in plain sight
 - An Old Gang member outside the Old School — the school they never attended, the education they were never given
+- Soames tucks his tie, turns to gang leader: "Kill them." Walks out. The City commands, the street executes.
+- The gang leader realising he just received an order from a guild master — the chain intact
+- Soames discovering the Old Gang's biological vulnerability — modern science as weapon
+- An Old Gang member weakened by modern exposure — the vulnerability made visible
 
 ## Established Facts (Novel)
 *No chapters written yet.*

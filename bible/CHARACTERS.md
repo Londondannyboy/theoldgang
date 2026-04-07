@@ -160,6 +160,28 @@ Five core members. Victorian street gang from Booth's black-coded streets. Burie
   These were the weapons of the poor — people who couldn't afford swords or pistols fought with what they worked with. The tools of their trade became the tools of their violence. A docker's hook does things a zombie knife can't imagine.
   **Forensic implication:** When modern forensic teams examine Old Gang wounds, they won't match any weapon in the database. The injuries look like industrial accidents from a century that doesn't exist anymore. Pathologists will be baffled. Sarah will recognise the pattern — wounds from tools, not weapons. Work implements. This is another clue that something from another era is operating on these streets.
 
+- **THE VULNERABILITY — No Resistance to the Modern World:**
+  The Old Gang's kryptonite. They have NO biological resistance to modern diseases. They died before antibiotics. Before modern flu variants. Before 150 years of pathogen evolution. Their bodies — whatever dead biology sustains them — carry ZERO resistance to the modern microbial world.
+
+  **What this means practically:**
+  - A common modern flu strain could disable them — their immune systems (or whatever the dead equivalent is) have never encountered it
+  - Modern chemicals — cleaning products, pesticides, industrial compounds — are toxic to bodies that have no exposure history
+  - Antibiotics, antivirals, modern pharmaceuticals — designed for modern biology — could have unpredictable, devastating effects on Victorian-era bodies
+  - Air pollution (which they worship as "clean") carries particulates and compounds they have no defence against
+  - Modern food preservatives, additives, processed ingredients — their bodies can't process what they've never encountered
+
+  **The irony:** The things the Old Gang MARVEL at — the clean air, the clean water, the hygiene, the fresh food — are markers of a biological environment that is HOSTILE to them. Their obsession with cleanliness isn't just aesthetic. It's INSTINCTIVE SELF-PRESERVATION. They are drawn to purity because impurity (in its modern forms) could destroy them. They worship what could kill them.
+
+  **How this gives Soames power:** If Soames discovers this vulnerability — and the City, with its access to modern science, modern medicine, modern pharmaceutical networks, WOULD discover it — he has a weapon. Not a docker's hook. Not Victorian violence. SCIENCE. The modern world itself as a weapon against the dead. Soames doesn't need to fight the Old Gang. He needs to EXPOSE them — to the modern biological environment that their bodies can't survive.
+
+  **The moral dimension:** Using modern disease against the Old Gang is biological warfare against the already-dead. It mirrors the historical reality: Victorian slums WERE killed by disease — cholera, typhus, smallpox ravaged the rookeries. The poor died of diseases the rich could avoid. If Soames uses modern disease against the Old Gang, he is doing EXACTLY what the City always did: weaponising the environment against the vulnerable. The method changes. The morality doesn't.
+
+  **Story function:** This vulnerability creates genuine tension. The Old Gang can't die from violence (they're already dead). But they CAN be weakened, disabled, incapacitated by modern biology. This means:
+  - The Old Gang's fearlessness in combat is real — you can't kill someone who's already dead
+  - But the City has a different weapon — one the Old Gang don't understand and can't see coming
+  - The power balance is maintained: the Old Gang have death, the City has science
+  - Neither side is invincible. Both have weapons the other can't match.
+
 ---
 
 ### Victor / Marcus — The Camberwell Man / Top Boy / Old Gang Leader
@@ -547,6 +569,19 @@ The Old Gang died in the Victorian era. But their bloodlines didn't. They had pa
 
 - **The Gang Leader as Character [NAME TBD]:**
   This gang leader needs development. He is NOT Victor — he's a separate figure, the businessman of the modern drug trade. Smart, articulate, running a professional operation. He and Soames recognise each other as equals because they ARE equals — both managing complex organisations, both dealing with competition, both navigating violence as a business cost. Their friendship (and it IS a friendship, of sorts — the friendship of powerful men who understand each other) is one of Book 2's most important relationships. It also connects three storylines: the modern gang world, the City, and the corrupt police.
+
+- **"Kill them."**
+  Soames stands. Tucks in his shirt. Straightens his tie. Smooths his jacket. Becomes the City Man again — the guild master, the institutional inheritor, the man who gives speeches about benevolence.
+
+  He turns to the gang leader. Doesn't raise his voice. Doesn't explain. Doesn't negotiate.
+
+  "Kill them."
+
+  Walks out. Down the stairs. Past the pub. Into the night. Back across the river.
+
+  The gang leader sits with his cocaine and realises: he just received an order from a guild master. The same way Victorian street criminals received orders from the same guilds. The chain is intact. The relationship hasn't changed. The City commands. The street executes.
+
+  **What this reveals:** Soames is not a businessman who sometimes acts like a gangster. He IS a gangster who happens to run a guild. Two words prove it. The audience sees: there is no difference between the upstairs bar and the guild hall. The cocaine and the champagne serve the same function. The gang leader and the guild master are the same role. "Kill them" is what the City has always said to the street. Just usually with more words.
 
 ---
 
