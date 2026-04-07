@@ -59,6 +59,19 @@ This is the story's ultimate thesis: individual redemption is insufficient again
 
 The fight goes on — not because people are evil, but because institutions are immortal. The Old Gang were buried by an institution. They return to fight an institution. And the institution is still standing when the people inside it crumble. The only force that might match the City's immortality is the Old Gang's — because the dead, like the institution, do not end.
 
+## The City Absorbs Everything — Even Its Own Debts
+The Old Gang's return should be the City's reckoning. Instead, it becomes the City's renewal. Soames takes the generational knowledge — the secret of the dead, the institutional memory of exploitation — and presents it as wisdom. Tradition. Depth. Competitive advantage. The modern City rallies behind a man whose power comes from knowing where the bodies are buried. Literally.
+
+This is the story's cruellest irony: the dead return to settle debts, and the living turn the debt into an asset. The City doesn't fear the past. It monetises it. The Old Gang are being exploited AGAIN — not as labourers this time, but as mythology. Their suffering, their return, their supernatural reality — all absorbed into the City's narrative of ancient, continuous, legitimate power.
+
+The only force that can resist this absorption is the Old Gang themselves — by refusing to be used. By choosing their own story. By crossing the river not as servants or mythology but as equals. The power balance between the Old Gang and the City is the story's central tension: the dead who cannot die vs the institution that cannot end.
+
+## The Power Balance — Neither Side Can Win Outright
+- **The Old Gang have:** death, fearlessness, moral authority, supernatural reality, Victorian violence
+- **The City has:** knowledge of death (generational), money, legal frameworks, institutional immortality, the ability to adapt and absorb
+- **Both have:** ancient knowledge, continuous existence (one through death, one through institution), claim to the same ground
+- **Neither can destroy the other.** They can only outmanoeuvre, outlast, out-adapt. The story is not about one side winning. It's about what happens when two immortal forces — the dead and the institution — occupy the same city.
+
 ## Blood That Continued — The Old Gang's Living Descendants
 The Old Gang died. Their bloodlines didn't. Generations continued — on the same streets, in the same poverty, in the same conditions. When the Old Gang return, they discover their blood is still alive. Their descendants are drug addicts, labourers, cleaners, single mothers — the modern version of the same exploitation. But one descendant made it out. One woman crossed the river and succeeded in the City. She is the proof that escape is possible. She is also the proof that it shouldn't have to be an escape.
 

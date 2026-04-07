@@ -238,6 +238,15 @@
 - His daughter inherits guilt AND powerlessness — potential Book 3 bridge to Sarah's world
 - The story's ultimate thesis: individual redemption is insufficient against institutional power
 - Institutions outlast individuals — the City was designed to survive any single person's change of heart
+- CRITICAL RULE: Old Gang and City are EQUALS in power — neither can destroy the other
+- Old Gang have death/fearlessness/moral authority. City has knowledge/money/institutional immortality.
+- Soames's generational knowledge of death = equal power to Old Gang's supernatural reality
+- TWIST: Old Gang's return EMPOWERS Soames — he presents ancient knowledge as competitive advantage
+- Soames gives speech to global business leaders — City rallies behind him — his burden becomes his credential
+- The City absorbs the Old Gang's return as institutional mythology — the dead exploited AGAIN
+- Soames scene: Globe Theatre → alleyway → prostitute → confronted by Old Gang → standoff (not defeat)
+- The standoff is mutual recognition — both products of the same system — neither wins
+- The woman in the alleyway is baffled — two men from different centuries acknowledging the same transaction
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -342,6 +351,10 @@
 - The City Man rewriting his will — the charity fund — genuine atonement attempted
 - The City overturning the will after his death — guild mechanisms dissolving the reconciliation
 - The daughter inheriting everything except the power to change it
+- Soames at the Globe — champagne, networking — then walks to alleyway, up stairs, prostitute on Bankside
+- Standoff: Soames and Old Gang member in the alleyway — mutual recognition — "This has always been the way"
+- Soames's speech to global business leaders — old and new, ancient roots, competitive advantage — the City cheers
+- The Old Gang watching from across the river as Soames turns their return into his power — exploited again
 
 ## Established Facts (Novel)
 *No chapters written yet.*
