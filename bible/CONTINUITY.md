@@ -247,6 +247,15 @@
 - Soames scene: Globe Theatre → alleyway → prostitute → confronted by Old Gang → standoff (not defeat)
 - The standoff is mutual recognition — both products of the same system — neither wins
 - The woman in the alleyway is baffled — two men from different centuries acknowledging the same transaction
+- Soames crosses the river for vice — drugs, drink — in a seedy upstairs pub in Elephant
+- Soames meets a modern gang leader as an EQUAL — vice is the great leveller
+- They compare businesses: drug distribution = City finance. Same structure, different postcodes.
+- The gang leader describes Old Gang violence: antique tools, extreme brutality, "like a relic, Victorian"
+- Soames recognises the trademark signals — his family's warning was real — the Old Gang is back
+- Soames learns about the Old Gang from a drug dealer, not from supernatural experience
+- Information chain: forensic details leak from corrupt police → gang leader → Soames
+- The corrupt police network at the station is wider than just the Corrupt Policeman — it's institutional
+- A modern gang leader (NOT Victor) is a key Book 2 character — businessman of the drug trade
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -355,6 +364,11 @@
 - Standoff: Soames and Old Gang member in the alleyway — mutual recognition — "This has always been the way"
 - Soames's speech to global business leaders — old and new, ancient roots, competitive advantage — the City cheers
 - The Old Gang watching from across the river as Soames turns their return into his power — exploited again
+- Soames in the upstairs bar — cocaine, drinks — talking business with a gang leader as equals
+- "That's quite similar to my world, actually" — the parallel between drug trade and City finance
+- Gang leader describes Old Gang violence: "an anger hook, like an antique, Victorian, only a few left in the world"
+- Soames's face changes — recognises the trademark — father's warning was real
+- The information chain: forensics → corrupt police → gang leader → Soames
 
 ## Established Facts (Novel)
 *No chapters written yet.*

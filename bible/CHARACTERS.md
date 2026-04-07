@@ -252,6 +252,7 @@ Five core members. Victorian street gang from Booth's black-coded streets. Burie
 - **The Reveal:** Sarah reads files. He's standing above her. "Some things are better left buried." She: "Like my father?"
 - **The scariest:** Not dead. Not supernatural. Just institutional corruption wearing a uniform.
 - **Voice Notes:** Professional. "For your own good" means "for mine."
+- **The Information Chain:** The Corrupt Policeman is not the only corrupt officer at the station. There is a network — or at least a connection — between senior officers and the modern gang leader. Forensic details, case information, and intelligence flow from the police to the gang world and from the gang world to the City. The corruption isn't just one man — it's a SYSTEM. The Corrupt Policeman who murdered Sarah's father is the most extreme example, but the culture of information-sharing between police and criminals is institutional. This is how Soames learns about the Old Gang's trademark violence — through a chain that runs: forensic team → corrupt officer → gang leader → Soames in a pub. Everyone knows. Nobody acts.
 
 ---
 
@@ -505,6 +506,36 @@ The Old Gang died in the Victorian era. But their bloodlines didn't. They had pa
   - The Old Gang are being used AGAIN. The City used them as street labour in the Victorian era. Now the City uses their return as institutional mythology. The exploitation continues in a form even the dead didn't anticipate.
 
   **The audience reaction:** The modern City cheering Soames's speech should make the audience uncomfortable. They're watching a man profit from the exploitation of the dead. And the dead — watching from across the river, from the Booth streets, from the wrong side of the Thames — see it happening and realise: the City hasn't just survived their return. The City has ABSORBED it. Same as always.
+
+- **The Pub Scene — Soames Crosses the River for Vice:**
+  Soames in a seedy upstairs bar above a pub in Elephant. Not the Globe. Not the guild hall. The OTHER side of his life — the part that crosses the river for kicks. Was it ever thus? Did not rich men always cross to Southwark for what Southwark provides? Drink. Drugs. Women. The things the City consumes but won't acknowledge.
+
+  Cocaine on the table. Drinks flowing. And across from him: a modern gang leader. Afro-Caribbean. The man who runs the local drug operation. Not Victor — a different figure, the man who controls the business of the streets. These two men would never meet in daylight. In this room, they're equals. Because vice is the great leveller. The ancient desire to get absolutely hammered unites all British people — upper class, criminal, lower middle class. Always has.
+
+  **The Conversation — Same Business, Different Postcodes:**
+  They talk. As equals. On the same level — this is essential. The gang leader describes his operation: distribution networks, supply chains running county lines to different parts of the country, a problem with a rival gang, how he dealt with it. Business language. Strategy. Logistics.
+
+  Soames listens. And says: "That's quite similar to my world, actually."
+
+  The gang leader describes the City — as he understands it from the outside. The parallels are exact. Territory. Competition. Supply chains. Enforcement. The gang leader asks about something in Soames's world, and Soames says: "I hadn't thought of it like that. Maybe I should implement that at the next board meeting." He means it. The street and the City run on the same logic. One in the same.
+
+  **The Old Gang Signal:**
+  Then the gang leader mentions a problem. A new gang. Different. Extreme violence — unnecessary, theatrical, from another era. "They got my henchman. The violence is just... we don't need this in business. Drug business, any business. People just want to avoid violence — it's the whole principle."
+
+  He describes what they did. The brutality. The tools.
+
+  "They did it with, like... an anger hook? Like an antique. The police even said — it's like a relic. Victorian. There's only a few left in the world."
+
+  Soames's face changes. The cocaine high drains. He's hearing his father's deathbed words. The generational secret. The warning.
+
+  **How the gang leader knows:** A corrupt police officer at Walworth station — the same station Sarah works at — is on the gang leader's payroll. The forensic details (the antique tool, the wound pattern) have been leaked. The corrupt officer is connected to the Corrupt Policeman who murdered Sarah's father — same institutional chain, different level. The corruption feeds information in every direction: police to criminals, criminals to City, City to guilds. Everyone knows. Nobody acts. Because the system NEEDS the information to flow — it's how the machine maintains itself.
+
+  **What Soames realises:** The Old Gang is back. The trademark signals — Victorian tools, extreme intimate violence, patterns from another century — match what his family was warned about. His father wasn't delusional. The deathbed confession was real. The debt is due.
+
+  And he learns this not from a vision, not from a ghost, not from his dying father's ravings — but from a drug dealer in a pub above a kebab shop in Elephant and Castle. Because the street ALWAYS knows before the City does. The street has always known. The police knew and dismissed it. The gangs knew and were frightened. Soames now knows — and he's terrified and calculating in equal measure. Because Soames doesn't run from threats. He absorbs them.
+
+- **The Gang Leader as Character [NAME TBD]:**
+  This gang leader needs development. He is NOT Victor — he's a separate figure, the businessman of the modern drug trade. Smart, articulate, running a professional operation. He and Soames recognise each other as equals because they ARE equals — both managing complex organisations, both dealing with competition, both navigating violence as a business cost. Their friendship (and it IS a friendship, of sorts — the friendship of powerful men who understand each other) is one of Book 2's most important relationships. It also connects three storylines: the modern gang world, the City, and the corrupt police.
 
 ---
 
