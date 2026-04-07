@@ -177,6 +177,10 @@
 - NOT vampiric — not hunger, not feeding — but instinctive, reflexive, the deprived reaching for sensation
 - John is likely the first to draw blood — the nightclub scene or earlier confrontation
 - The tonal tightrope: reader feels sympathy AND horror simultaneously — always both, never just one
+- Old Gang worship modern air — exhaust fumes at a junction smell like paradise compared to Victorian London
+- Old Gang discover yoga/breathing practice — ecstatic at clean oxygen — weep with joy at being able to breathe
+- Old Gang know London gin better than anyone — but add turpentine because that's what real gin was
+- The gin-turpentine scene is dark comedy — historically precise, horrifying to modern observers
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -254,6 +258,9 @@
 - Confrontation with drug dealer: "Get out of my business." "Really?" Extreme Victorian violence.
 - The City Woman discovers her Old Gang lineage — the descendant who got out, who made it to the other side of the river
 - The City Man dealing with BVI/protectorate issues — the global dimension of City power
+- Old Gang member at a busy junction, breathing in deeply, eyes closed — traffic fumes = mountain air to them
+- Old Gang member in yoga class — weeping at breathing exercises — instructor thinks spiritual breakthrough
+- Old Gang member in cocktail bar — adds turpentine to expensive gin — "THAT'S gin" — bartender horrified
 
 ## Established Facts (Novel)
 *No chapters written yet.*

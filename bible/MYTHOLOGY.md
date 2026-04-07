@@ -66,3 +66,21 @@ The Old Gang's return is not vengeance. It is agriculture. You put something in 
 
 ## Blood — Life on Dead Hands
 The Old Gang worship warmth (sunlight), beauty (flowers), sound (live music), taste (pineapples), cleanliness (modern hygiene). Each is a sensory miracle for people who came from filth, stench, cold, and silence. Blood completes the sensory theology: the warmest, most alive substance in the world, on the coldest, most dead skin. It is the crossing point. The moment where death touches life most intimately. Not feeding — feeling. Not vampire — human. The dead experiencing the living through the most primal substance there is.
+
+## The Complete Sensory Theology
+The Old Gang's relationship to the modern world follows one rule: the deprived encountering abundance. Every modern sensation is filtered through what they knew — and what they knew was filth, stench, cold, silence, poison, and darkness.
+
+- **Sunlight** → warmth on cold skin → worship
+- **Flowers** → beauty after stench → wonder  
+- **Live music** → sound after silence → ecstasy
+- **Pineapples** → luxury after deprivation → reverence
+- **Cleanliness** → purity after filth → ritual
+- **Fresh air** → oxygen after poison → paradise (even exhaust fumes)
+- **Breathing** → the act of filling lungs with clean air → spiritual experience
+- **Blood** → life on dead hands → the crossing point
+- **Gin** → their drink, but properly made (with turpentine) → dark comedy
+- **Purple** → the impossible colour, now everywhere → gang uniform that's actually devotion
+- **Theatre** → their entertainment, live, human → rapture
+- **The Thames** → their river, now clean → bewildered drinking
+
+Each tells the same story: what was denied is now available. What was poisonous is now pure. What was impossible is now ordinary. The Old Gang experience modern London as a sensory miracle — and their gratitude is simultaneously moving and unsettling, because it reminds the reader of how terrible their world was, and how much the living take for granted.
