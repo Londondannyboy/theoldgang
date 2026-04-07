@@ -88,4 +88,20 @@ Each tells the same story: what was denied is now available. What was poisonous 
 ## The Victorian Photographs
 The faces in the daguerreotypes. Real children. Real women. Real poverty. Frozen in time by a camera they didn't understand, in conditions they couldn't escape. The photographs survived. The people didn't. Until now.
 
+## "Wot Cher" — The Greeting That Became a Warning
+A medieval greeting. A Victorian catchphrase. A music hall chorus. And the Old Gang's signature — the last word before violence. The audience's relationship with "Wot Cher" should evolve across the series:
+
+1. **First use:** Sounds quaint. Old-fashioned. The reader/viewer smiles.
+2. **Second use:** Followed by violence. The reader/viewer connects the two.
+3. **Third use:** The reader/viewer tenses the moment they hear it. The word itself has become a threat.
+4. **Every subsequent use:** Dread. The friendliest-sounding word in the English language, weaponised by context.
+
+This is how the Old Gang colonise modern language — by making a Victorian greeting mean something it never meant before. Or rather: by revealing what it always meant. "What cheer" was never just a greeting. It was a challenge. What cheer are you bringing to this encounter? What do you have to offer? And if the answer is nothing — if you're on the wrong side, the wrong street, the wrong end of an Old Gang member's attention — then "Wot Cher" is the last cheer you'll hear.
+
+## "Knocked 'Em in the Old Kent Road" — The Song That Became a Verdict
+The phrase functions on three levels:
+1. **For the public:** A funny old music hall song. Charming. Nostalgic.
+2. **For the Old Gang:** Operational language. "We dealt with them. On our road."
+3. **For the audience (by mid-series):** A verdict. When someone gets "knocked in the Old Kent Road," they don't get up. The song is a sentence. The chorus is a eulogy.
+
 A photograph is a record of light that once touched a living face. The Old Gang were that light. They were those faces. When Sarah looks at a Victorian photograph and sees someone she recognises on a modern street, she is seeing light that touched a face 150 years ago — and that face is now touching the modern world again. The photograph is proof: they existed. The Old Gang walking the streets is the photograph coming to life.

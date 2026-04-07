@@ -22,6 +22,7 @@ Elephant and Castle is in the London Borough of Southwark, south of the Thames. 
 - **The Estate Walkways** — the covered landings, passages, and bridges between estate blocks at level one. Victor rides a horse across these — designed for foot traffic, now carrying a man on horseback heading to war.
 - **Manze's / Arment's Pie and Mash, Walworth Road** — one of the last traditional pie and mash shops in Elephant. Victorian food (pie, mash, liquor) in a Victorian-style tiled interior. Scene of Diamond Anne's gangster killing (injection, heart attack, smashes through window) AND the Old Gang eating there afterwards — the food of their era, sitting where a man just died.
 - **The Golden Eagle, Marylebone** — last pianist sing-along pub. Live piano, communal singing. The Old Gang discover it and it becomes sacred — the one place in modern London that IS their world. Live performance, communal, unrecorded. Hiding in plain sight among the regulars.
+- **The Old Kent Road** — runs from Elephant and Castle southeast toward New Cross. One of London's oldest roads. One of the poorest. The cheapest property on the Monopoly board (this detail should NEVER be stated in the text — the reader knows it). The Old Gang's operational territory. The road where the song was set. The road where they "knock 'em." When violence happens here, it's not just a crime — it's the song made real.
 - **The Hollow Tree, Hampstead Heath** — "Tree of Life." Large enough to stand inside. The Ginger Urchin's private ritual — a dead boy inside a living tree, feeling alive. Where he meets the goths and Diamond Anne first encounters the Goth Girl.
 
 ## The Old Police Unit
@@ -276,6 +277,21 @@ The Old Gang KNOW this song. It's from their era. They heard it in the music hal
 **Function in story:** "Wot Cher!" is the Old Gang's signature song — their musical identity. It's Cockney, it's South London, it's about poverty and community and making the best of nothing. The mention of Camberwell connects it directly to Victor. The Old Kent Road connects it to Elephant. It is the song equivalent of Booth's map: a Victorian artefact that maps perfectly onto the Old Gang's world.
 
 **Other music hall songs:** The Old Gang would know dozens — "My Old Dutch," "Any Old Iron," "It's a Long Way to Tipperary," "Daisy Bell." Each is a potential scene: the Old Gang hearing their songs performed in a modern context and reacting with the intensity of people hearing their childhood music for the first time in 150 years.
+
+**The Old Kent Road Scene:**
+An Old Gang member — possibly the Farm Boy, the Urchin, or John — walks into a confrontation on the Old Kent Road. A tough crowd outside a club or on the street — could be Latin American, could be any group that doesn't know what they're dealing with. Words exchanged. Posturing. The modern crowd reads the Old Gang member as a nobody — scrawny, pale, wrong clothes, wrong era. They don't understand what they're looking at.
+
+The Old Gang member smiles. "Wot Cher."
+
+The crowd doesn't understand the word. They understand the smile even less.
+
+Extreme violence. Victorian-scale. Intimate, disproportionate, from a century they've never encountered. Bodies on the pavement. The Old Kent Road.
+
+Someone asks later: what happened?
+
+"Knocked 'em in the Old Kent Road."
+
+The song title. The crime scene. The same thing.
 
 ### Victorian Photographs — The Faces That Come Back
 Real daguerreotypes and early photographs exist of Victorian slum children, women, and families in Southwark, the East End, and across London's poorest districts. These images — taken by social reformers, journalists, and early photographers — show the incredible faces of the people who lived in the rookeries. Children with old eyes. Women with hard mouths and soft hands. Families posed in doorways of houses that shouldn't be standing.

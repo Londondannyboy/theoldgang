@@ -199,6 +199,11 @@
 - The Thomas family is from Camberwell — parish records going back generations
 - "Wot Cher!" song mentions "your rich uncle Tom of Camberwell" — Victor's ancestor
 - Full declaration: "I am Victor. Son of Tom. Of Camberwell."
+- "Wot Cher" is the Old Gang's verbal signature — a greeting that precedes extreme violence
+- The audience/reader learns to dread "Wot Cher" — it's the last friendly thing you hear
+- "Knocked 'em in the Old Kent Road" is not a song lyric — it's a status report for violence completed
+- Both phrases should be used SPARINGLY for maximum impact — "Wot Cher" a few times per book, "Knocked 'em" maybe twice in Book 1
+- The Old Kent Road is core Old Gang territory — the cheapest Monopoly property (never state this in text)
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -286,6 +291,9 @@
 - Old Gang at the Golden Eagle singing "Wot Cher!" — every word from memory — crowd thinks they're enthusiasts
 - Sarah looking at Victorian photographs and recognising a face from modern Elephant
 - Netflix opening concept: slow pan across real daguerreotypes, one face MOVES, cut to modern Elephant
+- Old Gang member confrontation on Old Kent Road — tough crowd, "Wot Cher," extreme violence, "Knocked 'em in the Old Kent Road"
+- The moment the audience first connects "Wot Cher" with violence — the greeting becoming a threat
+- Someone asks what happened — "Knocked 'em in the Old Kent Road" — the song becomes a crime report
 
 ## Established Facts (Novel)
 *No chapters written yet.*
