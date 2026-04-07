@@ -86,6 +86,9 @@ The Ginger Urchin in the members' club shows the relationship: the street gang a
 Book 1: Street gang, Sarah's father, Diamond Anne, community, drill scene climax.
 Book 2: True Old Gang fully operational. Ignatius Sancho. City-layer corruption. Sarah allied with community and Camberwell Man against institutional power indistinguishable from modern City.
 
+**The Deathbed Scene — Book 2's Moral Centre:**
+The living City Man visits his dying father and learns the City has always known about the Old Gang. The father wants atonement. The son rejects it. This scene is Book 2's moral centre — the moment where the reader sees that the City's exploitation continues not by necessity but by CHOICE. The father offered a different path. The son chose the old one. The chain is unbroken because someone chose not to break it.
+
 ## The Ultimate Concept: Death Gets Closer to Life
 
 As Sarah gets closer to death — to the Old Gang, to her father's truth — death gets closer to life.

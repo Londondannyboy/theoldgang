@@ -309,6 +309,30 @@ Police hear: (1) older criminals out of prison (2) death threat / gang war (3) e
 - **Voice Notes:** Educated, measured, centuries of breeding. Never raises their voice. Never threatens directly. Speaks in the language of partnership, opportunity, tradition — the same language the guilds have used to exploit for a thousand years.
 - **Key Relationships:** Ignatius Sancho (who KNOWS them — or their ancestors — from the Georgian era), the Ginger Urchin (who meets them in the members' club in Book 1, Ch23), the Avenger (who infiltrates their world), Sarah (who eventually connects the Corrupt Policeman to this person — the street and the City are the same chain)
 - **NOTE:** Seed in Book 1 only — possibly the unnamed figure the Urchin meets in the members' club. Fully developed in Book 2.
+- **The Father — The Dying Patriarch:**
+  The City Man's father. Ninety-five years old. On his deathbed. Born around 1931 — old enough to remember post-war Elephant, old enough to have heard from HIS father about the Victorian era. The chain of City knowledge goes back through him: his father told him, his grandfather told his father, and so on, back through centuries of guild membership, City power, and institutional memory.
+
+  **The Deathbed Scene:**
+  The City Man goes to his dying father and tells him: the Old Gang is back.
+
+  The father KNOWS. Not surprise — recognition. The City has always known about the Old Gang. Not as a supernatural secret but as institutional memory, the way old families remember old debts. "Of course they're back. They were always going to come back. We put them in that ground."
+
+  But then the father does something the son doesn't expect. He reaches for his son's hand. Grips it. And says: we have to make it right this time. The sins of the past. We wronged those people. This is our chance to atone. Not fear — GUILT. The guilt of a 95-year-old man who has had a lifetime to understand what his family built and what it cost. He's seen the 20th century — the wars, the Empire's collapse, the post-war reckoning, the slow dawning of what was done. He knows what's owed.
+
+  "You must atone for the sins of the past. You must."
+
+  The son listens. Holds the old man's hand. Nods. And does nothing. Walks out of the room. Picks up the phone. Manages the situation. Uses the Old Gang the way the City has always used them. The father dies reaching for redemption. The son chooses continuation.
+
+  **What this scene does:**
+  - Humanises the City antagonist — he has a father, a family, generational weight. He is not a cartoon villain. He is a man who heard his dying father's plea and chose power over atonement.
+  - Shows the City's institutional memory — they have ALWAYS known about the Old Gang. The knowledge is generational, not supernatural.
+  - Creates a moral choice: the father wants redemption, the son wants continuation. The son is not evil — he is the product of a system that teaches its inheritors that exploitation is management, that power is duty, that the poor are a resource.
+  - Echoes the Forsyte Saga — generational wealth, the tension between the generation that built the machine (and felt the guilt) and the generation that inherited it (and feels only entitlement).
+  - The chain continues because the living CHOOSE to continue it. This is the City's deepest horror: nobody is forced. They could stop. They don't.
+
+- **The Father's Historical Range:** Born ~1931, dying ~2026. His memory stretches back to the 1930s-40s. His father's memory would reach back to the 1890s-1900s. His grandfather's memory: the 1860s-70s — the OLD GANG'S ERA. Three generations of living memory connect the dying father to the Victorian exploitation. He KNOWS what was done because the knowledge was passed down like an heirloom. The guilt is inherited along with the wealth.
+
+- **Forsyte Saga Parallel:** The story of a family dynasty whose wealth was built on exploitation, told across generations. The patriarch who feels the weight. The inheritor who feels only the privilege. The Old Gang is the Forsyte Saga's dark mirror — not a family losing its grip on values, but a family that never had values, only interests, dressed up as tradition.
 
 ---
 

@@ -152,6 +152,12 @@
 - The City has a LIVING contemporary representative — a modern guild member, unbroken lineage
 - The Living City Man sees the Old Gang's return as a management problem, not a supernatural event
 - The Corrupt Policeman is street-side lineage. The City Man is institutional-side lineage. Same chain.
+- The City has ALWAYS known about the Old Gang — institutional memory passed down through generations
+- The City Man's dying father (95, born ~1931) knows because HIS father knew, chain goes back to Victorian era
+- The father wants atonement: "You must atone for the sins of the past"
+- The son rejects redemption — chooses continuation, manages the Old Gang as a resource
+- The chain continues because the living CHOOSE to continue it — nobody is forced
+- Three generations of living memory connect the dying father to the Old Gang's era
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -216,6 +222,9 @@
 - Old Gang standing on South Bank looking across at the City — awe and resentment — the same feeling they've always had
 - The City Man at a guild dinner — normal, respectable, centuries of breeding — the scariest antagonist because completely legal
 - The dismissal: "You're from the other side. You're from outside the City."
+- The Deathbed Scene: City Man visits dying father, tells him Old Gang is back. Father KNOWS. Wants atonement. Son rejects it. Book 2's defining moral moment.
+- The father's hand reaching for the son's — "You must atone" — the son nods and does nothing
+- The father dies. The son continues the exploitation. The chain unbroken by choice.
 
 ## Established Facts (Novel)
 *No chapters written yet.*
