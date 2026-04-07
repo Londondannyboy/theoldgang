@@ -213,6 +213,11 @@ The City of London is a pseudo-state within London — ancient, opaque, self-gov
 ### The City as Pseudo-State
 The City of London is unique in modern history — a state within a state. Its own police force (the City of London Police, separate from the Met), its own Lord Mayor, its own governance. The monarch cannot enter without permission. This is not metaphor. This is constitutional reality. The City has maintained this independence for nearly a thousand years. The True Old Gang — "the City" in the prose — didn't need to build a power structure. They had one. It was already there. It had been there since the Normans.
 
+### The City's Secret — The Warning
+The City has known for generations that the Old Gang would return. This is not supernatural belief — it is institutional memory, passed down like guild rituals, like trust documents, like the family name. Someone — centuries ago — warned the City: the debts don't die. The people don't die. What you bury will come back.
+
+The City buried this knowledge alongside everything else. Hid it from the younger generations. Let it fade into the category of old family superstition, like a ghost story told at Christmas. But the oldest members — the patriarchs on their deathbeds — still know. They've always known. And when the Old Gang return, the City's oldest members are not surprised. They are terrified. Because they know what it means: the debt is due.
+
 ### The Guilds — Still Operating
 Over 100 Livery Companies still exist:
 - The Worshipful Company of Woolmen (sheep across London Bridge)

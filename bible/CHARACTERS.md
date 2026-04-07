@@ -86,6 +86,8 @@ Developed across 25 brain dump sessions. This is the definitive character bible.
 - **The Artistic Streak:** Discovers theatre through the South Bank season. Befriends actors. They assume his Molecule 01 explains the smell, his coldness is "method," his speech is rehearsed.
 - **The Stage Scene:** Steps onto stage. Speaks authentically Victorian. Audience believes he's the greatest method actor ever.
 - **THE LINE:** "You, my friend — all of life is but a play, and I am but an actor in that play."
+- **The Hospital Scene (Book 2):** The Urchin walks into a private hospital room to visit the dying City patriarch. Visitor's sticker. Casual. Invisible the way working-class people are invisible in wealthy institutions. The old man recognises what he is and begs for mercy. The Urchin dispatches him — the debt collected, the reckoning delivered. The death is recorded as natural causes. Nobody remembers the visitor.
+- **The Urchin's range:** He crosses MORE worlds than any other Old Gang member. Street to City (members' club). Dead to living (the hollow tree). Criminal to artistic (the stage). And now: hospital visitor, angel of death in a hoodie. He goes everywhere because he's the one nobody takes seriously. That is his power.
 - **Voice Notes:** Cocky, unintimidated by wealth or art.
 
 ---
@@ -312,23 +314,40 @@ Police hear: (1) older criminals out of prison (2) death threat / gang war (3) e
 - **The Father — The Dying Patriarch:**
   The City Man's father. Ninety-five years old. On his deathbed. Born around 1931 — old enough to remember post-war Elephant, old enough to have heard from HIS father about the Victorian era. The chain of City knowledge goes back through him: his father told him, his grandfather told his father, and so on, back through centuries of guild membership, City power, and institutional memory.
 
-  **The Deathbed Scene:**
-  The City Man goes to his dying father and tells him: the Old Gang is back.
+  **The Deathbed Scene — REVISED:**
+  The City Man goes to his dying father and tells him: something strange is happening. Reports from Southwark. Violence that doesn't fit. People who shouldn't exist.
 
-  The father KNOWS. Not surprise — recognition. The City has always known about the Old Gang. Not as a supernatural secret but as institutional memory, the way old families remember old debts. "Of course they're back. They were always going to come back. We put them in that ground."
+  The father's reaction is not confusion. It is RECOGNITION. And then: fear. Not of the supernatural — of the debt coming due.
 
-  But then the father does something the son doesn't expect. He reaches for his son's hand. Grips it. And says: we have to make it right this time. The sins of the past. We wronged those people. This is our chance to atone. Not fear — GUILT. The guilt of a 95-year-old man who has had a lifetime to understand what his family built and what it cost. He's seen the 20th century — the wars, the Empire's collapse, the post-war reckoning, the slow dawning of what was done. He knows what's owed.
+  **The Secret:** The father confesses. He has hidden this from his son his whole life. The City — their family, their guild, their lineage — was WARNED, generations ago, that the Old Gang would return. The debts don't die. The people don't die. They were told: what you bury will come back. What you do to the poor will be remembered by the ground. The City knew. They always knew. And they buried it — the knowledge, the warning — just like they buried everything else. Passed it down father to son alongside the wealth: the money AND the curse.
 
-  "You must atone for the sins of the past. You must."
+  "I've hidden this from you. All your life. They never died, son. We were warned. And now they're here."
 
-  The son listens. Holds the old man's hand. Nods. And does nothing. Walks out of the room. Picks up the phone. Manages the situation. Uses the Old Gang the way the City has always used them. The father dies reaching for redemption. The son chooses continuation.
+  The son doesn't believe it. Can't believe it. His father is 95, dying, confused — this is dementia talking, guilt manifesting as fantasy. He holds the old man's hand. Nods. Soothes. Doesn't listen. Just like the City has always done when truth comes from below: hear it, dismiss it, continue.
+
+  **The Hospital Reckoning:**
+  The son leaves. The father is alone. Machines beeping. The ward quiet.
+
+  And then the Ginger Urchin walks in.
+
+  Casual. Bouncing. A working-class kid with a visitor's sticker, looking like every other young person visiting a grandparent. Nobody stops him. Nobody questions him. He walks right into the private room. Maybe he smiles at a nurse. Maybe he holds a door for someone. Invisible in the way the working class have always been invisible in institutions built for the wealthy.
+
+  The old man sees him. And RECOGNISES. Not the Urchin specifically — but what he is. What he represents. The thing his family was warned about, the thing he hid from his son, the thing that was always coming. His whole body knows. Generations of family knowledge flooding back in one look at a scrawny ginger kid standing at the foot of his hospital bed.
+
+  He begs. Mercy. Please. From a boy who looks like he should be nicking sweets from a corner shop.
+
+  The Old Gang dispatch him. How — we don't need to know precisely. Maybe the Urchin just stands there and the old man's heart gives out from pure terror — the body recognising the debt before the mind can process it. Maybe it's quieter. Maybe the Urchin leans in and whispers something — a name, a date, a place — something only the Old Gang would know. And the old man's heart stops because the truth stopped it.
+
+  The son returns. His father is dead. The nurses say it was peaceful. Natural causes. Old age. Expected. There is a visitor's sticker in the bin that nobody remembers issuing.
 
   **What this scene does:**
-  - Humanises the City antagonist — he has a father, a family, generational weight. He is not a cartoon villain. He is a man who heard his dying father's plea and chose power over atonement.
-  - Shows the City's institutional memory — they have ALWAYS known about the Old Gang. The knowledge is generational, not supernatural.
-  - Creates a moral choice: the father wants redemption, the son wants continuation. The son is not evil — he is the product of a system that teaches its inheritors that exploitation is management, that power is duty, that the poor are a resource.
-  - Echoes the Forsyte Saga — generational wealth, the tension between the generation that built the machine (and felt the guilt) and the generation that inherited it (and feels only entitlement).
-  - The chain continues because the living CHOOSE to continue it. This is the City's deepest horror: nobody is forced. They could stop. They don't.
+  - The City's guilt becomes a KEPT SECRET — supernatural knowledge held by the institutional elite for generations
+  - The father's confession is urgent, real, terrified — not just guilt but WARNING
+  - The son's rejection isn't just moral failure — it's the City's eternal pattern: dismiss truth that comes from below
+  - The Urchin in the hospital is justice delivered casually — the working class walking into the institution and collecting the debt
+  - The patriarch dies not from old age but from RECKONING — the thing his family feared for generations, standing at the foot of his bed in a hoodie and a visitor's sticker
+  - Nobody knows. The death is filed as natural. The City's own systems — the hospital, the paperwork, the bureaucracy — cover for the Old Gang without meaning to
+  - **You reap what you sow.** The moral of the scene and the moral of the story.
 
 - **The Father's Historical Range:** Born ~1931, dying ~2026. His memory stretches back to the 1930s-40s. His father's memory would reach back to the 1890s-1900s. His grandfather's memory: the 1860s-70s — the OLD GANG'S ERA. Three generations of living memory connect the dying father to the Victorian exploitation. He KNOWS what was done because the knowledge was passed down like an heirloom. The guilt is inherited along with the wealth.
 

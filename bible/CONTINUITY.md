@@ -158,6 +158,13 @@
 - The son rejects redemption — chooses continuation, manages the Old Gang as a resource
 - The chain continues because the living CHOOSE to continue it — nobody is forced
 - Three generations of living memory connect the dying father to the Old Gang's era
+- The City holds a generational SECRET: they were warned the Old Gang would return
+- The warning has been passed down father to son for generations alongside the wealth
+- The dying patriarch (95) confesses the secret to his son — the son dismisses it
+- The Ginger Urchin visits the patriarch in hospital — casual, visitor's sticker, invisible
+- The patriarch recognises the Urchin — begs for mercy — the Old Gang dispatch him
+- Death recorded as natural causes — nobody remembers the visitor
+- "You reap what you sow" — the moral of the story
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -225,6 +232,12 @@
 - The Deathbed Scene: City Man visits dying father, tells him Old Gang is back. Father KNOWS. Wants atonement. Son rejects it. Book 2's defining moral moment.
 - The father's hand reaching for the son's — "You must atone" — the son nods and does nothing
 - The father dies. The son continues the exploitation. The chain unbroken by choice.
+- The father's confession: "I've hidden this from you. They never died. We were warned."
+- The son's dismissal — hears the truth, doesn't believe it, continues the exploitation
+- Ginger Urchin walks into hospital — visitor's sticker — casual — angel of death in a hoodie
+- The patriarch sees the Urchin and RECOGNISES — begs for mercy — generations of knowledge in one look
+- The patriarch dies — filed as natural causes — the City's own systems cover for the Old Gang
+- The son returns to find his father dead — doesn't know what really happened
 
 ## Established Facts (Novel)
 *No chapters written yet.*

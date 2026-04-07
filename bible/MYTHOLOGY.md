@@ -56,3 +56,10 @@ The Ginger Urchin on stage is the moment the story acknowledges its own nature: 
 
 ## The Drill Scene Ending Image
 The final image of Book 1: in the disturbed earth at Southwark Bridge, fingers with beautiful rings begin to move. Not faces — fingers. Not named characters — jewellery. The wealthy dead. The powerful dead. The True Old Gang, stirring. Book 2's promise in a single image.
+
+## You Reap What You Sow
+The moral of the story. The Old Gang were buried by the City's exploitation. The City profited. Generations passed. The wealth compounded. The guilt was inherited but suppressed. And then the ground gave them back.
+
+You reap what you sow. The City sowed poverty, exploitation, child labour, unconsecrated burials. It reaped wealth, power, guilds, dynasty. And now the harvest comes back: the people they buried, standing at the foot of the bed, collecting the debt.
+
+The Old Gang's return is not vengeance. It is agriculture. You put something in the ground. It grows. It comes back. The City planted the dead. The dead grew. The crop is ready.
