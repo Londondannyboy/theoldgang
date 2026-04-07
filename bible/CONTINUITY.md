@@ -130,6 +130,11 @@
 - South Bank historical/theatrical season creates cover — Old Gang walk among actors in period costume
 - True Old Gang is Book 2 — Book 1 seeds but does not develop them
 - Book 1 ending image: fingers with beautiful rings moving in the earth at Southwark Bridge
+- The City of London guilds (Livery Companies) are the True Old Gang's institutional framework
+- The Freemen's right to drive sheep across London Bridge is exercised annually — the Old Gang see commerce, not tradition
+- Old Gang members know the guild and Masonic rituals because they lived in that era — not heritage, actual practice
+- The Farm Boy is an Old Gang member with rural origins — placed with a guild by the Fagin for his animal skills
+- The Fagin used the Farm Boy's guild placement to build connections to City power
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -188,6 +193,9 @@
 - John on the Thames foreshore at low tide — pulls a knife from old warehouse wood — Excalibur echo
 - The knife is Victorian, preserved by the river, visible only when the tide drops
 - John transitions from being someone else's weapon to being his own
+- The Farm Boy driving sheep across London Bridge for the guild — street kid doing ancient City work
+- The Farm Boy (or another Old Gang member) reciting guild/Masonic ritual word-perfect — modern City men stunned
+- The Old Gang recognising guild rituals as their native language, not ceremony
 
 ## Established Facts (Novel)
 *No chapters written yet.*

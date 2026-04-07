@@ -175,6 +175,18 @@ Five core members. Victorian street gang from Booth's black-coded streets. Burie
 
 ---
 
+### The Farm Boy — Old Gang Member / Guild Connection [BOOK 2 CHARACTER]
+- **Role:** Old Gang member with a unique origin — the one who came from the countryside
+- **Background:** Not born in the rookeries. Parents died (disease, poverty, eviction from land). Came to London as a child — drawn to the city like thousands of rural poor. Ended up in the slums. Became one of the Fagin's boys.
+- **The difference:** He has RURAL skills. He knows animals — sheep, horses, cattle. He knows land. He knows seasons. In the rookeries, this makes him unusual. The other boys are urban — born in the streets, shaped by brick and cobblestone. The Farm Boy carries the countryside in him even as the city swallows him.
+- **The Fagin's exploitation:** The Fagin recognises the boy's skills and places him with one of the City guilds — the Woolmen, or a Livery Company connected to livestock or trade. The boy is genuinely good with animals. The guild uses him as a worker. The Fagin uses the guild connection to build bridges to City power. The boy is the link: street gang → Fagin → guild → City. The exploitation chain. A child's skills monetised twice — once by the guild who employs him, once by the Fagin who placed him.
+- **The Sheep Scene:** The Farm Boy drives sheep across London Bridge for the guild. A street kid from the slums, walking livestock across the most famous bridge in the world because the City's ancient privileges say he can. Modern onlookers see heritage. The Old Gang see one of their own doing the same work the City has always extracted from the poor: manual labour dressed up as tradition. The Farm Boy is good at it — natural, calm with the animals, sure-footed. The sheep follow him. He was born for this. The City just found a way to use what he was born for.
+- **The Ritual Scene:** In a guild hall or Masonic lodge, the Farm Boy — scrawny, street-hardened, clearly not a City man — stands up and recites the old ritual. Every word. Not performing it. KNOWING it. Because he was there when these words were spoken in earnest, not in ceremony. The modern City men in their robes and chains of office stare. This young street criminal knows their secrets. But they're not secrets to him — they're just the world he came from. The modern City treats its rituals as heritage. The Old Gang lived them.
+- **Thematic weight:** The Farm Boy represents the rural-to-urban pipeline of Victorian poverty — the enclosures, the land clearances, the collapse of agricultural labour that drove millions into the cities. He is the countryside swallowed by the city, his skills turned into tools for someone else's profit.
+- **NOTE:** Primarily a Book 2 character. Seed in Book 1 only if natural.
+
+---
+
 ### The Fagin — [NAME TBD]
 - **Role:** Returning parental-generation figure
 - **Background:** Ran child thieves. Used, profited, discarded. Dark father figure.

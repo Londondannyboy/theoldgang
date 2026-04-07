@@ -161,3 +161,9 @@ The community hall scene (walking out to find Old Gang staring across the street
 ### RESOLVED — The True Old Gang Is Book 2
 **Decision:** The True Old Gang is NOT developed in Book 1 beyond seeding. Book 1 is the street gang. Book 2 is the City gang. The drill scene is the hinge. The final image — fingers with beautiful rings — tells the reader who's coming without showing a face. Trying to develop them in Book 1 would dilute the street gang story, Sarah's father, and Diamond Anne's transformation.
 **Affects:** Book 1 scope, Book 2 planning, what gets saved
+
+### TBD — The Farm Boy's Development
+**Decision:** TO BE DECIDED — how much of the Farm Boy appears in Book 1 vs Book 2?
+**Options:** (a) Book 2 only — introduced when the True Old Gang and guild world opens up (b) Seeded in Book 1 — a brief appearance, maybe the sheep scene glimpsed by Sarah (c) The Farm Boy is one of the existing five core members reimagined with this backstory
+**Reasoning:** Option (a) is safest — keeps Book 1 focused on the street gang. Option (c) is interesting — could the Ginger Urchin or even John have a rural origin that hasn't been revealed yet?
+**Affects:** Cast size, Book 1 scope, Book 2 character introduction

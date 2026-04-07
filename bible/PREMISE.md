@@ -39,5 +39,10 @@ The True Old Gang's corruption didn't stay in Victorian London. It went global. 
 
 This connects Victorian Southwark to modern Dubai, Victorian child labour to modern supply chain exploitation, Victorian slum landlords to modern offshore property developers. The class war didn't end. It got a passport.
 
+## The True Old Gang's Institutional Framework — The Guilds
+The City of London's Livery Companies (guilds) are the True Old Gang's institutional skeleton. Over 100 guilds, some dating to the 12th century. They control vast wealth, property, influence — and they are largely invisible to modern Londoners. The True Old Gang don't infiltrate the guilds. They ARE the guilds. The merchant class, the City wealth, the exploitation machine — returning to their institutional home.
+
+The ancient rituals of the guilds and the Freemasons are not heritage to the Old Gang — they are the operating language of power from their era. When an Old Gang member recites a guild ritual word-perfect, the modern City men stare. The street kid knows their secrets. But they were never secrets — they were just how things worked.
+
 ## Sequel Potential (Book 2 / Series 2)
 The True Old Gang fully operational. Their offshore exploitation network exposed. Ignatius Sancho and City-layer criminals loose in modern London. Sarah, estranged from police, allied with community and the Camberwell Man, confronts institutional corruption that operates globally. The Avenger is embedded inside. The drill scene at Southwark Bridge is the hinge between books.

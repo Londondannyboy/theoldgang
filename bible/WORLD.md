@@ -172,6 +172,15 @@ White's (est. 1693), Brooks's, the Athenaeum, Livery Halls. The True Old Gang's 
 ### The Departure Points
 Thames docks — Wapping, Rotherhithe, Pool of London — where emigrant ships left for America. Places of permanent goodbye. "This is where my father lived. I never saw him ever again."
 
+### The Guilds of London — The True Old Gang's Infrastructure
+The City of London is a pseudo-state within London — ancient, opaque, self-governing. It has its own police force, its own Lord Mayor, its own laws. The Livery Companies (guilds) are its institutional skeleton: the Worshipful Company of Woolmen, the Mercers, the Goldsmiths, the Drapers — over 100 guilds, some dating back to the 12th century. They control vast wealth, property, and influence. They are largely invisible to modern Londoners.
+
+**The True Old Gang don't infiltrate the guilds. They ARE the guilds.** The guilds were the institutional power of the Old Gang's era — the merchant class, the City wealth, the exploitation machine. The True Old Gang returning to the guilds is a homecoming, not an invasion.
+
+**The Sheep on London Bridge:** The Freemen of the City of London have the ancient right to drive sheep across London Bridge. They exercise this right annually. Modern London treats it as charming heritage — traffic stopped for sheep, photo opportunities, a quirky tradition. The Old Gang see it and recognise it: that's not tradition. That's commerce. That's power asserting itself. The right to drive sheep across London Bridge is the right to say: this bridge is OURS. The City never gave up its medieval privileges. It just learned to make them look quaint.
+
+**The Rituals:** The guilds and the Freemasons have ancient rituals — oaths, ceremonies, initiations, recitations. Modern members learn them as tradition, performing words whose original meaning has faded into pageantry. The Old Gang KNOW these rituals because they were alive when the rituals were CURRENT — not heritage, not ceremony, but the actual operating language of City power. When an Old Gang member recites a guild ritual, they're not performing. They're speaking their native tongue.
+
 ### Why NOT Modern Locations
 The Old Gang meet ONLY in places that have continuously existed since their era. Not Shoreditch House, not the Shard. The members' clubs, ancient pubs, the Stone — these survived everything. The Old Gang walk in as if they never left.
 
