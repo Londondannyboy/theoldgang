@@ -434,6 +434,34 @@ The Old Gang died in the Victorian era. But their bloodlines didn't. They had pa
 - **Forsyte Saga Parallel:** The story of a family dynasty whose wealth was built on exploitation, told across generations. The patriarch who feels the weight. The inheritor who feels only the privilege. The Old Gang is the Forsyte Saga's dark mirror — not a family losing its grip on values, but a family that never had values, only interests, dressed up as tradition.
 - **International Reach:** The City Man doesn't just operate in London. The City of London's power extends globally through trusts, protectorates, and offshore structures — many of which the City literally CREATED. The British Virgin Islands. The Cayman Islands. Jersey. Guernsey. These aren't independent financial centres — they are City of London infrastructure, exported. When the City Man says "I'm having a problem with the BVI" or "the protectorate isn't cooperating," he's talking about managing a global empire that most people don't realise is connected to a square mile in London. The offshore exploitation (Middle East developments, subcontinent workers dying) runs through trust structures that the City invented centuries ago. The City Man manages these the way his ancestors managed the guilds — as property, as entitlement, as ancient right.
 - **The son's battles within the guilds:** The City Man (the son, after his father's death) faces internal guild politics — factions, rivalries, competing interests within the Livery Companies. The City is not a monolith. It's a network of competing dynasties, each with their own interests, their own secrets, their own debts. The son must navigate this while managing the Old Gang's return AND the global trust network. He is fighting on three fronts: the street (Old Gang), the guilds (internal politics), and the world (protectorates, trusts, offshore).
+- **The Soames Arc — Cold Man, Changed by a Daughter:**
+  The City Man is modelled on Soames Forsyte from The Forsyte Saga. Cold. Driven by dynasty. Obsessed with legacy, with the continuation of the family name, with the bloodline that has held City power for centuries. He wanted a son — an inheritor, a next link in the chain. Instead, he gets a daughter.
+
+  And the daughter changes everything.
+
+  He is overjoyed. Against every expectation — his own, his colleagues', the audience's — he loves her. Not as an heir. As a child. For the first time in his life, he feels something that isn't power or entitlement or institutional duty. He feels love. And love makes him vulnerable. And vulnerability makes him capable of something he has never been capable of before: seeing the people his family destroyed.
+
+  **The journey:** For most of the story, the City Man is the antagonist — cold, calculating, managing the Old Gang's return as an operational problem. He is his father's son in every way except one: his father felt guilt. The City Man feels nothing. Until the daughter. The daughter makes him human. And a human can feel guilt. And guilt, in a man with his power, can become action.
+
+- **The Gesture of Reconciliation:**
+  Late in Book 2 (or in a potential Book 3), the City Man does something unprecedented: he attempts to make amends. A charity fund. A trust — using the City's OWN mechanisms — directed at the communities his family exploited. Elephant. Southwark. The Booth black-coded streets. The descendants of the Old Gang. Money flowing back down the chain, from the City to the streets, through the same trust structures that have always moved money the OTHER way.
+
+  This is genuine. Not PR. Not philanthropy-as-reputation-management. The City Man, changed by his daughter, hearing his dying father's words finally — "you must atone for the sins of the past" — actually tries to atone. He rewrites his will. He establishes the fund. He makes the gesture.
+
+- **The City Overturns It:**
+  And then he dies. And the City of London — through its ancient guild mechanisms, through the trust structures it invented, through the legal frameworks that predate Parliament — overturns his will. The charity fund is dissolved. The reconciliation is undone. The money flows back to where money has always flowed: upward. Into the City. Into the guilds. Into the chain.
+
+  The City Man's colleagues — the other guild members, the institutional inheritors — don't do this out of malice. They do it because the City protects itself. It always has. The institution is bigger than any individual. The guild structures were designed to outlast any single member's conscience. The trusts were built to survive any single person's change of heart. The City is a machine for perpetuating itself, and one man's redemption is a malfunction to be corrected.
+
+- **What this means:**
+  Even the ANTAGONIST is trapped. The City Man is not evil by nature — he is evil by inheritance. And when he tries to break the chain, the chain breaks him instead. His redemption is real. His gesture is genuine. And the institution erases it as efficiently as it erases everything that threatens its continuity.
+
+  The City Man dies reaching for redemption the way old Diamond Anne dies reaching for the flower. Neither quite gets there. The parallel is deliberate: the exploiter and the exploited, both reaching for something the system won't allow them to have. Both human. Both denied.
+
+  **The fight goes on.** Not because people are evil but because INSTITUTIONS outlast people. The City was here before the City Man. The City will be here after him. His daughter inherits his guilt AND his powerlessness — she has the conscience but not the mechanism to act on it. Unless she finds allies. Unless she finds Sarah. Unless she finds the Old Gang.
+
+- **The Daughter:**
+  [TBD — needs development. She is the City Man's humanity made flesh. She may be the bridge between the City and Sarah's world in a potential Book 3. She inherits her father's guilt, her grandfather's warning, and a system that won't let her fix what her family broke. She is the City's Diamond Anne — the woman who could have been different, in a world that won't let her.]
 
 ---
 

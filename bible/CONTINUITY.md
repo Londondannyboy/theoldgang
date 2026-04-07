@@ -228,6 +228,16 @@
 - Music hall and grime share DNA: working-class, storytelling, London, making art from nothing
 - The soundtrack is not vintage or modern — it's both simultaneously
 - "Wot Cher!" with a drill beat, Vera Lynn with grime bars — the fusion IS the identity of the story
+- The City Man is a Soames Forsyte-type: cold, dynasty-driven, obsessed with legacy
+- He wanted a son but gets a daughter — the daughter changes him, makes him capable of guilt
+- The City Man attempts reconciliation: charity fund using City trust mechanisms for Elephant/Southwark
+- When he dies, the City of London overturns his will — guild mechanisms dissolve the fund
+- The institution corrects the "malfunction" of one man's conscience — money flows back upward
+- Even the antagonist is trapped — evil by inheritance, not by nature
+- The City Man dies reaching for redemption like Diamond Anne dies reaching for the flower
+- His daughter inherits guilt AND powerlessness — potential Book 3 bridge to Sarah's world
+- The story's ultimate thesis: individual redemption is insufficient against institutional power
+- Institutions outlast individuals — the City was designed to survive any single person's change of heart
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -328,6 +338,10 @@
 - Church blessing at a guild ceremony — sanctimonious beauty — then the priest's private hypocrisy revealed
 - Nightclub: Vera Lynn plays, a grime MC starts rapping over it — the crowd feels something they can't name
 - The moment old music and new music merge — recognition, not fear — the two eras making the same sound
+- The City Man holding his newborn daughter — the cold man changed — the audience sees humanity
+- The City Man rewriting his will — the charity fund — genuine atonement attempted
+- The City overturning the will after his death — guild mechanisms dissolving the reconciliation
+- The daughter inheriting everything except the power to change it
 
 ## Established Facts (Novel)
 *No chapters written yet.*

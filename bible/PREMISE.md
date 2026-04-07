@@ -52,6 +52,13 @@ The City of London is a pseudo-state within a state — the only example in mode
 
 **The beautiful burden:** The Old Gang (street) were products of the City's exploitation. The City created the conditions — the poverty, the child labour, the rookeries — that made the Old Gang necessary. And now both are back. But the Old Gang had to be woken from the dead. The City never slept. That asymmetry is the story's deepest irony: the victims had to be resurrected. The perpetrators just kept going.
 
+## Institutions Outlast Individuals
+The City Man tries to atone. He changes his will. He establishes a fund for the communities his family exploited. He hears his dying father's words and finally acts on them. And when he dies, the City overturns it all. The guild mechanisms, the trust structures, the legal frameworks older than Parliament — they correct the malfunction of one man's conscience and restore the flow of money to its default direction: upward.
+
+This is the story's ultimate thesis: individual redemption is insufficient against institutional power. Good people inside bad systems cannot fix the systems by being good. The system was designed to outlast them. The City was built to survive any single member's change of heart. The chain breaks the man who tries to break it.
+
+The fight goes on — not because people are evil, but because institutions are immortal. The Old Gang were buried by an institution. They return to fight an institution. And the institution is still standing when the people inside it crumble. The only force that might match the City's immortality is the Old Gang's — because the dead, like the institution, do not end.
+
 ## Blood That Continued — The Old Gang's Living Descendants
 The Old Gang died. Their bloodlines didn't. Generations continued — on the same streets, in the same poverty, in the same conditions. When the Old Gang return, they discover their blood is still alive. Their descendants are drug addicts, labourers, cleaners, single mothers — the modern version of the same exploitation. But one descendant made it out. One woman crossed the river and succeeded in the City. She is the proof that escape is possible. She is also the proof that it shouldn't have to be an escape.
 
