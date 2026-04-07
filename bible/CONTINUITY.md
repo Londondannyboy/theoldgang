@@ -221,6 +221,13 @@
 - Old Gang member discovers her, recognises the blood, delivers vengeance on the City client
 - The scene shows aftermath and reckoning, NOT exploitation — handled with restraint
 - Bankside is the oldest exploitation ground in London — the transaction never changed
+- The Church/City union: Church blesses guilds, guilds fund churches — partners in institutional exploitation
+- The Church's hypocrisy on Bankside: licensed brothels AND preached morality — same institution, same streets
+- Old songs don't stay old — they FUSE with modern grime in the nightclub and beyond
+- A grime MC raps over Vera Lynn — the sound of old and new merging — the story's thesis made audible
+- Music hall and grime share DNA: working-class, storytelling, London, making art from nothing
+- The soundtrack is not vintage or modern — it's both simultaneously
+- "Wot Cher!" with a drill beat, Vera Lynn with grime bars — the fusion IS the identity of the story
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -318,6 +325,9 @@
 - Old Gang member discovers descendant working Bankside — recognises blood — the cycle visible across centuries
 - City client on Bankside meets Victorian vengeance — docker's hook in a doorway
 - The Bankside woman saved by a cold stranger she doesn't understand — the dead protecting the living
+- Church blessing at a guild ceremony — sanctimonious beauty — then the priest's private hypocrisy revealed
+- Nightclub: Vera Lynn plays, a grime MC starts rapping over it — the crowd feels something they can't name
+- The moment old music and new music merge — recognition, not fear — the two eras making the same sound
 
 ## Established Facts (Novel)
 *No chapters written yet.*

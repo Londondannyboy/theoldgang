@@ -263,6 +263,15 @@ The Old Gang drank from it, washed in it, scavenged from it. Pre-Great Stink (18
 **The Historical Reality:**
 South Bank brothels ("stews") were licensed by the Bishop of Winchester from the 12th century onwards. Prostitutes were known as "Winchester Geese." The Church PROFITED from the sex trade while preaching morality from the pulpit. The City of London pushed prostitution outside its walls to Southwark — then sent its men across the bridge to use the services. Church and City: partners in exploitation. One licensed it. The other consumed it. Both profited. Neither acknowledged it.
 
+### The Church and the City — The Holy Union
+The Church blessed the guilds. The guilds built the Church. They called it tradition. They called it faith. It was a business partnership — the oldest in London.
+
+The Bishop of Winchester licensed the brothels AND sat in the House of Lords. The Livery Companies funded church construction AND profited from the labour that killed workers. The priest blessed the guild dinner AND the guild master funded the parish. A holy union of institutional power — each legitimising the other, each profiting from the same exploitation, each providing the other with moral cover.
+
+**In the story:** This union is revealed through layers. A scene of a Church blessing at a guild ceremony — sanctimonious, traditional, beautiful. The robes. The ritual. The ancient words. And then: the reveal of what the priest does in private, on Bankside, with the same power the institution gives him. The ultimate flaw of all humanity — lust and desire, dressed in authority. The Church and the City, partners in public holiness and private exploitation. The Old Gang know this. They saw it the first time. They're seeing it again.
+
+**This should NOT be avoided.** The Church/City partnership in exploitation is historically documented and thematically essential. The story's thesis — that the exploitation never stopped — requires showing that the INSTITUTIONS never stopped either. The Church and the City still bless each other. The guilds still fund churches. The holy union continues. What happens in private continues too.
+
 **The same streets, the same exploitation:**
 Modern Bankside — the area around Southwark Bridge, Borough, the South Bank — still has a sex trade. Not licensed by the Bishop. Not in medieval stews. But present. Street workers, brothels disguised as massage parlours, trafficking victims, survival sex workers. The geography hasn't changed. The transaction hasn't changed. The institutional hypocrisy hasn't changed — modern City men cross the river to Southwark for what City men have always crossed the river for. The buildings are different. The power dynamic is identical.
 

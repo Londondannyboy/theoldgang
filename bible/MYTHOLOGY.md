@@ -93,6 +93,18 @@ Modern weapons — zombie knives, machetes, guns — are designed for violence. 
 ## The Old Songs — Charm as Disguise
 The old music hall songs, the wartime singalongs, the pub standards — they sound charming, nostalgic, innocent. "Have a barrel of fun." "We'll meet again." "Knocked 'em in the Old Kent Road." The modern world hears heritage. The Old Gang hear truth — these songs were written about poverty, about loss, about lives that were cheap and short and brutal. The charm was always a disguise. The song was always a survival mechanism — if you can't escape misery, you sing about it. And now the Old Gang use the songs as soundtracks to violence, and the disguise becomes a weapon: the audience HEARS charm while they SEE brutality. The disconnect is the point.
 
+## The Music Fusion — Dead and Alive in the Same Frequency
+When a modern grime MC raps over Vera Lynn, two eras occupy the same sound. The past and present are no longer separate — they are harmonising. This is the story's thesis made audible: the old world doesn't replace the new, and the new doesn't erase the old. They merge. They create something that has never existed before.
+
+Music hall and grime share DNA:
+- Working-class origins
+- Storytelling tradition
+- London geography
+- Making art from nothing
+- The voice of people the institutions ignore
+
+The fusion isn't forced. It's natural. The rhythms were always compatible. It just took the Old Gang's return to put them in the same room.
+
 ## Bankside — The Oldest Transaction
 Bankside is where the Church licensed prostitution and the City consumed it. Winchester Geese walked these streets for five hundred years. The ground they walked on is the same ground modern sex workers walk on. The stews became massage parlours. The Bishop became the landlord. The City man crossing the bridge became the City man in an Uber. The transaction never changed. Only the technology did.
 
