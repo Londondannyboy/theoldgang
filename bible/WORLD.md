@@ -115,6 +115,24 @@ Ignatius Sancho (c.1729–1780) — first known Black British voter (1774), writ
 ### Unconsecrated Burials
 Used for criminals, suicides, prostitutes, the destitute. Southwark accumulated many such sites. Construction regularly uncovers remains. The grave near Southwark Bridge triggers the True Old Gang.
 
+### The Ragged Schools — Benevolence as Control
+The Ragged Schools were Victorian charity schools for the poorest children — free education for those too destitute for the workhouse schools. Founded from the 1840s onwards, they were presented as pure philanthropy: the wealthy saving the poor through education, hygiene, and religious instruction.
+
+The reality was more complex. The ragged schools were about making the poor USEFUL — obedient, employable, grateful. Religious education meant compliance. Hygiene meant presentability for service. Reading and writing meant the ability to follow instructions. The schools served the poor, but they served the wealthy MORE — by producing a docile workforce that wouldn't revolt.
+
+**The Ragged School Museum** on Copperfield Road, Mile End, by the Regent's Canal — a real building, still standing, now a museum. One of the last physical remnants of the ragged school system. People walk past it daily without knowing what it represents: institutional charity that was also institutional control.
+
+**In the story:** Soames claims his family's connection to the ragged schools as evidence of their centuries of benevolence. In his speech to guild members and business leaders, he describes the family tradition of "helping the poor" — the schools, the charitable works, the institutional commitment. Priests nod in the front row. The audience applauds. The whitewashing of history, performed live, by a man who was doing cocaine with a drug dealer the previous evening and visiting a prostitute on Bankside the evening before that. The hypocrisy is total and invisible to everyone except the audience/reader.
+
+### The Old School, Waterloo — Behind St John's Church
+A real building behind St John's Church in Waterloo, on the edge of Elephant and Castle territory. A Victorian school — built to educate and "elevate" the working classes out of extreme poverty. The building still exists. It still has the old signage. It is no longer used as a school.
+
+People walk past it every day. They don't know what it was. They don't see the old lettering. They don't connect it to anything. It is a relic of Victorian institutional benevolence, standing in plain sight in modern London, as invisible as the Old Gang themselves.
+
+**The "Old School" / "Old Gang" parallel:** Same streets. Same word "old." Same erasure. The Old School was built to save the poor. The Old Gang were the children the Old School failed — or never reached, or couldn't help, or didn't want to help. The building survives as architecture. The children survive as the dead. Both are still in Elephant. Both are ignored.
+
+**In the story:** Sarah may walk past the Old School and recognise it — another old thing hiding in plain sight. Or an Old Gang member may stand outside it and recognise it — the school they never attended, the education they were never given, the "benevolence" that never reached the unconsecrated ground. The building is a monument to the gap between what institutions CLAIM to do and what they actually do.
+
 ### Famous People from Elephant and Castle
 - **Charlie Chaplin** — born in Walworth, 1889. Workhouse childhood.
 - **Michael Faraday** — born in Newington Butts, 1791.

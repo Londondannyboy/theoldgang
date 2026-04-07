@@ -505,6 +505,17 @@ The Old Gang died in the Victorian era. But their bloodlines didn't. They had pa
   - Soames is not just a villain. He is a man who takes his family's darkest secret and transforms it into power. That makes him MORE dangerous than a simple antagonist — he is an antagonist who gets STRONGER from the thing that should weaken him.
   - The Old Gang are being used AGAIN. The City used them as street labour in the Victorian era. Now the City uses their return as institutional mythology. The exploitation continues in a form even the dead didn't anticipate.
 
+- **The Benevolence Speech — Whitewashing History:**
+  In his speech to guild members and global business leaders, Soames doesn't just talk about the City's ancient roots. He talks about his family's BENEVOLENCE. Their centuries of commitment to the poor:
+
+  "Our family helped establish the ragged schools — free education for the most destitute children in London. We funded the old schools in Waterloo, behind St John's Church — schools that lifted working-class communities out of poverty. This tradition of service is not history. It is who we are."
+
+  Priests in the front row nod. Guild members applaud. Business leaders see a man of depth, of conscience, of institutional responsibility.
+
+  The audience/reader sees: the man who snorted cocaine with a drug dealer. The man who visited a prostitute on Bankside. The man whose family buried the Old Gang in unconsecrated ground. The man whose father begged for atonement and was ignored. The "benevolence" is real — the ragged schools existed, the old schools existed. But the benevolence was always CONTROL. Make the poor useful. Make them obedient. Make them grateful. And when they weren't grateful — when they formed gangs, when they fought back, when they refused to be elevated — bury them. Without consecration. Without markers. Without memory.
+
+  Soames believes his own speech. That's what makes it terrifying. He genuinely thinks his family helped. The whitewashing isn't cynical — it's inherited. He was taught to see benevolence where there was control, charity where there was exploitation, service where there was self-interest. The system taught him to believe it. Just as the ragged schools taught the poor to believe they were being saved.
+
   **The audience reaction:** The modern City cheering Soames's speech should make the audience uncomfortable. They're watching a man profit from the exploitation of the dead. And the dead — watching from across the river, from the Booth streets, from the wrong side of the Thames — see it happening and realise: the City hasn't just survived their return. The City has ABSORBED it. Same as always.
 
 - **The Pub Scene — Soames Crosses the River for Vice:**

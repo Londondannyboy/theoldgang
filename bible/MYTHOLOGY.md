@@ -105,6 +105,13 @@ Music hall and grime share DNA:
 
 The fusion isn't forced. It's natural. The rhythms were always compatible. It just took the Old Gang's return to put them in the same room.
 
+## Benevolence as Control — The Ragged Schools
+The wealthy didn't help the poor out of kindness. They helped the poor out of MANAGEMENT. The ragged schools, the old schools, the charitable works — all were mechanisms for producing a docile, useful, grateful workforce. Education meant compliance. Hygiene meant presentability. Religious instruction meant obedience. The institutions that "saved" the poor were the same institutions that CREATED the poverty. They just dressed the second act as charity.
+
+Soames's speech about his family's benevolence is the modern version: corporate social responsibility, charitable trusts, philanthropy galas. The same institutions that exploit workers offshore fund scholarships at home. The left hand gives. The right hand takes. And the system ensures that the giving is always visible and the taking is always hidden.
+
+The Old School behind St John's Church stands as the physical monument to this: a building that promised salvation, in a neighbourhood that never received it, still standing, still ignored, while the children it failed walk the streets as the dead.
+
 ## Bankside — The Oldest Transaction
 Bankside is where the Church licensed prostitution and the City consumed it. Winchester Geese walked these streets for five hundred years. The ground they walked on is the same ground modern sex workers walk on. The stews became massage parlours. The Bishop became the landlord. The City man crossing the bridge became the City man in an Uber. The transaction never changed. Only the technology did.
 

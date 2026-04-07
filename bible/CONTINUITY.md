@@ -101,6 +101,10 @@
 - The Thames is the class boundary — north = power, south = the people the City used
 - The Old Gang are from the wrong side of the river — always have been
 - SE1, SE5, SE11, SE17 = Old Gang territory. EC1-EC4 = the City. Postcodes tell the same story.
+- The Ragged School Museum — Copperfield Road, Mile End, by Regent's Canal — real building, still standing
+- The Old School — behind St John's Church, Waterloo — real building on the edge of Elephant — still has old signage
+- Both are Victorian "benevolent" institutions — actually mechanisms of control — hiding in plain sight in modern London
+- "Old School" / "Old Gang" parallel — same streets, same word "old," same erasure
 
 ### The Old Gang
 - They are literally dead — clinically dead on blood tests
@@ -256,6 +260,12 @@
 - Information chain: forensic details leak from corrupt police → gang leader → Soames
 - The corrupt police network at the station is wider than just the Corrupt Policeman — it's institutional
 - A modern gang leader (NOT Victor) is a key Book 2 character — businessman of the drug trade
+- Soames claims family connection to ragged schools and old schools as evidence of benevolence
+- The speech is total whitewashing — delivered by a man who does cocaine with drug dealers and visits prostitutes
+- Priests nod. Guild members applaud. The hypocrisy is invisible to everyone except the reader.
+- Soames BELIEVES his own speech — the whitewashing is inherited, not cynical — that's what makes it terrifying
+- The ragged schools were control, not charity — make the poor useful, obedient, grateful
+- The Old Gang were the children these schools failed or never reached
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -369,6 +379,10 @@
 - Gang leader describes Old Gang violence: "an anger hook, like an antique, Victorian, only a few left in the world"
 - Soames's face changes — recognises the trademark — father's warning was real
 - The information chain: forensics → corrupt police → gang leader → Soames
+- Soames's benevolence speech — "our family helped establish the ragged schools" — priests nodding — guild members applauding
+- Cut between the speech and the cocaine/prostitution scenes — the hypocrisy made visible through editing
+- Sarah (or Old Gang member) recognising the Old School building in Waterloo — another relic hiding in plain sight
+- An Old Gang member outside the Old School — the school they never attended, the education they were never given
 
 ## Established Facts (Novel)
 *No chapters written yet.*
