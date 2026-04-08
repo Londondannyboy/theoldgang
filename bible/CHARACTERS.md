@@ -60,6 +60,23 @@ Developed across 25 brain dump sessions. This is the definitive character bible.
 
 ---
 
+### Lil Cockney — The Living Inheritance
+- **Role:** Minor in Book 1, growing importance in Book 2. The embodiment of continuation.
+- **Age:** Seven years old in Book 1. Young teen (~12-13) in Book 2.
+- **Race:** Could be white, could be mixed race — doesn't matter. What matters is the VOICE.
+- **Background:** A boy from Elephant. Lives with the old women — maybe in the house of one of the community women who are Sarah's allies. He's someone's grandson, someone's great-nephew. He lives in the kitchen, underfoot, hearing everything.
+- **What he is:** Already a cockney. Already adult in how he speaks. Uses slang that shouldn't exist in a seven-year-old — old expressions, old cadence, the rhythm of a language that's been dying out of London for decades but hasn't died out of THIS house, THIS family, THIS street. He talks like a fifty-year-old docker. Not performing it. Not mimicking it. BEING it. Because that's what his dad sounds like. And his grandad sounded like. Going back and back and back.
+- **NOT comical:** This is NOT played for laughs. He is not a cute kid saying funny things. He is REAL — a seven-year-old who talks like his great-great-grandfather because that's how his world works. The language survived in him the way it survived in the British Legion Old Boy. Two ends of the same chain: the old man who remembers, the young boy who inherits.
+- **What the Old Gang see:** When the Old Gang encounter him — possibly when visiting the old women's house, possibly through Sarah — they recognise themselves. Not supernaturally. HUMANLY. This is what they were at seven. Before the Fagin. Before the violence. Before the grave. A little cockney kid who doesn't know what he is yet but already IS it.
+- **The recognition scene:** An Old Gang member — maybe Diamond Anne (Scarlet), who was once a sweet young girl herself — looks at this boy and sees the beginning of the cycle. The cycle that made her. The cycle that made all of them. The streets made the Old Gang. The streets are still making this boy. A century and a half of regeneration and institutional benevolence and the streets STILL produce this kid. Because the conditions never really changed. They just changed clothes.
+- **What he represents:** The story's thesis in a single character. The past isn't dead. It's a seven-year-old in a tower block, talking like his great-great-grandfather, and nobody realising that's exactly what he's doing. He is the question the whole story asks: will this cycle ever break? Or will Elephant ALWAYS produce this kid?
+- **Series function:** In Book 1, he appears briefly — in the old women's house when Sarah visits, or on the street, or at a community event. He's just a kid. The reader notices him because of his voice. In Book 2, he's older — 12 or 13 — and the streets are pulling at him the way they pulled at Victor, at Diamond Anne, at John. He is becoming what they became. The living Old Gang. The inheritance. The continuation.
+- **The bridge between eras:** The British Legion Old Boy is the END of the chain (90+, last man standing). Lil Cockney is the BEGINNING (7, first of the next). Between them: the Old Gang, the dead middle, the gap that should have been empty but isn't because the grave gave them back. Three generations of the same voice: the old man who remembers, the dead who returned, the boy who inherits.
+- **Voice Notes:** Pure cockney. Not mockney, not performance, not TV cockney. The real thing — the accent of a family that never left Elephant, that never gentrified, that never moved to Essex. The accent that's disappearing from London but hasn't disappeared from this boy. When he speaks, the Old Gang hear home.
+- **Key Relationships:** The old women (his family), Sarah (she meets him in the house, is struck by his voice), Diamond Anne / Scarlet (recognises herself in him), the Old Gang collectively (they see their own childhood), Victor (sees the boy's future — the same pull, the same streets, the same inevitability)
+
+---
+
 ### Diamond Anne — The Origin and The Ending
 
 **THE REVEAL:** The young female Old Gang member and the old dying woman in the care home are the SAME PERSON. Same rings. Same body twitch.
@@ -239,6 +256,12 @@ Five core members. Victorian street gang from Booth's black-coded streets. Burie
 
   **The trigger — Why a full examination:**
   The disease outbreak (TB, scurvy appearing in Elephant/Bermondsey) triggers a public health investigation. An Old Gang member is detained under public health powers — not arrested, not charged, but DETAINED for medical testing as a potential source of the outbreak. This is the bureaucratic mechanism: public health emergency → mandatory testing → the full workup. The medical team expects to find a malnourished modern person carrying treatable TB. They find a Victorian corpse that's breathing.
+
+  **Refined trigger:** The Old Gang member doesn't arrive at the medical facility through arrest. He COLLAPSES — a massive seizure or episode on the street, caused by the life-expectancy clock, the Victorian diseases, the body failing. Police find him. Assume he's a rough sleeper. Assume he's a victim of the TB outbreak they've been reading about in the papers. Ambulance takes him to hospital. He's processed as a public health case — testing for TB, testing for communicable diseases. Standard outbreak protocol.
+
+  He WAKES UP during the examination. The medical team, who were treating an unconscious "rough sleeper," suddenly have a conscious patient whose blood work says he's been dead for 150 years. He sits up. Looks at them. Asks for water. The machines are still running. The flatline is still flat. And he's talking.
+
+  This weaving — collapse → assumed rough sleeper → TB testing → full workup → impossible results → patient wakes up — makes the scene feel organic rather than staged. The medical examination isn't a set-piece that someone arranged. It's an ACCIDENT. The system stumbled onto the truth because it thought it was dealing with something ordinary.
 
   **What happens next:** [TBD — options include:]
   (a) The results are suppressed — someone senior (Corrupt Policeman? Soames's influence?) ensures the data disappears. The Old Gang member is released or escapes.

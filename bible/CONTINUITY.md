@@ -303,6 +303,14 @@
 - British Legion Old Boy — 90+, dark glasses, impenetrable accent — the last living male gangster bridge
 - The Old Gang understand him perfectly — his accent is closest to theirs of anyone alive
 - Modern gang knows him: "Old Charlie, nobody knows what he's on about, but my nan says he was proper"
+- Lil Cockney: seven-year-old boy from Elephant — already fully cockney, old slang, adult bearing
+- NOT comical — real, devastating — the embodiment of the cycle continuing
+- Lives with the old women — grandson/great-nephew — in the kitchen, underfoot, hearing everything
+- The Old Gang see him and recognise themselves at seven — before the Fagin, before the violence
+- He is the living Old Gang — not dead, not supernatural — the same thing produced by the same streets
+- In Book 2, he's 12-13, the streets pulling at him — becoming what they all became
+- Three-generation chain: British Legion Old Boy (90+, end) → Old Gang (dead, middle) → Lil Cockney (7, beginning)
+- His voice is pure cockney — the accent disappearing from London but surviving in this boy
 - The Old Gang worship medical heroes as GODS: John Snow, Salter, Bazalgette, Nightingale, Jenner
 - These people cured the diseases that killed the poor — the Old Gang's actual saviours
 - The John Snow pub in Soho = a pilgrimage site for the Old Gang — their god's temple
@@ -318,6 +326,8 @@
 - Sarah watches from behind two-way glass — she already knew — this is the proof
 - Results likely suppressed or dismissed: "equipment malfunction," "contaminated samples" — institutional denial
 - Escalation from Ch8 blood test: "dead" → "dead for 150 years" → still dismissed
+- Medical exam trigger refined: Old Gang member COLLAPSES (seizure/life expectancy clock) → assumed rough sleeper → TB testing → full workup → patient wakes up during examination → impossible results
+- The medical examination is an ACCIDENT — the system stumbled onto the truth while processing an "ordinary" case
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -455,6 +465,9 @@
 - The Old Gang member asking for a glass of water while the medical team processes that he's been dead since the 1860s
 - Results suppressed or discredited — institutional denial even in the face of incontrovertible evidence
 - Sarah obtaining the results — adding to her evidence — her isolation deepening
+- Lil Cockney in the old women's house — Sarah struck by his voice — seven years old, talking like a docker
+- An Old Gang member (Diamond Anne?) looking at Lil Cockney and seeing herself at that age — the cycle visible
+- Old Gang member collapses on street → ambulance → hospital → TB testing → full workup → wakes up → "dead for 150 years" → asks for water
 
 ## Established Facts (Novel)
 *No chapters written yet.*

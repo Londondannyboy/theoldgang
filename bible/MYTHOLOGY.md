@@ -105,6 +105,15 @@ Music hall and grime share DNA:
 
 The fusion isn't forced. It's natural. The rhythms were always compatible. It just took the Old Gang's return to put them in the same room.
 
+## The Continuation — Lil Cockney
+The Old Gang were buried. The Old Gang returned. But the cycle that CREATED the Old Gang never stopped. Elephant kept producing them — generation after generation, century after century. The accent. The attitude. The cockney. The survival instinct dressed as bravado.
+
+A seven-year-old boy in a tower block, talking like a Victorian docker, IS the Old Gang — not by death, not by burial, not by supernatural return, but by the simple, devastating persistence of poverty producing the same people on the same streets.
+
+The Old Gang see him and see their own beginning. He sees them and — one day, when he's old enough — will see his own future. The cycle is a circle. The circle has no break point. The regeneration didn't break it. The ragged schools didn't break it. The old schools didn't break it. Death didn't break it. A seven-year-old boy proves: nothing will.
+
+Unless someone CHOOSES to break it. That's Book 2's question. That's the series' question. That's the question the story asks every reader: what would it take to stop producing this boy?
+
 ## Benevolence as Control — The Ragged Schools
 The wealthy didn't help the poor out of kindness. They helped the poor out of MANAGEMENT. The ragged schools, the old schools, the charitable works — all were mechanisms for producing a docile, useful, grateful workforce. Education meant compliance. Hygiene meant presentability. Religious instruction meant obedience. The institutions that "saved" the poor were the same institutions that CREATED the poverty. They just dressed the second act as charity.
 

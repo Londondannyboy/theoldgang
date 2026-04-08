@@ -224,3 +224,9 @@ The community hall scene (walking out to find Old Gang staring across the street
 **Options:** (a) Part 2, after the disease outbreak is established — maybe Chapter 14-16 area (b) Part 3, as a late confirmation before the father's return (c) Early Book 2 — the first scene where the authorities take the Old Gang seriously
 **Reasoning:** The scene needs the disease outbreak to be established first (as the trigger). It also needs to escalate from the Chapter 8 blood test. Placing it in Part 2 (mid-story) gives Sarah scientific evidence before the Booth map discovery — she has BOTH data and clinical proof, and STILL nobody listens.
 **Affects:** Pacing, when the proof becomes incontrovertible, Sarah's evidence timeline
+
+### TBD — Lil Cockney: Placement and Development
+**Decision:** TO BE DECIDED — when does Lil Cockney appear in Book 1?
+**Options:** (a) Early — in the old women's house when Sarah first visits the community (b) Mid-story — after Sarah is banished, she goes deeper into the community and meets him (c) Late — near the end, a final image of continuation (d) Multiple brief appearances — he's always there, in the background, the reader notices him gradually
+**Reasoning:** Option (d) is strongest for a novel — he's a background presence who becomes significant through accumulation. For Netflix, option (b) gives him an introduction scene that the audience remembers.
+**Affects:** Pacing, when the continuation theme is stated, how much development he gets in Book 1 vs Book 2
