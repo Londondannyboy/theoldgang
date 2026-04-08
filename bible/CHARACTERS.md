@@ -57,6 +57,34 @@ Developed across 25 brain dump sessions. This is the definitive character bible.
 - **The modern gang connection:** The local gang knows him. "Old Charlie in the Legion, yeah? Nobody knows what he's on about, but my nan says he was proper back in the day." The modern gang respects him without understanding him — respect for age, for reputation, for survival. He's been alive long enough to have known people who knew people who were Old Gang.
 - **Function:** The living male bridge. Diamond Anne (old version) is the female bridge. The Old Woman is the community bridge. The British Legion Old Boy is the criminal bridge — the last man who carries the gangster culture of old Elephant in his body and his voice. When the Old Gang hear him speak, they hear home. When he hears the Old Gang, he hears his grandfather.
 - **Voice Notes:** Impenetrable to modern ears. Crystal clear to the Old Gang. The accent of a London that no longer exists — preserved in one man, in one club, in one chair by the window.
+- **The Death — Un-glamorized:**
+  The British Legion Old Boy dies the way real gangsters die. Not in a blaze of glory. Not in a last stand. Not reaching for a flower or riding a horse. He dies alone in a pub. Penniless. In a chair by the window. Nobody watching. The drink half-finished. The dark glasses still on.
+
+  He was the last ember of old Elephant. The last man who carried the voice. And he goes out the way embers go out: quietly, without announcement, while the world carries on around him.
+
+  This death is NOT dramatic. It is NOT a set-piece. It is the honest ending for a man who lived a criminal life and ended up in a pub with nothing. The story must not glamorise this. The Old Gang are romanticised by their supernatural return, by the music, by the sensory theology. The British Legion Old Boy's death is the CORRECTIVE: this is what actually happens. You get old. You get forgotten. You die in a chair. The purple people's home, the pension, the last pint — that's the real ending. Everything else is mythology.
+
+- **Lil Cockney Finds Him:**
+  The boy comes in. "Granddad, get up, man. Get off, fella." Shaking him. The old man won't wake up. Because the last ember just went out.
+
+  Lil Cockney can't find a phone. He's seven — maybe he doesn't have one, maybe it's dead, maybe it's lost. But in the corner of the pub, there's an old rotary telephone. A relic. A dialer. Something nobody uses, something the pub kept because nobody bothered to remove it.
+
+  The boy picks it up. Dials.
+
+  **THE PHONE LINE:** He is on the SAME line. The same dead telephone network that connects Sarah's rotary phone in the old police unit. The old world's communication system — the one that shouldn't exist, the one that rang for Sarah in the abandoned room, the one the Old Gang use to reach across the boundary between dead and alive.
+
+  Lil Cockney dials and the phone rings. In the old police unit. Sarah's phone. The phone from the 1960s. The phone that called her into the old world.
+
+  And now it's ringing because a seven-year-old boy is calling for help. Not from the dead — from the LIVING. The beginning of the chain calling the middle of the chain. Through the technology of the dead.
+
+  Who answers? Sarah? The dead? Both?
+
+  **What this scene does:**
+  - Connects Lil Cockney to Sarah through the Old Gang's communication system
+  - Proves the rotary phone network is real — not just supernatural but FUNCTIONAL, connecting old phones across London
+  - The future (the boy) reaching the present (Sarah) through the technology of the past (the rotary phone)
+  - The British Legion Old Boy's death creates the connection: the last ember goes out, the next flame reaches for help
+  - The boy doesn't know what he's doing. He just needed a phone. He found the oldest one in the room. And it connected him to the one person who understands.
 
 ---
 
@@ -324,6 +352,10 @@ Five core members. Victorian street gang from Booth's black-coded streets. Burie
 - **Patience:** Dead for a century. No deadline. No one suspects the help.
 - **"Even within the dead world, you can never be too dead."**
 - **Function:** Book 2 bridge character. Instrument of True Old Gang's destruction.
+- **NOT John.** The Avenger and John (the White Youth) are SEPARATE characters. Both are driven by vengeance but in different directions:
+  - John's vengeance is PERSONAL — breaking free from the Fagin, the abused child destroying his abuser. His weapon is the docker's hook, the Thames foreshore knife. His method is direct violence.
+  - The Avenger's vengeance is POLITICAL — infiltrating the City, destroying the institutional power that killed his family. His weapon is patience, subservience, intelligence-gathering. His method is the long game.
+  - John fights with his hands. The Avenger fights with his presence. Both are necessary. Neither could do the other's job.
 
 ---
 
@@ -488,13 +520,15 @@ The Old Gang died in the Victorian era. But their bloodlines didn't. They had pa
 
 ---
 
-### The City Woman — Old Gang Descendant Who Made It [BOOK 2 CHARACTER]
-- **Role:** Supporting / potential major — a living woman who succeeded in the modern City and discovers she's connected to the Old Gang by blood
-- **Background:** A woman who's done well. Finance, law, or the guilds. Educated, powerful, respected. She belongs in the City by modern merit — she earned her place. But she doesn't know where she really comes from. Her family history has been sanitised, the way poverty always gets sanitised when someone escapes it. She thinks she's self-made. She is. But her blood goes back to the rookeries, the unconsecrated ground, the Old Gang.
-- **The Discovery:** She learns her lineage. Maybe through Sarah's investigation. Maybe through DNA, or old records, or a name that appears in both guild archives and Old Gang history. She discovers she is the Old Gang's success story — the descendant who got out, who climbed, who made it to the other side of the river. And she discovers that the other side of the river was always built on the bones of her people.
-- **What she becomes:** The bridge from the INSIDE. Not the Avenger (who infiltrates by pretending). Not the Urchin (who visits as an outsider). A woman who BELONGS in the City by modern right AND by ancient blood. She can move in both worlds because she IS both worlds. She is what Diamond Anne might have been in another life. She is what the Old Gang fought and died so that someone, someday, could become.
-- **Connection to Sarah:** Two women who straddle worlds. Sarah straddles police and community. The City Woman straddles the City and the street. Both discover their fathers' truths. Both must choose which side of the river they stand on.
-- **NOTE:** Book 2 character primarily. Possibly seeded late in Book 1 if natural.
+### Soames's Daughter — Both Sides of the River [BOOK 2/3 CHARACTER]
+- **Role:** Major — potentially Book 2/3's most important character. She is BOTH sides.
+- **Background:** The daughter Soames never expected and immediately loved. The child who made the cold man human. But she is more than Soames's redemption — she is the convergence of the story's two bloodlines.
+- **The secret:** Soames married a woman from south of the river. Not from the estates exactly — his wife had escaped, risen, polished herself. But her blood goes back to Elephant. To the estates. To the unconsecrated ground. Soames married across the Thames without knowing it. His wife carried Old Gang blood into the City's oldest family.
+- **What the daughter IS:** She is City AND Old Gang. Soames AND Diamond Anne. North of the river AND south. The guilds AND the rookeries. She carries both bloodlines in one body — the exploiter and the exploited, the power and the poverty, the institution and the ground.
+- **Why she's the most dangerous person in the story:** She BELONGS in both worlds. Not by infiltration (the Avenger). Not by investigation (Sarah). By BIRTH. She has a guild master's education AND a street gang's blood. She can sit in a Livery Company dinner AND feel the pull of the unconsecrated ground. She is the bridge nobody expected — the one person who can move between the City and the Old Gang because she IS both.
+- **Her arc:** Discovers her mother's lineage. Discovers the Old Gang connection. Discovers that her father's family exploited her mother's family for centuries. Discovers that the redemption he attempted (the charity fund, the will) was overturned by the very institution she now inherits. She must choose: continue the City, or burn it down from inside.
+- **Connection to Sarah:** Two women who straddle worlds. Sarah straddles police and community. Soames's daughter straddles City and street. Both discover their fathers' truths. Both must choose which side of the river they stand on. They are natural allies — if they can find each other.
+- **Connection to Diamond Anne:** If Diamond Anne (Scarlet) is Sarah's ancestor, and Soames's wife is from Old Gang blood, then Soames's daughter and Sarah may share a DISTANT bloodline. The detective and the guild master's daughter, connected through the unconsecrated ground. The four female leads of Book 1 (Sarah, young Diamond Anne, old Diamond Anne, the Goth Girl) become five in Book 2 — with Soames's daughter as the City's version of what Diamond Anne's bloodline produced.
 
 ---
 

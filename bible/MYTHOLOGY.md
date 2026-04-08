@@ -114,6 +114,13 @@ The Old Gang see him and see their own beginning. He sees them and — one day, 
 
 Unless someone CHOOSES to break it. That's Book 2's question. That's the series' question. That's the question the story asks every reader: what would it take to stop producing this boy?
 
+## The Rotary Phone Network — The Dead's Communication System
+The old rotary telephones — the Bakelite dialers, the circular-dial landlines that nobody uses anymore — are connected. Not through BT. Not through modern infrastructure. Through something older. A network that shouldn't exist but does, linking old phones across London: Sarah's phone in the old police unit, the phone in the pub where the British Legion Old Boy dies, and others.
+
+This network belongs to the dead. The Old Gang use it. It rang for Sarah because she was connected through blood. It rang for Lil Cockney because the boy reached for the oldest technology in the room — the only technology the dead understand — and it connected him.
+
+The rotary phone network is the dead's version of the modern world's communication. They can't see screens. They can't hear recordings. But the OLD phones — the ones from an era close enough to theirs — these work. These connect. The dead communicate through the technology of the recent dead: the 1940s, the 1960s, the pre-digital age. Not their own era (they had no phones) but the era closest to theirs in the technology timeline. The rotary phone is the midpoint between their world and ours — old enough for them to understand, new enough to carry a voice.
+
 ## Benevolence as Control — The Ragged Schools
 The wealthy didn't help the poor out of kindness. They helped the poor out of MANAGEMENT. The ragged schools, the old schools, the charitable works — all were mechanisms for producing a docile, useful, grateful workforce. Education meant compliance. Hygiene meant presentability. Religious instruction meant obedience. The institutions that "saved" the poor were the same institutions that CREATED the poverty. They just dressed the second act as charity.
 

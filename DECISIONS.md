@@ -230,3 +230,16 @@ The community hall scene (walking out to find Old Gang staring across the street
 **Options:** (a) Early — in the old women's house when Sarah first visits the community (b) Mid-story — after Sarah is banished, she goes deeper into the community and meets him (c) Late — near the end, a final image of continuation (d) Multiple brief appearances — he's always there, in the background, the reader notices him gradually
 **Reasoning:** Option (d) is strongest for a novel — he's a background presence who becomes significant through accumulation. For Netflix, option (b) gives him an introduction scene that the audience remembers.
 **Affects:** Pacing, when the continuation theme is stated, how much development he gets in Book 1 vs Book 2
+
+### RESOLVED — John and the Avenger Are Separate
+**Decision:** John (the White Youth) and the Avenger are two different characters. John's vengeance is personal (Fagin). The Avenger's vengeance is political (the City). Both necessary. Neither replaceable.
+
+### RESOLVED — Soames's Daughter = The City Woman
+**Decision:** Soames's daughter and the previously conceived "City Woman — Old Gang Descendant Who Made It" are the SAME character. Soames married a woman from south of the river (Old Gang blood, escaped/risen). The daughter carries both bloodlines: City (father) and Old Gang (mother). She is the convergence.
+**Affects:** Book 2/3 character development, the five female leads, the connection to Sarah and Diamond Anne
+
+### TBD — Lil Cockney and the Rotary Phone: Placement
+**Decision:** TO BE DECIDED — when does this scene occur?
+**Options:** (a) End of Book 1 — the last scene, the phone ringing as Sarah's story closes (b) Opening of Book 2 — the first scene, the new generation calling (c) Mid-Book 2 — when Lil Cockney becomes more central
+**Reasoning:** Option (a) is extraordinary as a closing image: the boy, the dead man, the phone, Sarah's phone ringing. The cycle continuing. The future calling. But it might compete with the drill scene ending. Option (b) opens Book 2 with the living inheritance, which sets the tone perfectly.
+**Affects:** Book 1 ending, Book 2 opening, Lil Cockney's introduction weight

@@ -311,6 +311,14 @@
 - In Book 2, he's 12-13, the streets pulling at him — becoming what they all became
 - Three-generation chain: British Legion Old Boy (90+, end) → Old Gang (dead, middle) → Lil Cockney (7, beginning)
 - His voice is pure cockney — the accent disappearing from London but surviving in this boy
+- John and the Avenger are SEPARATE characters — personal vengeance vs political vengeance
+- Soames's daughter merged with City Woman — she is BOTH sides (City father, Old Gang mother's blood)
+- Soames married across the river without knowing it — his wife's blood goes back to Elephant
+- Soames's daughter carries both bloodlines: exploiter AND exploited in one body
+- British Legion Old Boy dies alone in a pub — penniless — the un-glamorized real gangster death
+- Lil Cockney finds him dead — "Granddad, get up, man" — can't find a phone
+- Lil Cockney uses old rotary phone in the pub — connects to Sarah's phone in the old police unit
+- The rotary phone network = the dead's communication system — connects old phones across London
 - The Old Gang worship medical heroes as GODS: John Snow, Salter, Bazalgette, Nightingale, Jenner
 - These people cured the diseases that killed the poor — the Old Gang's actual saviours
 - The John Snow pub in Soho = a pilgrimage site for the Old Gang — their god's temple
@@ -468,6 +476,11 @@
 - Lil Cockney in the old women's house — Sarah struck by his voice — seven years old, talking like a docker
 - An Old Gang member (Diamond Anne?) looking at Lil Cockney and seeing herself at that age — the cycle visible
 - Old Gang member collapses on street → ambulance → hospital → TB testing → full workup → wakes up → "dead for 150 years" → asks for water
+- British Legion Old Boy dead in a pub chair — penniless, dark glasses on, drink half-finished — the honest ending
+- Lil Cockney shaking him: "Get up, man. Get off, fella." The last ember out. The boy alone.
+- Lil Cockney picks up the rotary phone — dials — Sarah's phone rings in the old police unit
+- The future calling the present through the technology of the past
+- Soames's daughter discovering her mother's Old Gang lineage — both sides of the river in her blood
 
 ## Established Facts (Novel)
 *No chapters written yet.*
