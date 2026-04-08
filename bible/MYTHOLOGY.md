@@ -121,27 +121,21 @@ This network belongs to the dead. The Old Gang use it. It rang for Sarah because
 
 The rotary phone network is the dead's version of the modern world's communication. They can't see screens. They can't hear recordings. But the OLD phones — the ones from an era close enough to theirs — these work. These connect. The dead communicate through the technology of the recent dead: the 1940s, the 1960s, the pre-digital age. Not their own era (they had no phones) but the era closest to theirs in the technology timeline. The rotary phone is the midpoint between their world and ours — old enough for them to understand, new enough to carry a voice.
 
-## The Birth — Death Produces Life
-The cycle breaks not through violence, not through institutional reform, not through vengeance or justice or the reckoning of ancient debts. The cycle breaks through the simplest act in the world: a mother holding her child.
+## The Birth and Death — Scarlet's Final Act
+Scarlet dies in childbirth. On a Southwark pavement. The way Victorian women died.
 
-Scarlet — the girl before Diamond Anne, the soft name under the hard name — gives birth. A dead woman produces a living child. The doctors said impossible. The machines said impossible. The 150 years of death said impossible. The baby disagrees. The baby SCREAMS. Alive.
+She gives life. It costs her everything. The baby lives. The mother doesn't. The cycle breaks for the CHILD, not for Scarlet. She could not escape her era. Even supernatural return could not free her from the fundamental reality: childbirth kills women like her. The poverty is in her bones. The bones remember.
 
-"No one ever hurt my little darling."
+The cutlass cuts the cord. The weapon becomes creation. And then the weapon lies on the ground next to the woman who carried it. Diamond Anne's grave marker. Scarlet's birth announcement. The same object. The same blade.
 
-Not a threat. A vow. Not violence. Love. The force that is older than the guilds, older than the City, older than the unconsecrated ground, older than poverty itself. A mother protecting her child. The chain that every institution, every exploitation, every system in history has tried to break and never succeeded: the bond between a mother and what she made.
+"Nah, I'm done now."
 
-The medical heroes — Snow, Salter, Bazalgette, Nightingale — made it possible. Their science, their sewers, their vaccines, their care — across centuries of work — created the conditions where even a dead woman's child could live. The baby is their legacy. Their REAL legacy. Not the ragged schools. Not the institutional benevolence. A living child, born clean, born healthy, born free of the plagues that killed its mother's generation. The doctors who fought poverty did not fight in vain. The proof is screaming in Scarlet's arms.
-
-Scarlet walks into sunlight. Holding the baby. The cold leaving her. She doesn't look back.
-
-The cycle broke. Not for everyone. Not for the system. For ONE MOTHER and ONE CHILD. And that is enough. Because it proves: life wins. Not always. Not easily. Not without 150 years of death and a vow spoken over a newborn's head. But it wins.
+The simplest words for the most complete act. She produced life from death. She vowed no one would hurt her child. She died on the same streets she was born on. The cycle continued AND broke simultaneously — continued because Scarlet died the way women always died, broke because the baby lives free of everything that killed its mother.
 
 ### The Cutlass and the Cord
-The Victorian cutlass — Diamond Anne's weapon, the blade of violence, the tool of the Old Gang — cuts the umbilical cord. The weapon becomes a surgical instrument. The instrument of death becomes the instrument of birth. One object, one cut, transforms from destroyer to liberator.
+The cutlass cuts the umbilical cord. The weapon of violence becomes the instrument of birth. One cut transforms destroyer to liberator. And then the cutlass lies on the cobbles — the Victorian tool returned to the ground, the blade that killed and created, left behind by a mother who has nothing left to carry.
 
-This is the story's central symbol resolved: the tools of poverty (the docker's hook, the cobbler's awl, the cutlass) were always tools of WORK before they were tools of violence. The poor weaponised their labour. But a tool can also BUILD. A tool can also CREATE. A tool can also cut a cord and free a child from death.
-
-The cutlass on the ground of the alleyway — left behind, blood-stained but not with violence's blood — is Diamond Anne's grave marker. The weapon lies where the woman was reborn. The blade stays. The mother walks.
+The past on the ground. The future in someone else's arms.
 
 ## Stolen Potential — The Avenger's Philosophical Rage
 The system's greatest crime was not poverty. It was not exploitation. It was not child labour or unconsecrated burial or cholera or short lives. The greatest crime was the SUPPRESSION OF HUMAN POTENTIAL. Every working-class child who could have been a scientist, a writer, a thinker, an inventor — crushed by a system that needed them ignorant. The guilds didn't just steal labour. They stole MINDS. They stole FUTURES. They treated human sentience as a threat and human potential as a commodity.

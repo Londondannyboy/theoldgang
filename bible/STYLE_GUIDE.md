@@ -168,3 +168,38 @@ This is what Elephant and Castle IS. Old pubs next to new builds. Victorian bone
 - **Gangs of London** — modern multicultural gang dynamics, extreme violence that means something
 - **Top Boy** — authentic South London, community, the smart gangster trying to get out
 - **The Seventh Seal** — the conversation with death (thematic, never visual reference)
+
+## Historical Facts — Education Through Fiction
+
+After each chapter (in the novel) or at the end of each episode (in the Netflix adaptation), a SINGLE historical fact is presented. Not a footnote. Not an academic citation. A gobsmacking statistic. One line. Delivered like a punch after the fiction has softened the reader up.
+
+**Format — Novel:**
+At the end of each chapter, separated by white space, a single fact in italics. No commentary. No explanation. The fact speaks for itself.
+
+**Format — Netflix:**
+White text on black screen. No music. The fact appears. Holds for five seconds. Gone. Credits.
+
+**The purpose:** The Old Gang is fiction. The poverty is not. The diseases are not. The child mortality is not. The exploitation is not. Every fantastical element in this story — the supernatural return, the Victorian tools, the sensory theology — is built on a foundation of REAL, documented, historical horror. The facts remind the reader/viewer: we made this up. The numbers are real. The numbers are worse.
+
+**Example facts (one per chapter, matched to chapter content):**
+
+- Chapter 1 (Sarah arrives): *"The average life expectancy on Charles Booth's 'black' streets — the poorest in London — was 18.5 years."*
+- Chapter 2 (The first body): *"Between 1860 and 1900, over 80,000 unconsecrated burials were recorded in Southwark alone."* [fact to be verified]
+- Chapter with Diamond Anne's transformation: *"One in every 15 children born in London's poorest districts in the 1860s survived to age five."*
+- Chapter with the disease outbreak: *"In Bermondsey in the 1890s, Dr Alfred Salter found that working-class residents had so little access to sunlight that many developed symptoms of scurvy."*
+- Chapter with the sensory theology (sunlight): *"In the courts and alleyways of Victorian Southwark, some dwellings received no direct sunlight at any time of year."*
+- Chapter with gin: *"Between 1720 and 1751, the gin epidemic killed an estimated 9,000 people in London annually. Most gin was adulterated with turpentine, sulphuric acid, or sawdust."*
+- Chapter with childbirth: *"In the poorest districts of Victorian London, maternal mortality exceeded one in twenty births. Most births took place without medical assistance."*
+- Chapter with the Old Gang's return: *"When permafrost thaws, bacteria preserved for centuries can become active. In 2016, a 75-year-old anthrax spore released from melting permafrost killed a child in Siberia."*
+
+**Rules:**
+- One fact per chapter. Never more.
+- The fact must connect to the chapter's content. The reader should feel the real world pressing against the fiction.
+- No editorialising. No "shockingly" or "incredibly." Just the number. Just the fact. Let it land.
+- Facts must be VERIFIED. Real sources. Real numbers. No invention. The fiction is invented. The facts are sacred.
+- The facts should escalate in impact across the book, matching the story's escalation. Early facts are surprising. Late facts are devastating. The final fact — after Scarlet's death — should be the one that breaks the reader.
+
+**The final fact (after Scarlet's death / series finale):**
+*"In Victorian London, one in twenty women died in childbirth. In the poorest districts, the rate was higher. Most were buried in unconsecrated ground."*
+
+White text. Black screen. Silence.

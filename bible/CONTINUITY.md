@@ -335,20 +335,15 @@
 - Their fear is love — parental terror of watching a child walk toward the same destruction they experienced
 - Life not scared of death = the inversion of the Seventh Seal concept
 - Lil Cockney is more powerful than the Old Gang because he represents the future — and the future isn't scared
-- The birth happens on a BACKSTREET in old Southwark — not a hospital — an alleyway
-- Same streets where Victorian women gave birth, where Winchester Geese delivered between clients
-- Ambulance crew, police, blue lights — modern emergency around a clinically dead woman screaming
-- "Do it now. DO IT NOW." — Scarlet refusing to go to hospital — it happens here, on this ground
-- Baby born alive on the pavement — ambulance crew sobbing with joy — baby screaming
-- Scarlet cuts the umbilical cord with her CUTLASS — the Victorian weapon becomes instrument of creation
-- The blade that made her Diamond Anne becomes the blade that frees her child from death
-- "Nah, I'm done now." — Scarlet on the ground, shattered, cutlass in left hand, baby in crew's arms
-- The cutlass left on the ground — the weapon stays — the mother walks into sunlight with the baby
-- The past on the ground. The future in her arms.
-- Baby carries NONE of the mother's diseases — the plagues stop here — the future is clean
-- Scarlet's vow: "No one ever hurt my little darling" — protection through love, not violence
-- Diamond Anne dies in this moment — the hard name falls away — Scarlet the mother remains
-- The father is [TBD] — matters less than the child
+- REVISED: Scarlet DIES in childbirth — does NOT walk into sunlight — dies on Southwark pavement
+- She cuts the umbilical cord with her cutlass — weapon becomes creation — then she dies
+- "Nah, I'm done now" = her actual last words — Cockney, exhausted, final
+- The baby lives — the mother doesn't — the cycle breaks for the CHILD not for Scarlet
+- The cutlass on the ground, Scarlet on the ground, baby in ambulance crew's arms — the final image
+- Historical facts after EACH chapter — single gobsmacking statistics from Victorian poverty
+- Facts must be verified, real, documented — the fiction is invented, the facts are sacred
+- Final fact after Scarlet's death: Victorian maternal mortality in the poorest districts
+- Netflix format: white text, black screen, no music, five seconds — devastating
 - The medical heroes' legacy: their science made this birth possible — the baby is proof their work mattered
 - The naming theme completes: Victor = power in death, John = agency in death, Scarlet = escape FROM death into life
 - The Avenger's motivation deepened: not just personal revenge but the theft of HUMAN POTENTIAL
@@ -526,9 +521,9 @@
 - An Old Gang member looking at Lil Cockney with parental terror — seeing themselves before everything went wrong
 - Backstreet birth: alleyway, ambulance crew, blue lights — "DO IT NOW" — baby screams alive on the pavement
 - Scarlet cuts the cord with the cutlass — the weapon becomes creation — one cut separates death from life
-- "Nah, I'm done now" — Scarlet shattered on the ground — cutlass in left hand — baby in crew's arms
-- The walk: Scarlet stands, holds baby, walks into sunlight — cutlass left on the cobbles — the blade stays, the mother leaves
-- The final image: a woman in sunlight, holding a baby, the past on the ground, the future in her arms
+- Scarlet dies on the pavement — "Nah, I'm done now" — her actual last words
+- The final image: Southwark alleyway, cutlass on cobbles, dead woman on ground, baby screaming in crew's arms
+- Then: white text on black. A single fact. Silence.
 - The Avenger in the City, subservient, cataloguing not just financial crimes but crimes against human potential
 - The moment the Avenger's true motivation is revealed — not revenge but RECLAMATION of stolen futures
 
