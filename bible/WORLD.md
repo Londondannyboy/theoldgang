@@ -152,6 +152,26 @@ Dr Salter was not alone. Other medical figures fought poverty-related disease in
 - These figures should be recognised in the story as HEROES — the people who actually tried, who actually helped, who stood against the conditions the City created.
 - They are the moral counterweight to Soames's benevolence speech — real benevolence, not institutional PR.
 
+### The Old Gang's Gods — Medical Heroes Who Cured Poverty's Diseases
+The Old Gang worship the people who cured the diseases that killed them. Not kings. Not generals. Not saints. Doctors. Scientists. The people who understood that cholera came from water, that TB could be treated, that scurvy was nutritional, that the poor weren't dying from moral failure but from biological conditions that could be FIXED. These are the Old Gang's gods — largely forgotten by the modern world, worshipped by the dead who would have lived if these cures had come sooner.
+
+**Dr John Snow and the Broad Street Pump:**
+The most important medical detective in history. In 1854, Snow proved that cholera was transmitted through contaminated water — specifically tracing an outbreak to a water pump on Broad Street in Soho. He removed the pump handle. The epidemic stopped. This discovery saved hundreds of thousands of lives — particularly the poor, who drank the worst water.
+
+**The John Snow Pub, Soho:**
+A pub on Broadwick Street (formerly Broad Street), Soho — on or near the site of the original pump. Named after John Snow. Most Londoners walk past it without knowing why it's there. The Old Gang know. They go there the way they go to the London Stone — as a pilgrimage. This is their god's temple. The man who understood what was killing them when the City didn't care. A pub named after the saviour of the poor, in a street that most people think is just another Soho bar.
+
+**Other medical heroes the Old Gang would honour:**
+- **Dr Alfred Salter** — Bermondsey, free medical care, lost his daughter to scarlet fever (already documented)
+- **Joseph Bazalgette** — built London's sewer system after the Great Stink of 1858, saved the city from cholera
+- **Florence Nightingale** — born in London, revolutionised nursing and hospital sanitation
+- **Edward Jenner** — smallpox vaccine, 1796 — the Old Gang may carry the very disease he conquered
+- [TBD — others who fought poverty-related disease in London]
+
+**In the story:** The Old Gang visit the John Snow pub. They stand before Salter's statue. They honour the medical heroes because these people did what the City WOULDN'T: they looked at the poor and saw human beings worth saving. The Old Gang saw these cures happen — or saw the ABSENCE of them. They know what it meant to die of cholera. They know what it meant when someone finally understood why. These are their gods. The modern world forgot them. The Old Gang remember.
+
+**The meeting point:** The John Snow pub becomes a meeting place for the Old Gang — like the London Stone, like the oldest pubs, like the Globe. A place that has meaning because of what happened there. The Old Gang raise a glass to John Snow. The other drinkers think they're history enthusiasts. They're mourners. They're worshippers. They're the people Snow saved — too late, but saved in principle. The cure came. It just didn't come in time for them.
+
 ### Famous People from Elephant and Castle
 - **Charlie Chaplin** — born in Walworth, 1889. Workhouse childhood.
 - **Michael Faraday** — born in Newington Butts, 1791.

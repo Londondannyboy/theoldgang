@@ -196,3 +196,13 @@ The community hall scene (walking out to find Old Gang staring across the street
 ### RESOLVED — Screen-Ready Writing
 **Decision:** The novel is written as prose FIRST but structured for Netflix adaptation. Scene-based writing. Episode-ready chapter endings. Dialogue-forward. Visual set-pieces written with shot-list clarity. The 28-chapter outline maps to 10 episodes across Season 1. Season 2 = Book 2 (the City, the guilds). The bible IS the series bible.
 **Affects:** Prose style, chapter structure, how briefs are written, what Claude Code prioritises in drafts
+
+### TBD — Diamond Anne: Scarlet as Birth Name
+**Decision:** TO BE CONFIRMED — Diamond Anne's birth name is Scarlet (named for scarlet fever). This creates a Scarlet → Diamond Anne transformation parallel with Victor Thomas → Marcus → "Call me Victor." She buries the soft name. He reclaims his.
+**Affects:** Diamond Anne's characterisation, the naming theme, potential scenes where someone calls her Scarlet and she either flinches or doesn't respond
+
+### TBD — Sarah's Rash: When Does It Appear?
+**Decision:** TO BE DECIDED — at what point in the story does Sarah develop the rash?
+**Options:** (a) Early — Part 1, before she knows what's happening (the reader sees the physical connection before Sarah understands it) (b) Mid-story — after the banishment, as she goes deeper into the old world (c) Late — after meeting her father, the connection at its peak
+**Reasoning:** Option (a) is strongest — plant it early, let it recur, let it intensify. The reader tracks Sarah's physical transformation alongside her investigative one.
+**Affects:** Pacing, when the Old Woman's diagnosis lands, the physical manifestation timeline

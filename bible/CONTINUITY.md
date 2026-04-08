@@ -295,6 +295,19 @@
 - Permafrost parallel: old pathogens released from disturbed ground — scientifically grounded
 - The Old Gang honour Dr Salter's statue — the doctor who fought their diseases, who chose their streets
 - Salter's life work undone by the Old Gang's return — same diseases, same streets, a century later
+- Diamond Anne's birth name is SCARLET — named for scarlet fever — the disease was in her name
+- Scarlet → Diamond Anne mirrors Victor → Marcus in reverse: she buries the soft name, he reclaims his
+- Sarah develops an unexplainable rash — physical manifestation of Old Gang connection — doctors baffled
+- The Old Woman recognises Sarah's rash: "It's the old disease, darling. I had it when I was young."
+- The spiritual connection manifests physically — Sarah's body catching echoes of Victorian disease
+- British Legion Old Boy — 90+, dark glasses, impenetrable accent — the last living male gangster bridge
+- The Old Gang understand him perfectly — his accent is closest to theirs of anyone alive
+- Modern gang knows him: "Old Charlie, nobody knows what he's on about, but my nan says he was proper"
+- The Old Gang worship medical heroes as GODS: John Snow, Salter, Bazalgette, Nightingale, Jenner
+- These people cured the diseases that killed the poor — the Old Gang's actual saviours
+- The John Snow pub in Soho = a pilgrimage site for the Old Gang — their god's temple
+- The Old Gang raise a glass to Snow — other drinkers think they're history buffs — they're mourners
+- The Old Gang saw these cures happen (or their absence) — they know what cholera death felt like
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -424,6 +437,10 @@
 - Press headlines about TB/scurvy returning — think-pieces about austerity — accidentally right, specifically wrong
 - NHS/public health investigation into the outbreak — hunting the cause in modern poverty, missing the dead
 - Sarah connecting the outbreak to the Old Gang — the diseases match the era, not the present
+- Sarah's rash — doctors baffled — the Old Woman diagnoses it instantly: "the old disease"
+- The Old Gang in the John Snow pub, Soho — raising a glass to the man who understood cholera
+- British Legion Club — the Old Gang hear the old boy speak and understand every word — he hears home
+- The Old Gang standing before Salter's statue in Bermondsey — silence — reverence
 
 ## Established Facts (Novel)
 *No chapters written yet.*

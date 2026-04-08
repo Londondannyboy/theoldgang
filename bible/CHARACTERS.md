@@ -21,6 +21,16 @@ Developed across 25 brain dump sessions. This is the definitive character bible.
   And then she looks at one of the Old Gang. And sees her own face.
   Not literally — but the shape of a jaw, the way someone stands, a gesture that her father used to make. Recognition. Not detective work — BLOOD. She knows before she understands. Her body knows before her mind.
   She went to Elephant to find her father. She found her entire bloodline. She found the reason she could always see what others couldn't. She's not a good detective who notices things. She's a daughter of the ground, and the ground has been talking to her since she arrived.
+- **The Rash — Physical Manifestation:**
+  Sarah develops a rash. Unexplainable. No allergic reaction, no infection, no identifiable cause. Modern medicine runs tests, finds nothing. The rash appears on her arms, her hands — the parts of her body that have been closest to the crime scenes, the excavation, the cold.
+
+  She visits a doctor. They're baffled. "Sometimes the body just reacts."
+
+  But the Old Woman — the one from the crime scene tape, the one who said "That's the Old Gang" — sees it. Looks at Sarah's arms. And says: "It's the old disease, darling. I had it when I was young and all."
+
+  Matter-of-fact. No drama. The way you'd say "that's a cold coming on." As if scarlet fever or some Victorian skin complaint is the most obvious diagnosis in the world. Because to her it IS obvious. She grew up around the last echoes of these diseases. She recognises what modern doctors can't: a rash from another century.
+
+  **What this means:** The spiritual connection isn't just cold and instinct. It's PHYSICAL. Sarah's body is manifesting the Old Gang's diseases through the bloodline. The energy flows both ways: Old Gang → father → Sarah carries not just perception but BIOLOGY. She is catching echoes of their world in her skin. Her body is becoming a bridge between the living and the dead — and the bridge has symptoms.
 - **The Old Police Unit:** No mobile reception. Rotary phone. 80s filing cabinets. Her life goes backwards.
 - **The Phone Scene:** Rotary telephone in abandoned room. It rings. A call from the 1960s.
 - **Sarah refuses** to become part of the street gang Old Gang. But she accepts Victor as an ally.
@@ -38,9 +48,23 @@ Developed across 25 brain dump sessions. This is the definitive character bible.
 
 ---
 
+### The British Legion Old Boy — The Last Living Male Bridge
+- **Role:** Minor / atmospheric — the male equivalent of the Old Woman
+- **Age:** 90+
+- **Background:** A genuine old-school South London man. A gangster "back in the day" — not Old Gang supernatural, but from the tail end of the era when Elephant's criminal culture was still recognisable as descended from the Victorian world. The last man alive who carries that accent, that bearing, that knowledge.
+- **Location:** The British Legion Club. Sits there daily. Dark glasses. Nursing a drink. Nobody really listens to him because nobody can UNDERSTAND him — his accent is so deep, so old-school South London, that even local Cockneys laugh when they try to parse what he's saying. The accent has drifted away from him. Or rather, everyone else's accent drifted away.
+- **The Old Gang connection:** When the Old Gang walk in — to the Legion Club or to a pub nearby — they understand EVERY WORD. Because his accent is closer to theirs than anyone alive. He speaks the way they remember people speaking. Not Victorian exactly, but the living echo of it — the last ember of a voice that's been dying out since the estates were built.
+- **The modern gang connection:** The local gang knows him. "Old Charlie in the Legion, yeah? Nobody knows what he's on about, but my nan says he was proper back in the day." The modern gang respects him without understanding him — respect for age, for reputation, for survival. He's been alive long enough to have known people who knew people who were Old Gang.
+- **Function:** The living male bridge. Diamond Anne (old version) is the female bridge. The Old Woman is the community bridge. The British Legion Old Boy is the criminal bridge — the last man who carries the gangster culture of old Elephant in his body and his voice. When the Old Gang hear him speak, they hear home. When he hears the Old Gang, he hears his grandfather.
+- **Voice Notes:** Impenetrable to modern ears. Crystal clear to the Old Gang. The accent of a London that no longer exists — preserved in one man, in one club, in one chair by the window.
+
+---
+
 ### Diamond Anne — The Origin and The Ending
 
 **THE REVEAL:** The young female Old Gang member and the old dying woman in the care home are the SAME PERSON. Same rings. Same body twitch.
+
+**Birth name: Scarlet.** Before she was Diamond Anne — the hard name, the crime name, the rings and the silence — she was Scarlet. Named for the fever that killed half the children on her street. Scarlet fever. The disease was in her name from birth. The Victorian poor named their children after the things that haunted them — the way you'd name a boat after the sea that might drown you. Scarlet was a girl. Diamond Anne was what the world made of her. The name change — Scarlet to Diamond Anne — mirrors Victor's name change in reverse: Victor reclaims his birth name (the soft one underneath the hard one). Diamond Anne buries hers (the soft one underneath the hard one). Both transformations. Opposite directions. Same inevitability.
 
 **Young Diamond Anne (the dead girl):**
 - Initially SWEET. Gentle. Refuses violence.
