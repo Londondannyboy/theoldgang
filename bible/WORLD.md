@@ -133,6 +133,25 @@ People walk past it every day. They don't know what it was. They don't see the o
 
 **In the story:** Sarah may walk past the Old School and recognise it — another old thing hiding in plain sight. Or an Old Gang member may stand outside it and recognise it — the school they never attended, the education they were never given, the "benevolence" that never reached the unconsecrated ground. The building is a monument to the gap between what institutions CLAIM to do and what they actually do.
 
+### Dr Alfred Salter — The Hero of Bermondsey
+A REAL historical figure. Born 1873 in Greenwich. Qualified as a doctor 1896. Moved to Bermondsey in 1898 — one of the most deprived areas in London, the heart of Old Gang territory. Instead of practising in a wealthy area, he offered FREE medical services to those who couldn't pay. Described as "an NHS before the NHS." His fellow doctors criticised him — they thought it would reduce their business.
+
+He married Ada Salter, who became the first Labour woman mayor in Britain (Bermondsey, 1922). Together they stayed in the slums rather than moving to a more affluent area.
+
+**The tragedy:** Their daughter Joyce died of scarlet fever at age eight in 1910, when an epidemic swept through the Bermondsey slums. A doctor who fought poverty's diseases lost his own child to poverty's diseases. On the same streets. In the same conditions. The grief drove the Salters to fight harder.
+
+**The statue:** "Dr Salter's Daydream" — a set of sculptures on Bermondsey Wall East showing Alfred, Ada, Joyce, and their cat. A family depicted at a happy time, before the slums took their daughter.
+
+**In the story:** The Old Gang would know Salter — or know of him. The doctor who came to the slums and STAYED. Who didn't cross the river back to safety. Who chose their ground. Whose daughter died on their ground. He is the opposite of Soames: a man who used his privilege to help rather than exploit. The Old Gang would treat his statue with REVERENCE — possibly one of the few modern (to them) things they honour. A scene of an Old Gang member standing before the statue, recognising what Salter did, in silence.
+
+Dr Salter represents the road not taken — what the City COULD have done, what institutions COULD have been. Instead of the ragged schools (control disguised as charity), Salter offered genuine help. And the system punished him for it (fellow doctors criticised him) and the slums took his daughter anyway.
+
+### Other Medical Heroes of the Slums [TBD]
+Dr Salter was not alone. Other medical figures fought poverty-related disease in London's worst areas. These include:
+- [TBD — research needed: other doctors, nurses, reformers who worked in Southwark/Bermondsey/Elephant to combat TB, cholera, scurvy, malnutrition]
+- These figures should be recognised in the story as HEROES — the people who actually tried, who actually helped, who stood against the conditions the City created.
+- They are the moral counterweight to Soames's benevolence speech — real benevolence, not institutional PR.
+
 ### Famous People from Elephant and Castle
 - **Charlie Chaplin** — born in Walworth, 1889. Workhouse childhood.
 - **Michael Faraday** — born in Newington Butts, 1791.
@@ -155,6 +174,27 @@ Present day. Supernatural intrusions from: Victorian era (primary), 1890s (Hooli
 - Sarah's life goes backwards the deeper she investigates
 - The True Old Gang adapt — different accents, modern clothes, walk among us
 - The Corrupt Policeman is Old Gang by lineage, not resurrection
+
+### The Outbreak — Old Diseases Return
+When the Old Gang return, their Victorian diseases come with them. TB. Scurvy. Smallpox traces. The diseases of poverty, carried in dead bodies, released into modern London.
+
+**The outbreak:** Cases appear in Elephant, Bermondsey, Southwark — the Old Gang's territory. TB cases spike. Scurvy is diagnosed — a disease associated with extreme nutritional deprivation, almost unknown in modern London. The NHS responds. Public Health England investigates.
+
+**The press coverage:** Headlines declare: "OLD DISEASES OF POVERTY RETURN TO INNER-CITY LONDON." Think-pieces about austerity, NHS cuts, food poverty, the return of Victorian conditions. Columnists write about how modern Britain is failing its poorest. Politicians are questioned. Charities issue statements.
+
+They are RIGHT in thesis — poverty IS the cause. But they are WRONG in specifics. The diseases aren't returning because modern people are poor. They're returning because VICTORIAN poor people are literally back, walking the streets, carrying the plagues of their era in their bodies.
+
+**The central irony applied to public health:** The press accidentally tells the truth while completely misunderstanding the cause. This mirrors every other misreading in the story:
+- Modern gangs say "they're dead" → police hear slang
+- Old Gang territory matches Booth's map → police see postcode wars
+- Victorian violence → police see gang escalation
+- Victorian diseases → press sees modern poverty
+
+Everyone interprets the Old Gang through modern frameworks. Everyone is right about the WHAT but wrong about the WHY. The diseases ARE from poverty. They're just not from modern poverty. They're from 1860s poverty, carried in the bodies of the dead, released by the regeneration that was supposed to erase the past.
+
+**The permafrost parallel:** This is scientifically grounded. When permafrost melts, it releases bacteria from centuries ago. When unconsecrated graves are disturbed, the same principle applies — old pathogens, preserved in the ground, released by excavation. The story's mechanism is real science applied to supernatural fiction.
+
+**Dr Salter connection:** The diseases the Old Gang carry are the same diseases Salter spent his life fighting. TB in Bermondsey. Scarlet fever in the slums. The Old Gang's outbreak is the return of everything Salter tried to cure — on the same streets, in the same community, as if his life's work has been undone by a construction drill.
 
 ### The Spiritual Connection — Sarah's Father and the Grave
 

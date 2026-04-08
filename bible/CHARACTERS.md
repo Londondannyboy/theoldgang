@@ -352,6 +352,14 @@ Five core members. Victorian street gang from Booth's black-coded streets. Burie
 
 ---
 
+### Dr Alfred Salter — Historical Hero (Referenced)
+- **Role:** Historical figure referenced in the story — not a returning character (he died 1945, not in the unconsecrated grave)
+- **Function:** The moral counterweight to Soames. The man who actually helped. The doctor who chose the slums. Whose daughter died in the slums. Whose statue stands on Bermondsey Wall East.
+- **In the story:** The Old Gang honour his statue. Sarah may research him. His legacy — fighting the diseases of poverty — is undone by the Old Gang's return (the same diseases come back). Salter represents what institutions COULD be: genuine service, not control disguised as charity.
+- **The Salter/Soames contrast:** Both are men of privilege who engaged with poverty. Salter gave his career and lost his daughter. Soames gives speeches and snorts cocaine. Salter stayed in Bermondsey. Soames crosses the river for kicks and goes home. The difference between genuine service and institutional performance.
+
+---
+
 ### Modern Gangs
 - **Function:** Know the Old Gang are dead. Frightened. Tell police "they're dead" — misread as slang.
 - **Victor's former crew:** Lose their top boy to something they can't understand.

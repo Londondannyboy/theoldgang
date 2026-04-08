@@ -120,6 +120,11 @@ When an Old Gang member discovers a descendant working Bankside, they are seeing
 ## The Victorian Photographs
 The faces in the daguerreotypes. Real children. Real women. Real poverty. Frozen in time by a camera they didn't understand, in conditions they couldn't escape. The photographs survived. The people didn't. Until now.
 
+## The Outbreak — The Press Misreading
+When Victorian diseases appear in modern London, the press writes about poverty. They are right and they are wrong — the oldest pattern in the story. The diseases ARE from poverty. Just not modern poverty. The headlines tell the truth accidentally. The think-pieces diagnose the correct condition from the wrong century.
+
+This is the final version of the story's central irony: EVERYONE who encounters the Old Gang's effects interprets them through modern frameworks. The police see gang crime. The press sees austerity. The NHS sees a public health failure. Nobody sees Victorian dead walking the streets of Elephant and Castle carrying the plagues that killed them. Because nobody can imagine it. The truth is too literal for anyone to believe.
+
 ## Carried Death — Poverty Beyond the Grave
 The Old Gang brought their poverty back with them. Not just the memory of it — the BIOLOGY of it. The diseases. The malnutrition. The shortened lives. Victorian poverty is not history to them. It is their physical condition. They are sick. They are fading. They are dying again, from the same causes, on the same streets, in a world that has cured the diseases they carry but cannot cure the conditions that created them.
 

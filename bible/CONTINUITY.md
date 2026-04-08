@@ -105,6 +105,9 @@
 - The Old School — behind St John's Church, Waterloo — real building on the edge of Elephant — still has old signage
 - Both are Victorian "benevolent" institutions — actually mechanisms of control — hiding in plain sight in modern London
 - "Old School" / "Old Gang" parallel — same streets, same word "old," same erasure
+- Dr Alfred Salter — real doctor, Bermondsey, free medical care for slum poor, daughter died of scarlet fever 1910
+- "Dr Salter's Daydream" statue on Bermondsey Wall East — the Salter family depicted at a happy time
+- Dr Salter is the moral opposite of Soames — genuine service vs institutional performance
 
 ### The Old Gang
 - They are literally dead — clinically dead on blood tests
@@ -285,6 +288,13 @@
 - The Old Gang know they're fading — borrowed time — every moment of joy is shadowed by the clock
 - Even death couldn't free them from poverty — they came back and brought it with them
 - Three-layer vulnerability: killable by Victorian weapons + carrying Victorian disease + dying on Victorian time
+- Old Gang's return causes a disease outbreak — TB, scurvy, traces of smallpox — in Elephant/Bermondsey/Southwark
+- Press headlines: "Old diseases of poverty return to inner-city London" — right in thesis, wrong in specifics
+- The diseases aren't from modern poverty — they're from Victorian poverty, carried in the Old Gang's bodies
+- The press misreading mirrors every other misreading: police hear slang, press sees austerity, nobody sees the dead
+- Permafrost parallel: old pathogens released from disturbed ground — scientifically grounded
+- The Old Gang honour Dr Salter's statue — the doctor who fought their diseases, who chose their streets
+- Salter's life work undone by the Old Gang's return — same diseases, same streets, a century later
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -410,6 +420,10 @@
 - Soames sourcing antique weapons — reaching into the past to destroy the past
 - The public health angle: authorities hunting Old Gang not as criminals but as plague carriers
 - The Old Gang's joy shadowed by fading — Diamond Anne in sunlight knowing the warmth won't last
+- An Old Gang member standing before Dr Salter's statue in silence — reverence for the man who helped
+- Press headlines about TB/scurvy returning — think-pieces about austerity — accidentally right, specifically wrong
+- NHS/public health investigation into the outbreak — hunting the cause in modern poverty, missing the dead
+- Sarah connecting the outbreak to the Old Gang — the diseases match the era, not the present
 
 ## Established Facts (Novel)
 *No chapters written yet.*
