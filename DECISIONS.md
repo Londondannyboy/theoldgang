@@ -206,3 +206,21 @@ The community hall scene (walking out to find Old Gang staring across the street
 **Options:** (a) Early — Part 1, before she knows what's happening (the reader sees the physical connection before Sarah understands it) (b) Mid-story — after the banishment, as she goes deeper into the old world (c) Late — after meeting her father, the connection at its peak
 **Reasoning:** Option (a) is strongest — plant it early, let it recur, let it intensify. The reader tracks Sarah's physical transformation alongside her investigative one.
 **Affects:** Pacing, when the Old Woman's diagnosis lands, the physical manifestation timeline
+
+### TBD — The Medical Examination: Which Old Gang Member?
+**Decision:** TO BE DECIDED — who is the Old Gang member in the examination scene?
+**Options:** (a) John (the White Youth) — the cockiest, most confrontational, would treat the whole thing with amused contempt (b) The Ginger Urchin — the smallest, scrawniest, making the 150-year-old corpse reading even more jarring against his childlike appearance (c) A peripheral Old Gang member — someone expendable if the scene needs to end with escape or death
+**Reasoning:** John is the strongest choice — he's already been through custody (Chapter 8), so this is the ESCALATION of that scene. Same person, deeper examination, more conclusive proof, same institutional denial.
+**Affects:** Character continuity from Chapter 8, the escalation arc, which Old Gang member Sarah tracks most closely
+
+### TBD — Medical Examination: What Happens to the Results?
+**Decision:** TO BE DECIDED — are the results suppressed, leaked, or dismissed?
+**Options:** (a) Suppressed by Corrupt Policeman / City influence (b) Leaked to press — adds to disease outbreak story (c) Dismissed as equipment malfunction — institutional denial (d) Sarah obtains them — private evidence (e) Combination
+**Reasoning:** Option (c) is most thematically consistent — the institution denying incontrovertible evidence. But option (a) adds to the conspiracy. Both could work: dismissed publicly, suppressed privately.
+**Affects:** Sarah's evidence, the conspiracy scope, whether the scientific community becomes involved
+
+### TBD — Medical Examination: Chapter Placement
+**Decision:** TO BE DECIDED — where does this scene sit?
+**Options:** (a) Part 2, after the disease outbreak is established — maybe Chapter 14-16 area (b) Part 3, as a late confirmation before the father's return (c) Early Book 2 — the first scene where the authorities take the Old Gang seriously
+**Reasoning:** The scene needs the disease outbreak to be established first (as the trigger). It also needs to escalate from the Chapter 8 blood test. Placing it in Part 2 (mid-story) gives Sarah scientific evidence before the Booth map discovery — she has BOTH data and clinical proof, and STILL nobody listens.
+**Affects:** Pacing, when the proof becomes incontrovertible, Sarah's evidence timeline

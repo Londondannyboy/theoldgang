@@ -22,6 +22,7 @@
 - Sarah connects demolition timeline to Old Gang appearances
 - The Camberwell Man at Traitor's Gate
 - The nightclub scene — Victorian violence in a modern grime club
+- The FULL medical examination: an Old Gang member in a secure facility, full workup. Heart monitors flatline but patient is conscious. Blood chemistry shows 150+ years of death. Tissue degradation consistent with a Victorian-era corpse. Disease profile from the 1860s. Behind two-way glass, Sarah watches. The proof she always had, now incontrovertible. The institution will still dismiss it.
 
 ## Layer 3b: Diamond Anne — The Origin and The Ending
 

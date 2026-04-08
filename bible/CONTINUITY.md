@@ -308,6 +308,16 @@
 - The John Snow pub in Soho = a pilgrimage site for the Old Gang — their god's temple
 - The Old Gang raise a glass to Snow — other drinkers think they're history buffs — they're mourners
 - The Old Gang saw these cures happen (or their absence) — they know what cholera death felt like
+- Full medical examination of Old Gang member: heart flatline (patient conscious), blood chemistry = 150+ years dead
+- Tissue samples under microscope = archaeological remains, not living tissue
+- Disease profile: active TB, smallpox antibodies (natural not vaccine), cholera, scurvy — all from 1860s
+- Bone density = skeletal — consistent with century-plus in the ground
+- Medical team terrified — sweat, double-checking, recalibrating — same results every time
+- Old Gang member watches with mild amusement — doesn't understand the machines
+- Triggered by public health outbreak investigation — detained under health powers, not criminal arrest
+- Sarah watches from behind two-way glass — she already knew — this is the proof
+- Results likely suppressed or dismissed: "equipment malfunction," "contaminated samples" — institutional denial
+- Escalation from Ch8 blood test: "dead" → "dead for 150 years" → still dismissed
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -441,6 +451,10 @@
 - The Old Gang in the John Snow pub, Soho — raising a glass to the man who understood cholera
 - British Legion Club — the Old Gang hear the old boy speak and understand every word — he hears home
 - The Old Gang standing before Salter's statue in Bermondsey — silence — reverence
+- Full medical exam: monitors flatline, patient talks. Doctor sweating. Printout impossible. Sarah behind glass.
+- The Old Gang member asking for a glass of water while the medical team processes that he's been dead since the 1860s
+- Results suppressed or discredited — institutional denial even in the face of incontrovertible evidence
+- Sarah obtaining the results — adding to her evidence — her isolation deepening
 
 ## Established Facts (Novel)
 *No chapters written yet.*

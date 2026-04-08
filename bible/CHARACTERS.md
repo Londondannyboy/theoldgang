@@ -217,6 +217,41 @@ Five core members. Victorian street gang from Booth's black-coded streets. Burie
   **What the three vulnerabilities create together:**
   The Old Gang are fearless in combat (you can't kill the already-dead with modern weapons). But they are slowly dying (life expectancy), carrying their death with them (disease), and destroyable by anyone who understands their era (Victorian tools). They are powerful AND fragile. Terrifying AND tragic. Invincible against the modern world AND fatally bound to the old one. This is the tension that drives the story: the dead are strong enough to change the world, but the world they came from is still killing them.
 
+- **The Medical Examination — Clinical Confirmation:**
+  At some point in the story, an Old Gang member undergoes a FULL medical examination in a secure, controlled environment. Not the quick blood test of the custody scene (Chapter 8) — a comprehensive, professional workup with:
+  - Heart rate monitors: flatline. But the patient is conscious, talking, moving.
+  - Blood pressure: unmeasurable. No circulation in any conventional sense.
+  - Blood chemistry: decomposition markers consistent with death — not recent death. ANCIENT death. Chemical signatures that take decades to develop. Markers the lab has never seen in a living patient because they've only ever seen them in exhumed remains.
+  - Tissue samples: cellular degradation consistent with 100+ years of death. The cells are Victorian-era dead. Under a microscope, the tissue looks like something from an archaeological dig, not a hospital bed.
+  - Bone density: skeletal. The bones of someone who has been in the ground for over a century.
+  - Disease markers: active TB, traces of smallpox antibodies from natural infection (not vaccination), cholera bacteria, scurvy indicators. A disease profile from the 1860s, perfectly preserved.
+  - Body temperature: significantly below normal. The cold confirmed clinically.
+
+  **The scene:** The Old Gang member — could be John (the White Youth), who is the cockiest and most confrontational — sits chained in a secure medical facility. Two-way glass. Video cameras from every angle. A professional medical team — not police doctors but specialists, maybe from a university hospital or a Home Office facility. They approach this clinically. Professionally. Expecting to find a malnourished person, possibly carrying a communicable disease.
+
+  They attach the monitors. They draw blood. They run tests. And the results come back.
+
+  The lead doctor's face. Sweat on the forehead. Looking at the printout. Looking at the patient. Looking at the printout. Colleagues crowding around the screen, nervous, double-checking, recalibrating, running the tests again. The same results. Every time.
+
+  The Old Gang member watches them with mild amusement. He doesn't understand the machines (screen blindness, audio blindness — the monitors mean nothing to him). He just sees frightened professionals doing things he can't comprehend. He's been through worse. He's been dead.
+
+  Behind the two-way glass: Sarah. Watching. She already knew. The blood test in Chapter 8 told her. But this — this is PROOF. Incontrovertible, scientific, documented, recorded on camera proof that the person in that room has been dead for over 150 years and is currently asking for a glass of water.
+
+  **The trigger — Why a full examination:**
+  The disease outbreak (TB, scurvy appearing in Elephant/Bermondsey) triggers a public health investigation. An Old Gang member is detained under public health powers — not arrested, not charged, but DETAINED for medical testing as a potential source of the outbreak. This is the bureaucratic mechanism: public health emergency → mandatory testing → the full workup. The medical team expects to find a malnourished modern person carrying treatable TB. They find a Victorian corpse that's breathing.
+
+  **What happens next:** [TBD — options include:]
+  (a) The results are suppressed — someone senior (Corrupt Policeman? Soames's influence?) ensures the data disappears. The Old Gang member is released or escapes.
+  (b) The results leak — the scientific community is thrown into chaos. But who would believe it?
+  (c) Sarah obtains the results — adding to her evidence file, her isolation, her certainty
+  (d) The medical team is discredited — "equipment malfunction," "contaminated samples," institutional denial
+  Option (d) is most consistent with the story's thesis: the institution dismisses evidence that contradicts its framework. The medical version of the police dismissing Sarah's anomalies.
+
+  **The escalation from Chapter 8:**
+  Chapter 8: blood test → "This person is dead" → dismissed as lab error
+  This scene: full workup → "This person has been dead for 150 years" → scientifically incontrovertible → STILL dismissed
+  The institutional denial gets MORE absurd as the evidence gets MORE conclusive. That IS the horror.
+
 ---
 
 ### Victor / Marcus — The Camberwell Man / Top Boy / Old Gang Leader
