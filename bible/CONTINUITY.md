@@ -335,11 +335,15 @@
 - Their fear is love — parental terror of watching a child walk toward the same destruction they experienced
 - Life not scared of death = the inversion of the Seventh Seal concept
 - Lil Cockney is more powerful than the Old Gang because he represents the future — and the future isn't scared
-- SCARLET ESCAPES: One Old Gang member transitions from death to LIFE — truly alive, warm, the cold gone
-- That person is Scarlet (Diamond Anne's birth name) — she reclaims her soft name and walks into sunlight
-- Victor reclaims his name within death. Scarlet reclaims hers INTO life. The naming theme completes.
-- The escape may be ambiguous — truly alive or just walking away? The reader decides. Hope is the point.
-- This is the FINAL scene of the entire series — the last image
+- Scarlet gives BIRTH — a dead woman producing a living, healthy child — the ultimate crossing
+- Doctors expect the worst: dead mother, Victorian plagues, impossible pregnancy — baby comes out alive and screaming
+- Baby carries NONE of the mother's diseases — the plagues stop here — the future is clean
+- Scarlet's vow: "No one ever hurt my little darling" — protection through love, not violence
+- Diamond Anne dies in this moment — the hard name falls away — Scarlet the mother remains
+- The father is [TBD] — matters less than the child
+- The series' final image: Scarlet walking into sunlight, holding a living baby, the cold leaving her
+- The medical heroes' legacy: their science made this birth possible — the baby is proof their work mattered
+- The naming theme completes: Victor = power in death, John = agency in death, Scarlet = escape FROM death into life
 - The Avenger's motivation deepened: not just personal revenge but the theft of HUMAN POTENTIAL
 - The guilds suppressed innovation — tried to crush the Industrial Revolution to protect their monopoly
 - The Avenger represents every working-class person whose mind was stolen by the system
@@ -513,7 +517,10 @@
 - Lil Cockney walks up to the Old Gang: "Who are you? This is MY patch." No fear. Full cockney. Age seven.
 - The Old Gang visibly flinching at a child — the audience sees: the dead fear the living future
 - An Old Gang member looking at Lil Cockney with parental terror — seeing themselves before everything went wrong
-- Scarlet walking into sunlight — warm, alive, the cold gone — she doesn't look back — the series' final image
+- The birth: hospital, doctors terrified, dead mother, machines flatline — baby screams alive — life from death
+- Scarlet holding the baby: cold skin against warm newborn — "No one ever hurt my little darling"
+- Diamond Anne falls away — Scarlet remains — the hard name dissolving in the presence of the child
+- The final image: Scarlet in sunlight, holding the baby, walking forward, not looking back
 - The Avenger in the City, subservient, cataloguing not just financial crimes but crimes against human potential
 - The moment the Avenger's true motivation is revealed — not revenge but RECLAMATION of stolen futures
 

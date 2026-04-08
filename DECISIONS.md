@@ -244,11 +244,10 @@ The community hall scene (walking out to find Old Gang staring across the street
 **Reasoning:** Option (a) is extraordinary as a closing image: the boy, the dead man, the phone, Sarah's phone ringing. The cycle continuing. The future calling. But it might compete with the drill scene ending. Option (b) opens Book 2 with the living inheritance, which sets the tone perfectly.
 **Affects:** Book 1 ending, Book 2 opening, Lil Cockney's introduction weight
 
-### RESOLVED — Someone Escapes Death Into Life
-**Decision:** One Old Gang member truly escapes death — transitions to life, walks into sunlight, the cold gone. That person is Scarlet (Diamond Anne before the transformation). She reclaims her birth name and walks away. The naming theme completes: Victor = power within death, Scarlet = escape FROM death.
-**The ambiguity:** Whether she is TRULY alive or just walking away still dead is left for the reader to decide. The image is enough. Hope is the point.
-**Placement:** The final scene of the entire series.
-**Affects:** The story's emotional resolution, the nihilism question (answered: the cycle CAN break), the naming theme completion
+### RESOLVED — Scarlet Gives Birth and Escapes
+**Decision:** Scarlet (Diamond Anne) gives birth to a living child. A dead woman producing a living baby — the ultimate crossing of death into life. The baby is healthy, carries none of the mother's diseases. Scarlet's vow ("No one ever hurt my little darling") breaks the cycle. She walks into sunlight holding the child. This is the series' FINAL IMAGE.
+**The father:** TBD — options: unknown, a living man, Victor, someone from the Goth Girl's world. The father matters less than the child.
+**Affects:** The series ending, the nihilism question (answered: life wins), Diamond Anne's complete arc (Scarlet → Diamond Anne → Scarlet again → mother), the naming theme completion
 
 ### RESOLVED — The Avenger's Deeper Motivation
 **Decision:** The Avenger's motivation is not just personal revenge but PHILOSOPHICAL: the theft of human potential. The guilds suppressed innovation. The system stole working-class minds, not just labour. The Avenger represents every human whose sentience was treated as a threat.

@@ -121,14 +121,20 @@ This network belongs to the dead. The Old Gang use it. It rang for Sarah because
 
 The rotary phone network is the dead's version of the modern world's communication. They can't see screens. They can't hear recordings. But the OLD phones — the ones from an era close enough to theirs — these work. These connect. The dead communicate through the technology of the recent dead: the 1940s, the 1960s, the pre-digital age. Not their own era (they had no phones) but the era closest to theirs in the technology timeline. The rotary phone is the midpoint between their world and ours — old enough for them to understand, new enough to carry a voice.
 
-## The Escape — One Person Makes It Out
-The cycle creates gangs. The cycle creates poverty. The cycle creates death. But the cycle is NOT unbreakable. Scarlet proves it.
+## The Birth — Death Produces Life
+The cycle breaks not through violence, not through institutional reform, not through vengeance or justice or the reckoning of ancient debts. The cycle breaks through the simplest act in the world: a mother holding her child.
 
-One person walks into sunlight and feels ACTUAL warmth. One person escapes death into life. One person reclaims the name they were born with — the soft name, the human name, the name before the blood — and walks away from everything the system made them.
+Scarlet — the girl before Diamond Anne, the soft name under the hard name — gives birth. A dead woman produces a living child. The doctors said impossible. The machines said impossible. The 150 years of death said impossible. The baby disagrees. The baby SCREAMS. Alive.
 
-The story is not nihilism. The story is a question: CAN the cycle break? And the answer — given at the very end, after everything — is: yes. Once. For one person. And once is enough. Because it proves the mechanism exists. Escape is possible. Life can win. The future is not doomed to repeat the past.
+"No one ever hurt my little darling."
 
-Scarlet walks into sunlight. The cold is gone. She doesn't look back.
+Not a threat. A vow. Not violence. Love. The force that is older than the guilds, older than the City, older than the unconsecrated ground, older than poverty itself. A mother protecting her child. The chain that every institution, every exploitation, every system in history has tried to break and never succeeded: the bond between a mother and what she made.
+
+The medical heroes — Snow, Salter, Bazalgette, Nightingale — made it possible. Their science, their sewers, their vaccines, their care — across centuries of work — created the conditions where even a dead woman's child could live. The baby is their legacy. Their REAL legacy. Not the ragged schools. Not the institutional benevolence. A living child, born clean, born healthy, born free of the plagues that killed its mother's generation. The doctors who fought poverty did not fight in vain. The proof is screaming in Scarlet's arms.
+
+Scarlet walks into sunlight. Holding the baby. The cold leaving her. She doesn't look back.
+
+The cycle broke. Not for everyone. Not for the system. For ONE MOTHER and ONE CHILD. And that is enough. Because it proves: life wins. Not always. Not easily. Not without 150 years of death and a vow spoken over a newborn's head. But it wins.
 
 ## Stolen Potential — The Avenger's Philosophical Rage
 The system's greatest crime was not poverty. It was not exploitation. It was not child labour or unconsecrated burial or cholera or short lives. The greatest crime was the SUPPRESSION OF HUMAN POTENTIAL. Every working-class child who could have been a scientist, a writer, a thinker, an inventor — crushed by a system that needed them ignorant. The guilds didn't just steal labour. They stole MINDS. They stole FUTURES. They treated human sentience as a threat and human potential as a commodity.
