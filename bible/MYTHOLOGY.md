@@ -121,6 +121,20 @@ This network belongs to the dead. The Old Gang use it. It rang for Sarah because
 
 The rotary phone network is the dead's version of the modern world's communication. They can't see screens. They can't hear recordings. But the OLD phones — the ones from an era close enough to theirs — these work. These connect. The dead communicate through the technology of the recent dead: the 1940s, the 1960s, the pre-digital age. Not their own era (they had no phones) but the era closest to theirs in the technology timeline. The rotary phone is the midpoint between their world and ours — old enough for them to understand, new enough to carry a voice.
 
+## The Escape — One Person Makes It Out
+The cycle creates gangs. The cycle creates poverty. The cycle creates death. But the cycle is NOT unbreakable. Scarlet proves it.
+
+One person walks into sunlight and feels ACTUAL warmth. One person escapes death into life. One person reclaims the name they were born with — the soft name, the human name, the name before the blood — and walks away from everything the system made them.
+
+The story is not nihilism. The story is a question: CAN the cycle break? And the answer — given at the very end, after everything — is: yes. Once. For one person. And once is enough. Because it proves the mechanism exists. Escape is possible. Life can win. The future is not doomed to repeat the past.
+
+Scarlet walks into sunlight. The cold is gone. She doesn't look back.
+
+## Stolen Potential — The Avenger's Philosophical Rage
+The system's greatest crime was not poverty. It was not exploitation. It was not child labour or unconsecrated burial or cholera or short lives. The greatest crime was the SUPPRESSION OF HUMAN POTENTIAL. Every working-class child who could have been a scientist, a writer, a thinker, an inventor — crushed by a system that needed them ignorant. The guilds didn't just steal labour. They stole MINDS. They stole FUTURES. They treated human sentience as a threat and human potential as a commodity.
+
+The Avenger represents every stolen future. He infiltrates the City not just to destroy but to RECLAIM. His patience is not just tactical. It is philosophical. He is waiting for the moment when the system's own mechanisms — the trusts, the guilds, the legal frameworks — can be turned against it. Not with a docker's hook. With KNOWLEDGE. The same knowledge the system tried to prevent the poor from ever acquiring.
+
 ## Life Not Scared of Death — The Inversion
 The Seventh Seal: death gets closer to life, life gets closer to death. They meet. They cross.
 

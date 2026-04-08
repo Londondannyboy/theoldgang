@@ -335,6 +335,16 @@
 - Their fear is love — parental terror of watching a child walk toward the same destruction they experienced
 - Life not scared of death = the inversion of the Seventh Seal concept
 - Lil Cockney is more powerful than the Old Gang because he represents the future — and the future isn't scared
+- SCARLET ESCAPES: One Old Gang member transitions from death to LIFE — truly alive, warm, the cold gone
+- That person is Scarlet (Diamond Anne's birth name) — she reclaims her soft name and walks into sunlight
+- Victor reclaims his name within death. Scarlet reclaims hers INTO life. The naming theme completes.
+- The escape may be ambiguous — truly alive or just walking away? The reader decides. Hope is the point.
+- This is the FINAL scene of the entire series — the last image
+- The Avenger's motivation deepened: not just personal revenge but the theft of HUMAN POTENTIAL
+- The guilds suppressed innovation — tried to crush the Industrial Revolution to protect their monopoly
+- The Avenger represents every working-class person whose mind was stolen by the system
+- His infiltration is philosophical resistance — cataloguing crimes against human potential, not just financial crimes
+- "Even within the dead world, you can never be too dead" = philosophical patience, not just tactical patience
 - The Old Gang worship medical heroes as GODS: John Snow, Salter, Bazalgette, Nightingale, Jenner
 - These people cured the diseases that killed the poor — the Old Gang's actual saviours
 - The John Snow pub in Soho = a pilgrimage site for the Old Gang — their god's temple
@@ -503,6 +513,9 @@
 - Lil Cockney walks up to the Old Gang: "Who are you? This is MY patch." No fear. Full cockney. Age seven.
 - The Old Gang visibly flinching at a child — the audience sees: the dead fear the living future
 - An Old Gang member looking at Lil Cockney with parental terror — seeing themselves before everything went wrong
+- Scarlet walking into sunlight — warm, alive, the cold gone — she doesn't look back — the series' final image
+- The Avenger in the City, subservient, cataloguing not just financial crimes but crimes against human potential
+- The moment the Avenger's true motivation is revealed — not revenge but RECLAMATION of stolen futures
 
 ## Established Facts (Novel)
 *No chapters written yet.*

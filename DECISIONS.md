@@ -243,3 +243,13 @@ The community hall scene (walking out to find Old Gang staring across the street
 **Options:** (a) End of Book 1 — the last scene, the phone ringing as Sarah's story closes (b) Opening of Book 2 — the first scene, the new generation calling (c) Mid-Book 2 — when Lil Cockney becomes more central
 **Reasoning:** Option (a) is extraordinary as a closing image: the boy, the dead man, the phone, Sarah's phone ringing. The cycle continuing. The future calling. But it might compete with the drill scene ending. Option (b) opens Book 2 with the living inheritance, which sets the tone perfectly.
 **Affects:** Book 1 ending, Book 2 opening, Lil Cockney's introduction weight
+
+### RESOLVED — Someone Escapes Death Into Life
+**Decision:** One Old Gang member truly escapes death — transitions to life, walks into sunlight, the cold gone. That person is Scarlet (Diamond Anne before the transformation). She reclaims her birth name and walks away. The naming theme completes: Victor = power within death, Scarlet = escape FROM death.
+**The ambiguity:** Whether she is TRULY alive or just walking away still dead is left for the reader to decide. The image is enough. Hope is the point.
+**Placement:** The final scene of the entire series.
+**Affects:** The story's emotional resolution, the nihilism question (answered: the cycle CAN break), the naming theme completion
+
+### RESOLVED — The Avenger's Deeper Motivation
+**Decision:** The Avenger's motivation is not just personal revenge but PHILOSOPHICAL: the theft of human potential. The guilds suppressed innovation. The system stole working-class minds, not just labour. The Avenger represents every human whose sentience was treated as a threat.
+**Affects:** The Avenger's characterisation (now the deepest thinker in the story), his infiltration method (philosophical resistance, not just tactical), Book 2's thematic scope
