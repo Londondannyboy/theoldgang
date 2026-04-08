@@ -121,6 +121,19 @@ This network belongs to the dead. The Old Gang use it. It rang for Sarah because
 
 The rotary phone network is the dead's version of the modern world's communication. They can't see screens. They can't hear recordings. But the OLD phones — the ones from an era close enough to theirs — these work. These connect. The dead communicate through the technology of the recent dead: the 1940s, the 1960s, the pre-digital age. Not their own era (they had no phones) but the era closest to theirs in the technology timeline. The rotary phone is the midpoint between their world and ours — old enough for them to understand, new enough to carry a voice.
 
+## The Cycle Restarts — While Nobody's Watching
+The dead Old Gang returned. The modern gangs fight. The City manoeuvres. Sarah investigates. Everyone is looking at the present crisis. Nobody is watching the kitchen. Nobody is watching the estate. Nobody is watching the seven-year-old and his buddy.
+
+And the cycle is already restarting.
+
+"Someone's done my granddad over. It's our opportunity."
+
+The Old Gang were made by the streets. Victor was made by the streets. Diamond Anne was made by the streets. And now, in real time, while the adults fight the dead and the institutions and each other, two children are being made by the same streets. White kid. Black kid. Same patch. Same loyalty. Same future.
+
+The cycle is a circle. It has no break point — unless someone CHOOSES to break it. The entire story asks: will anyone choose? Or will Elephant keep producing gangs, century after century, dead and alive, old and new, until the streets themselves are finally demolished and poured over with concrete?
+
+Even then. Even under concrete. Things come back. The Old Gang proved it.
+
 ## Benevolence as Control — The Ragged Schools
 The wealthy didn't help the poor out of kindness. They helped the poor out of MANAGEMENT. The ragged schools, the old schools, the charitable works — all were mechanisms for producing a docile, useful, grateful workforce. Education meant compliance. Hygiene meant presentability. Religious instruction meant obedience. The institutions that "saved" the poor were the same institutions that CREATED the poverty. They just dressed the second act as charity.
 

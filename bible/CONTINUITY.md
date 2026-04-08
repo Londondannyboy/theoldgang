@@ -319,6 +319,16 @@
 - Lil Cockney finds him dead — "Granddad, get up, man" — can't find a phone
 - Lil Cockney uses old rotary phone in the pub — connects to Sarah's phone in the old police unit
 - The rotary phone network = the dead's communication system — connects old phones across London
+- Soames's daughter is NOT his legitimate child — he had an affair with a woman from Elephant (Old Gang blood)
+- The mother is dead — Soames kept the daughter — raised her as City — she doesn't know her real parentage
+- When truth emerges: she is City by inheritance AND Old Gang by blood — the convergence
+- Soames's one genuine act of love (crossing the river) may undo everything his family built
+- Lil Cockney has a best buddy — Afro-Caribbean/Black — same streets, same loyalty
+- Together they form the nucleus of the NEXT gang — the cycle restarting in children
+- "Someone's done my granddad over. It's our opportunity." — Lil Cockney, age seven
+- The buddy may be related to the rival modern gang — next generation crossing current boundaries
+- Colour doesn't matter to them — poverty is the leveller — same as the Old Gang
+- The new gang forms in the background while everyone else fights the current crisis
 - The Old Gang worship medical heroes as GODS: John Snow, Salter, Bazalgette, Nightingale, Jenner
 - These people cured the diseases that killed the poor — the Old Gang's actual saviours
 - The John Snow pub in Soho = a pilgrimage site for the Old Gang — their god's temple
@@ -481,6 +491,9 @@
 - Lil Cockney picks up the rotary phone — dials — Sarah's phone rings in the old police unit
 - The future calling the present through the technology of the past
 - Soames's daughter discovering her mother's Old Gang lineage — both sides of the river in her blood
+- Lil Cockney and his buddy on the estate: "Someone's done my granddad over. It's our patch."
+- Soames's daughter discovering her real mother's identity — Elephant, Old Gang blood, the wrong side
+- The moment she realises she's both sides — City credentials AND unconsecrated ground blood
 
 ## Established Facts (Novel)
 *No chapters written yet.*
