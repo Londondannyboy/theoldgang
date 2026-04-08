@@ -97,6 +97,31 @@ Developed across 25 brain dump sessions. This is the definitive character bible.
 - **NOT comical:** This is NOT played for laughs. He is not a cute kid saying funny things. He is REAL — a seven-year-old who talks like his great-great-grandfather because that's how his world works. The language survived in him the way it survived in the British Legion Old Boy. Two ends of the same chain: the old man who remembers, the young boy who inherits.
 - **What the Old Gang see:** When the Old Gang encounter him — possibly when visiting the old women's house, possibly through Sarah — they recognise themselves. Not supernaturally. HUMANLY. This is what they were at seven. Before the Fagin. Before the violence. Before the grave. A little cockney kid who doesn't know what he is yet but already IS it.
 - **The recognition scene:** An Old Gang member — maybe Diamond Anne (Scarlet), who was once a sweet young girl herself — looks at this boy and sees the beginning of the cycle. The cycle that made her. The cycle that made all of them. The streets made the Old Gang. The streets are still making this boy. A century and a half of regeneration and institutional benevolence and the streets STILL produce this kid. Because the conditions never really changed. They just changed clothes.
+- **THE INVERSION — Life Not Scared of Death:**
+  The Old Gang terrify EVERYONE:
+  - Modern gangs: frightened, won't cross their streets
+  - Police: can't process, can't restrain, can't explain
+  - The City (Soames): manages with institutional power, needs antique weapons and biological knowledge
+  - Civilians: the cold, the smell, the wrongness — people cross the street
+
+  Except Lil Cockney. He isn't scared.
+
+  He knocks on their door. He walks up to them. "Who are you? This is MY patch." Full cockney. Seven years old. No fear. Not bravery — the absolute ABSENCE of the concept that these people could hurt him. He doesn't have the framework to fear death because he doesn't understand death yet. He's too young. He's too alive. He's too PRESENT — entirely in this moment, on this street, in this body, with no concept of what it means to have been in the ground for 150 years.
+
+  The Old Gang FLINCH. Cold-blooded Victorian killers — people who shanked bouncers, who pulled knives from the Thames, who fought the Fagin and won — shitting themselves when Lil Cockney comes knocking.
+
+  **Why they're scared of him:**
+  Not because he's violent (he's seven). Not because he's dangerous (not yet). Because he IS THEM. He is what they were at the beginning. Before the Fagin. Before the violence. Before the grave. Before everything. And they KNOW — with the certainty of people who lived the full cycle — where it goes. They know what the streets do to boys like him because the streets did it to THEM.
+
+  They can't protect him from it. They couldn't protect themselves. They look at Lil Cockney and see their own origin story walking toward them with a grin and a cockney accent, and they know the ending. They know the Fagin is coming for him — not the same Fagin, but the same ROLE. The system will find him. The system will use him. The system will put him in the ground.
+
+  And they can't stop it. Because they didn't stop it for themselves.
+
+  **The fear is love:** The Old Gang's fear of Lil Cockney is not physical fear. It's the terror of recognition. It's the grief of seeing yourself before everything went wrong and knowing you can't change it. It's PARENTAL — the fear a parent feels watching their child walk toward danger. The Old Gang never had parents who protected them. They were the Fagin's children, the street's children, the system's children. And now they see a child who could be theirs — who IS theirs, in the bloodline sense — walking the same path, and they feel something they've never felt: the desperate, helpless love of someone who knows what's coming and can't prevent it.
+
+  **Life not scared of death:** This is the INVERSION of the entire story. The Seventh Seal concept is: as Sarah gets closer to death, death gets closer to life. But Lil Cockney inverts it. He IS life. Pure, uncomprehending, fearless life. He walks up to death and says "this is my patch" and death has no answer. Because death — the Old Gang — knows that life is stronger. Life is what they worship (sunlight, music, air, pineapples). Life is what they lost. And life is standing in front of them in the form of a seven-year-old boy who isn't impressed.
+
+  **The audience moment:** When the Old Gang — who the audience has watched terrify gangsters, baffle police, and match the City — visibly flinch at a child, the audience understands something profound: the dead are not the most powerful force in the story. Life is. A seven-year-old boy who doesn't know what death means is more powerful than any supernatural return, any Victorian tool, any institutional machinery. Because he represents the one thing none of them can touch: the future. And the future isn't scared.
 - **What he represents:** The story's thesis in a single character. The past isn't dead. It's a seven-year-old in a tower block, talking like his great-great-grandfather, and nobody realising that's exactly what he's doing. He is the question the whole story asks: will this cycle ever break? Or will Elephant ALWAYS produce this kid?
 - **Series function:** In Book 1, he appears briefly — in the old women's house when Sarah visits, or on the street, or at a community event. He's just a kid. The reader notices him because of his voice. In Book 2, he's older — 12 or 13 — and the streets are pulling at him the way they pulled at Victor, at Diamond Anne, at John. He is becoming what they became. The living Old Gang. The inheritance. The continuation.
 - **Lil Cockney's Buddy — The New Gang Begins:**

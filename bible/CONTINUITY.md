@@ -329,6 +329,12 @@
 - The buddy may be related to the rival modern gang — next generation crossing current boundaries
 - Colour doesn't matter to them — poverty is the leveller — same as the Old Gang
 - The new gang forms in the background while everyone else fights the current crisis
+- THE INVERSION: The Old Gang are SCARED of Lil Cockney — cold-blooded killers flinch at a seven-year-old
+- Lil Cockney isn't scared of death because he's too young to understand it — no framework for fear
+- The Old Gang fear him because he IS them at the beginning — they know where the cycle ends
+- Their fear is love — parental terror of watching a child walk toward the same destruction they experienced
+- Life not scared of death = the inversion of the Seventh Seal concept
+- Lil Cockney is more powerful than the Old Gang because he represents the future — and the future isn't scared
 - The Old Gang worship medical heroes as GODS: John Snow, Salter, Bazalgette, Nightingale, Jenner
 - These people cured the diseases that killed the poor — the Old Gang's actual saviours
 - The John Snow pub in Soho = a pilgrimage site for the Old Gang — their god's temple
@@ -494,6 +500,9 @@
 - Lil Cockney and his buddy on the estate: "Someone's done my granddad over. It's our patch."
 - Soames's daughter discovering her real mother's identity — Elephant, Old Gang blood, the wrong side
 - The moment she realises she's both sides — City credentials AND unconsecrated ground blood
+- Lil Cockney walks up to the Old Gang: "Who are you? This is MY patch." No fear. Full cockney. Age seven.
+- The Old Gang visibly flinching at a child — the audience sees: the dead fear the living future
+- An Old Gang member looking at Lil Cockney with parental terror — seeing themselves before everything went wrong
 
 ## Established Facts (Novel)
 *No chapters written yet.*

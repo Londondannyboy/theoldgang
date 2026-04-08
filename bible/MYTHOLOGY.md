@@ -121,6 +121,15 @@ This network belongs to the dead. The Old Gang use it. It rang for Sarah because
 
 The rotary phone network is the dead's version of the modern world's communication. They can't see screens. They can't hear recordings. But the OLD phones — the ones from an era close enough to theirs — these work. These connect. The dead communicate through the technology of the recent dead: the 1940s, the 1960s, the pre-digital age. Not their own era (they had no phones) but the era closest to theirs in the technology timeline. The rotary phone is the midpoint between their world and ours — old enough for them to understand, new enough to carry a voice.
 
+## Life Not Scared of Death — The Inversion
+The Seventh Seal: death gets closer to life, life gets closer to death. They meet. They cross.
+
+Lil Cockney inverts it. Life walks up to death and says: "This is my patch." Death flinches.
+
+A seven-year-old boy, fully alive, fully present, fully uncomprehending of what death means, is more powerful than the Old Gang, the City, the guilds, the institutions, the unconsecrated ground, and 150 years of supernatural return. Because he represents the future. And the future doesn't negotiate with the past. It just arrives.
+
+The Old Gang worship life — sunlight, music, air, blood, pineapples. They worship it because they lost it. And life is standing in front of them, unimpressed, asking who they are. The thing they worship doesn't worship them back. It just keeps going. Forward. Always forward. The cycle continues because life continues. Lil Cockney is the proof: you can bury the past, the past can return, but the future doesn't care. The future is a boy with a cockney accent and no fear, and he's already building the next gang while the dead are still figuring out the present one.
+
 ## The Cycle Restarts — While Nobody's Watching
 The dead Old Gang returned. The modern gangs fight. The City manoeuvres. Sarah investigates. Everyone is looking at the present crisis. Nobody is watching the kitchen. Nobody is watching the estate. Nobody is watching the seven-year-old and his buddy.
 
