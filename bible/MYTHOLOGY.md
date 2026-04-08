@@ -136,6 +136,13 @@ Scarlet walks into sunlight. Holding the baby. The cold leaving her. She doesn't
 
 The cycle broke. Not for everyone. Not for the system. For ONE MOTHER and ONE CHILD. And that is enough. Because it proves: life wins. Not always. Not easily. Not without 150 years of death and a vow spoken over a newborn's head. But it wins.
 
+### The Cutlass and the Cord
+The Victorian cutlass — Diamond Anne's weapon, the blade of violence, the tool of the Old Gang — cuts the umbilical cord. The weapon becomes a surgical instrument. The instrument of death becomes the instrument of birth. One object, one cut, transforms from destroyer to liberator.
+
+This is the story's central symbol resolved: the tools of poverty (the docker's hook, the cobbler's awl, the cutlass) were always tools of WORK before they were tools of violence. The poor weaponised their labour. But a tool can also BUILD. A tool can also CREATE. A tool can also cut a cord and free a child from death.
+
+The cutlass on the ground of the alleyway — left behind, blood-stained but not with violence's blood — is Diamond Anne's grave marker. The weapon lies where the woman was reborn. The blade stays. The mother walks.
+
 ## Stolen Potential — The Avenger's Philosophical Rage
 The system's greatest crime was not poverty. It was not exploitation. It was not child labour or unconsecrated burial or cholera or short lives. The greatest crime was the SUPPRESSION OF HUMAN POTENTIAL. Every working-class child who could have been a scientist, a writer, a thinker, an inventor — crushed by a system that needed them ignorant. The guilds didn't just steal labour. They stole MINDS. They stole FUTURES. They treated human sentience as a threat and human potential as a commodity.
 

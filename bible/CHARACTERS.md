@@ -172,32 +172,41 @@ Developed across 25 brain dump sessions. This is the definitive character bible.
 
 **THE BIRTH AND THE ESCAPE — Scarlet Lives:**
 
-**The Birth:**
-Scarlet gives birth. A dead woman producing a living child.
+**The Birth — Backstreet Southwark:**
+Not a hospital. A BACKSTREET. An alleyway in old Southwark — cobbles under tarmac, brick walls that have been there since the Victorian era, the geography of the Winchester Geese, the same ground where women have given birth in desperation for centuries.
 
-The doctors have written her off. She is dead — clinically, chemically, every test confirms it. She carries Victorian plagues: TB, traces of smallpox, cholera bacteria, scurvy. Her body shouldn't function. By every measure of modern medicine, this pregnancy is impossible. The medical team prepares for the worst — a stillbirth, a biohazard, a tragedy that will be studied in journals and never understood.
+Scarlet can't make it to the hospital. She won't make it to St Thomas's. It's happening NOW. On the street. The way it always happened for women like her — the backstreet birth, the alleyway delivery, the world's oldest emergency in the world's oldest setting.
 
-And the baby comes out SCREAMING. Alive. Healthy. Living. A baby born from a dead woman, carrying NONE of the mother's diseases. None of the death. None of the cold. Clean. Warm. New.
+Ambulance crew around her. Police. Blue lights bouncing off the alley walls. Modern emergency services surrounding a woman who is clinically dead and SCREAMING. Everyone panicking. "You've got to get her to Tommy's." Scarlet: "DO IT NOW. DO IT NOW."
 
-The first truly new thing the Old Gang have ever produced.
+The baby comes. On the pavement. On old Southwark ground. Crying. ALIVE. The ambulance crew in delirium — sobbing, delighted, the pure human joy of a newborn's scream filling an alleyway. The police standing back, not understanding what they just witnessed. The baby, covered in blood and life, crying in gloved hands.
 
-The doctors stare. The machines confirm: the mother is dead. The baby is alive. In the same room. In the same moment. Death and life, separated by an umbilical cord that connects two states of existence that shouldn't be able to coexist.
+The cord.
 
-**The Vow:**
-Scarlet holds her child. A warm, living, screaming baby against her cold, dead skin. And she says:
+**THE CUT:**
+Scarlet reaches for her cutlass. The Victorian blade. The weapon she's carried since the grave — the tool that made her Diamond Anne, the instrument of every violent act, the blade that was forged in the same century that killed her.
+
+She takes it in her left hand. And she cuts the umbilical cord.
+
+The weapon becomes the instrument of CREATION. The thing that only ever brought death becomes the thing that separates a living child from a dead mother. One cut. The cord between death and life. Severed by a blade from the 1860s, on a street from the 1860s, by a woman from the 1860s.
+
+Diamond Anne's violence transformed into Scarlet's liberation. In one cut.
+
+The ambulance crew stare. A woman just cut an umbilical cord with a Victorian cutlass. They don't understand the weapon. They don't understand the woman. They don't understand anything about what just happened. They just know: mother alive (they think). Baby alive (they know). The cord cut. The job done.
+
+**"Nah, I'm done now."**
+Scarlet on the ground. Completely shattered. Lying on old Southwark pavement. Baby crying in the ambulance crew's arms. The cutlass in her left hand, blood on the blade — but not violence's blood. LIFE's blood. The blood of a cord that connected death to life, now severed.
+
+She's done. Not Diamond Anne. Not the killer. Not the boss. Not the Old Gang. Done with all of it. She produced life from death and she's lying on the same streets her ancestors walked, her ancestors worked, her ancestors died on. The same streets the Winchester Geese delivered babies on between clients. The same streets. The same alleyway, maybe. History repeating — but this time, the baby lives. This time, the mother chooses to stop. This time, the blade creates instead of destroys.
+
+"Nah, I'm done now." Not grand. Not theatrical. Cockney. Exhausted. Real. A dead woman who just gave birth in an alleyway and cut the cord with a cutlass and is lying on the ground with nothing left to give. Done. She made it. The baby made it. Everything else can wait.
+
+**The walk into sunlight:**
+After. When she can stand. When the ambulance crew have wrapped the baby and are loading them both into the ambulance (or trying to — does Scarlet get in? Or does she walk away?). The sunlight hits the end of the alleyway. Scarlet stands. Holds the baby. Walks toward the light. The cutlass left on the ground. The weapon stays. The mother leaves.
+
+Whether she is truly becoming alive — warm, beating heart, living — or still dead but walking forward anyway, the story doesn't confirm. What the reader sees: a woman in sunlight, holding a baby, the cutlass behind her on the cobbles. The past on the ground. The future in her arms.
 
 "No one ever hurt my little darling."
-
-Not Diamond Anne's words — Diamond Anne protected with violence, with a knife, with the brutality the world forced onto her. SCARLET's words. The girl before the blood. The mother. Protecting with a PROMISE, not a weapon. The violence ends HERE. With this child. No Fagin will touch this child. No system will exploit this child. No unconsecrated ground will hold this child.
-
-This is where Diamond Anne dies — not the old woman in the care home, not the simultaneous death/birth of the transformation scene. HERE. Diamond Anne, the killer, the boss, the hard name — she falls away. What's left is Scarlet. The mother. The soft name. The girl who held a flower like it was sacred, now holding something more sacred than any flower.
-
-**The Escape:**
-And THAT'S when she walks into sunlight. Not alone. With the baby.
-
-The cold is leaving her. Whether she is truly becoming alive or just walking away from death — the story doesn't confirm. What the reader/viewer SEES is: Scarlet, warmer than she's ever been (the baby's warmth against her skin? Her own warmth returning? Both?), walking into light, holding a living child. She doesn't look back. Not at the Old Gang. Not at Elephant. Not at the Booth streets. Not at the unconsecrated ground.
-
-The final image of the series: Scarlet carrying life into the future. Death holding a baby. Walking toward the sun.
 
 **The father:** [TBD — who is the father? Options include:]
 (a) Unknown — doesn't matter. The baby is hers alone. The father is irrelevant because this is about what SHE produces, not who helped.

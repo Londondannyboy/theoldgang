@@ -335,13 +335,20 @@
 - Their fear is love — parental terror of watching a child walk toward the same destruction they experienced
 - Life not scared of death = the inversion of the Seventh Seal concept
 - Lil Cockney is more powerful than the Old Gang because he represents the future — and the future isn't scared
-- Scarlet gives BIRTH — a dead woman producing a living, healthy child — the ultimate crossing
-- Doctors expect the worst: dead mother, Victorian plagues, impossible pregnancy — baby comes out alive and screaming
+- The birth happens on a BACKSTREET in old Southwark — not a hospital — an alleyway
+- Same streets where Victorian women gave birth, where Winchester Geese delivered between clients
+- Ambulance crew, police, blue lights — modern emergency around a clinically dead woman screaming
+- "Do it now. DO IT NOW." — Scarlet refusing to go to hospital — it happens here, on this ground
+- Baby born alive on the pavement — ambulance crew sobbing with joy — baby screaming
+- Scarlet cuts the umbilical cord with her CUTLASS — the Victorian weapon becomes instrument of creation
+- The blade that made her Diamond Anne becomes the blade that frees her child from death
+- "Nah, I'm done now." — Scarlet on the ground, shattered, cutlass in left hand, baby in crew's arms
+- The cutlass left on the ground — the weapon stays — the mother walks into sunlight with the baby
+- The past on the ground. The future in her arms.
 - Baby carries NONE of the mother's diseases — the plagues stop here — the future is clean
 - Scarlet's vow: "No one ever hurt my little darling" — protection through love, not violence
 - Diamond Anne dies in this moment — the hard name falls away — Scarlet the mother remains
 - The father is [TBD] — matters less than the child
-- The series' final image: Scarlet walking into sunlight, holding a living baby, the cold leaving her
 - The medical heroes' legacy: their science made this birth possible — the baby is proof their work mattered
 - The naming theme completes: Victor = power in death, John = agency in death, Scarlet = escape FROM death into life
 - The Avenger's motivation deepened: not just personal revenge but the theft of HUMAN POTENTIAL
@@ -517,10 +524,11 @@
 - Lil Cockney walks up to the Old Gang: "Who are you? This is MY patch." No fear. Full cockney. Age seven.
 - The Old Gang visibly flinching at a child — the audience sees: the dead fear the living future
 - An Old Gang member looking at Lil Cockney with parental terror — seeing themselves before everything went wrong
-- The birth: hospital, doctors terrified, dead mother, machines flatline — baby screams alive — life from death
-- Scarlet holding the baby: cold skin against warm newborn — "No one ever hurt my little darling"
-- Diamond Anne falls away — Scarlet remains — the hard name dissolving in the presence of the child
-- The final image: Scarlet in sunlight, holding the baby, walking forward, not looking back
+- Backstreet birth: alleyway, ambulance crew, blue lights — "DO IT NOW" — baby screams alive on the pavement
+- Scarlet cuts the cord with the cutlass — the weapon becomes creation — one cut separates death from life
+- "Nah, I'm done now" — Scarlet shattered on the ground — cutlass in left hand — baby in crew's arms
+- The walk: Scarlet stands, holds baby, walks into sunlight — cutlass left on the cobbles — the blade stays, the mother leaves
+- The final image: a woman in sunlight, holding a baby, the past on the ground, the future in her arms
 - The Avenger in the City, subservient, cataloguing not just financial crimes but crimes against human potential
 - The moment the Avenger's true motivation is revealed — not revenge but RECLAMATION of stolen futures
 
