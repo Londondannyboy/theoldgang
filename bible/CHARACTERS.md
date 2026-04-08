@@ -160,27 +160,38 @@ Five core members. Victorian street gang from Booth's black-coded streets. Burie
   These were the weapons of the poor — people who couldn't afford swords or pistols fought with what they worked with. The tools of their trade became the tools of their violence. A docker's hook does things a zombie knife can't imagine.
   **Forensic implication:** When modern forensic teams examine Old Gang wounds, they won't match any weapon in the database. The injuries look like industrial accidents from a century that doesn't exist anymore. Pathologists will be baffled. Sarah will recognise the pattern — wounds from tools, not weapons. Work implements. This is another clue that something from another era is operating on these streets.
 
-- **THE VULNERABILITY — No Resistance to the Modern World:**
-  The Old Gang's kryptonite. They have NO biological resistance to modern diseases. They died before antibiotics. Before modern flu variants. Before 150 years of pathogen evolution. Their bodies — whatever dead biology sustains them — carry ZERO resistance to the modern microbial world.
+- **THE VULNERABILITY — Three Layers:**
 
-  **What this means practically:**
-  - A common modern flu strain could disable them — their immune systems (or whatever the dead equivalent is) have never encountered it
-  - Modern chemicals — cleaning products, pesticides, industrial compounds — are toxic to bodies that have no exposure history
-  - Antibiotics, antivirals, modern pharmaceuticals — designed for modern biology — could have unpredictable, devastating effects on Victorian-era bodies
-  - Air pollution (which they worship as "clean") carries particulates and compounds they have no defence against
-  - Modern food preservatives, additives, processed ingredients — their bodies can't process what they've never encountered
+  **1. Killable ONLY by Victorian weapons:**
+  Modern weapons cannot destroy the Old Gang. A zombie knife does nothing. A gun does nothing. A taser, pepper spray, modern restraints — useless. They are from a different time and only the weapons OF their time can end them. A butcher's hook. A cutlass. A cobbler's awl. A docker's gripper. The tools that defined their lives are the only things that can end their second lives. They are killable only by the things that made them.
 
-  **The irony:** The things the Old Gang MARVEL at — the clean air, the clean water, the hygiene, the fresh food — are markers of a biological environment that is HOSTILE to them. Their obsession with cleanliness isn't just aesthetic. It's INSTINCTIVE SELF-PRESERVATION. They are drawn to purity because impurity (in its modern forms) could destroy them. They worship what could kill them.
+  **Implication for the City:** If Soames discovers this, he must source ANTIQUE WEAPONS to destroy the Old Gang. He must reach into the same past he's trying to monetise. Victorian tools become assassination instruments. The City would need to become what it claims to have left behind — a user of the old methods, the old violence, the old tools. The irony is total: to kill the past, you must become the past.
 
-  **How this gives Soames power:** If Soames discovers this vulnerability — and the City, with its access to modern science, modern medicine, modern pharmaceutical networks, WOULD discover it — he has a weapon. Not a docker's hook. Not Victorian violence. SCIENCE. The modern world itself as a weapon against the dead. Soames doesn't need to fight the Old Gang. He needs to EXPOSE them — to the modern biological environment that their bodies can't survive.
+  **Implication for the police:** Modern policing is useless against the Old Gang. Tasers don't work. Restraints don't hold. Firearms are ineffective. Sarah's institution literally cannot deal with the threat using its own tools. The Old Gang are immune to modern law enforcement — not because they're supernatural, but because they're from an era that predates every tool the police have.
 
-  **The moral dimension:** Using modern disease against the Old Gang is biological warfare against the already-dead. It mirrors the historical reality: Victorian slums WERE killed by disease — cholera, typhus, smallpox ravaged the rookeries. The poor died of diseases the rich could avoid. If Soames uses modern disease against the Old Gang, he is doing EXACTLY what the City always did: weaponising the environment against the vulnerable. The method changes. The morality doesn't.
+  **2. They carry their era's diseases:**
+  The Old Gang came back sick. Smallpox. Cholera. Typhus. Plague. The diseases of Victorian poverty are in their bodies — the infections they carried when they died, preserved, returned with them. They are a walking PUBLIC HEALTH CRISIS.
 
-  **Story function:** This vulnerability creates genuine tension. The Old Gang can't die from violence (they're already dead). But they CAN be weakened, disabled, incapacitated by modern biology. This means:
-  - The Old Gang's fearlessness in combat is real — you can't kill someone who's already dead
-  - But the City has a different weapon — one the Old Gang don't understand and can't see coming
-  - The power balance is maintained: the Old Gang have death, the City has science
-  - Neither side is invincible. Both have weapons the other can't match.
+  This means:
+  - They are a biohazard as well as a crime problem
+  - The authorities have a reason to hunt them that has NOTHING to do with the supernatural — quarantine, public health emergency, disease control
+  - Modern London, which has no immunity to smallpox (vaccination ended in 1971), is vulnerable to what the Old Gang carry
+  - The diseases they spread are the diseases of POVERTY — the same conditions that killed them are now a threat to the modern world
+  - Their obsession with cleanliness is even more poignant — they are instinctively trying to wash off the diseases that are part of them
+
+  **Implication for the City:** Soames can weaponise this — not by GIVING them disease but by EXPOSING their disease to the authorities. Frame the Old Gang as a public health threat. Get them quarantined, contained, destroyed — not as criminals or supernatural beings, but as biohazards. The modern bureaucratic state does the City's work: contain the plague carriers. The Old Gang, who survived death, could be destroyed by a public health order.
+
+  **3. Their life expectancy carries over:**
+  Life expectancy in the worst Victorian slums: 18.5 years. The Old Gang died young. And even in their return, the timer is running. They can feel it. The poverty of their era is a clock they can't stop. They came back on BORROWED TIME — and the time is short.
+
+  This means:
+  - The Old Gang know they're fading. They can feel it — the cold getting colder, the body weakening, the borrowed life draining
+  - Every moment of sunlight, every breath of clean air, every pineapple, every song — is precious not just because they were deprived but because they're RUNNING OUT. Again.
+  - Their urgency isn't just about territory or vengeance — it's about TIME. They have a window. The window is closing. Everything they do is on a deadline they can't extend.
+  - This is the saddest element of the story: even death couldn't free them from poverty. They came back and brought it with them. The conditions that killed them at 18.5 are killing them again. They escaped the grave but not the life expectancy.
+
+  **What the three vulnerabilities create together:**
+  The Old Gang are fearless in combat (you can't kill the already-dead with modern weapons). But they are slowly dying (life expectancy), carrying their death with them (disease), and destroyable by anyone who understands their era (Victorian tools). They are powerful AND fragile. Terrifying AND tragic. Invincible against the modern world AND fatally bound to the old one. This is the tension that drives the story: the dead are strong enough to change the world, but the world they came from is still killing them.
 
 ---
 

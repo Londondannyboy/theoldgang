@@ -275,6 +275,16 @@
 - This maintains the power balance: Old Gang have death/fearlessness, City has science/biology
 - "Kill them." — Soames to the gang leader — two words — he IS a gangster
 - Soames ordering a hit through the modern gang is the City commanding the street — same as always
+- Old Gang can ONLY be killed by Victorian-era weapons — modern weapons (guns, knives, tasers) do nothing
+- Victorian tools are assassination instruments: butcher's hook, cutlass, awl, gripper can destroy them
+- The City must source antique weapons to kill Old Gang — must become the past to destroy the past
+- Old Gang carry Victorian diseases: smallpox, cholera, typhus, plague — a walking public health crisis
+- Modern London has no smallpox immunity (vaccination ended 1971) — the Old Gang are a biohazard
+- Soames can weaponise this: frame Old Gang as public health threat → quarantine → containment → destruction
+- Old Gang life expectancy carries over: 18.5 years in the slums — the timer is running even in death
+- The Old Gang know they're fading — borrowed time — every moment of joy is shadowed by the clock
+- Even death couldn't free them from poverty — they came back and brought it with them
+- Three-layer vulnerability: killable by Victorian weapons + carrying Victorian disease + dying on Victorian time
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -396,6 +406,10 @@
 - The gang leader realising he just received an order from a guild master — the chain intact
 - Soames discovering the Old Gang's biological vulnerability — modern science as weapon
 - An Old Gang member weakened by modern exposure — the vulnerability made visible
+- An Old Gang member weakening — feeling the clock — the life expectancy catching up
+- Soames sourcing antique weapons — reaching into the past to destroy the past
+- The public health angle: authorities hunting Old Gang not as criminals but as plague carriers
+- The Old Gang's joy shadowed by fading — Diamond Anne in sunlight knowing the warmth won't last
 
 ## Established Facts (Novel)
 *No chapters written yet.*

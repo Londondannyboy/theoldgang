@@ -120,6 +120,13 @@ When an Old Gang member discovers a descendant working Bankside, they are seeing
 ## The Victorian Photographs
 The faces in the daguerreotypes. Real children. Real women. Real poverty. Frozen in time by a camera they didn't understand, in conditions they couldn't escape. The photographs survived. The people didn't. Until now.
 
+## Carried Death — Poverty Beyond the Grave
+The Old Gang brought their poverty back with them. Not just the memory of it — the BIOLOGY of it. The diseases. The malnutrition. The shortened lives. Victorian poverty is not history to them. It is their physical condition. They are sick. They are fading. They are dying again, from the same causes, on the same streets, in a world that has cured the diseases they carry but cannot cure the conditions that created them.
+
+This is the story's deepest sadness: the dead worship life because they know they're losing it again. Every scene of joy — Diamond Anne in sunlight, the Urchin at the piano, John tasting blood, Victor on the horse — is shadowed by the knowledge that the clock is running. They came back. They will go again. The grave is patient. It always gets what it planted.
+
+Even in death, you cannot escape what poverty does to a body. You can escape the ground. You cannot escape the life expectancy. The Old Gang are proof: the system kills you, and then it kills you again.
+
 ## "Wot Cher" — The Greeting That Became a Warning
 A medieval greeting. A Victorian catchphrase. A music hall chorus. And the Old Gang's signature — the last word before violence. The audience's relationship with "Wot Cher" should evolve across the series:
 
