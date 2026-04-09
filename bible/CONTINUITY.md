@@ -108,6 +108,18 @@
 - Dr Alfred Salter — real doctor, Bermondsey, free medical care for slum poor, daughter died of scarlet fever 1910
 - "Dr Salter's Daydream" statue on Bermondsey Wall East — the Salter family depicted at a happy time
 - Dr Salter is the moral opposite of Soames — genuine service vs institutional performance
+- The Old Gang CANNOT see electric light — street lights, neon, LEDs, screens are invisible or incomprehensible
+- The Old Gang CAN see and worship FIRE — gas lamps, candles, torches, campfires, any open flame
+- London still has approximately 1,500 gas lamps — Westminster, the Temple, St James's, parts of Covent Garden — maintained by hand by a lamplighter
+- The gas lamp streets are the ONLY illuminated streets in the Old Gang's London — everything else is darkness to them
+- The Old Gang navigate by gaslight and firelight while modern London navigates by electricity — two cities, lit differently
+- Fire is part of the sensory theology alongside sunlight, flowers, music, pineapples, clean air, blood, breathing
+- Fire is the most primal entry in the sensory theology — the first human comfort, the thing that separated survival from death
+- SCENE: The Old Gang light a fire on a council estate walkway — a drum or bin, flames at the end of a landing. Residents see flickers from their windows. Figures around a fire, still, cold, lit from below.
+- SCENE: Victor on horseback riding along the estate walkway TOWARD the fire. Hooves on concrete. Firelight catching him as he approaches. Medieval image in a postwar building. The fire is his destination — the Old Gang waiting for him around the only light they can make.
+- This fire scene belongs in or near Chapter 21 (Victor's revelation / horse ride)
+- Tar torches, processions with flame — the Old Gang carrying fire through Elephant at night. Modern London sees torchlight moving between estates. A protest? A vigil? The Old Gang know: it's how you move through darkness.
+- The gas lamps around Devil's Acre (Westminster) are now in very posh territory — the Old Gang seeing THEIR light source in the wealthiest streets is another class irony
 
 ### The Old Gang
 - They are literally dead — clinically dead on blood tests
@@ -368,6 +380,27 @@
 - Escalation from Ch8 blood test: "dead" → "dead for 150 years" → still dismissed
 - Medical exam trigger refined: Old Gang member COLLAPSES (seizure/life expectancy clock) → assumed rough sleeper → TB testing → full workup → patient wakes up during examination → impossible results
 - The medical examination is an ACCIDENT — the system stumbled onto the truth while processing an "ordinary" case
+- The Ginger Urchin's arc: discovery of life's beauty (Book 1) → the beauty is borrowed (Book 2) → the clock runs out during a performance — the stage empties
+- The Urchin is the Old Gang member who can't let go of the living world — every other member accepts death in their own way
+- John's arc after the Fagin: enforcer by CHOICE, not conditioning — free of the abuser, not free of what abuse made him
+- John's Book 2 question: can a person shaped by violence ever be anything other than violent?
+- The Goth Girl becomes the audience surrogate for Book 2 — wanted to die (Book 1), wants to LIVE (Book 2)
+- The Goth Girl is the one who takes Scarlet's baby — "the future in someone else's arms" = the Goth Girl's arms
+- Four female leads completed: Sarah (investigation), Diamond Anne/Scarlet (transformation), the Old Woman (memory), the Goth Girl (witness and inheritor)
+- Sarah's father is a SILENT presence in Book 2 — no dialogue after the Seventh Seal conversation in Ch27
+- Key Book 2 image: Sarah's father standing outside the old police unit, looking in, unable to enter
+- The Corrupt Policeman gets a redemption arc — does one good thing, then dies (suicide on a bridge)
+- The Corrupt Policeman comes from the same streets as the criminals — same families produce both police and criminals
+- Sarah's father's shadow watches the Corrupt Policeman's death — two men connected by murder
+- The Corrupt Policeman returns as Old Gang in Book 2 — buried in Elephant ground, comes back
+- In Book 2: the murderer walks alongside the man he murdered — the ground doesn't sort righteous from guilty
+- The Old Gang don't forgive the Corrupt Policeman — Sarah's father doesn't forgive him — but they're stuck together
+- The Corrupt Policeman needs fuller development in Book 1: a name (TBD), visible backstory, humanity under the mask
+- A Book 1 scene needed: the Corrupt Policeman among criminals from the same estates — obvious to the reader they're from the same world
+- The Kennish Man is the one non-Old Gang dead character developed beyond a single scene
+- The Kennish Man needs a name (TBD) and a moment of recognition — he realises the construction site is built on his grave
+- The Kennish Man doesn't join the Old Gang (not from Elephant) but proves the phenomenon isn't unique
+- Fighting Priest, Hooligans, Teddy Boys, Elsbury Skinhead, Barnsley busker = atmospheric single-scene encounters only in Book 1
 
 ### Key Scenes
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
@@ -526,6 +559,9 @@
 - Then: white text on black. A single fact. Silence.
 - The Avenger in the City, subservient, cataloguing not just financial crimes but crimes against human potential
 - The moment the Avenger's true motivation is revealed — not revenge but RECLAMATION of stolen futures
+- Victor riding toward fire on a council estate walkway — hooves echoing on concrete — firelight on horse and rider — the Old Gang waiting at the flames
+- The Old Gang carrying tar torches through the estates at night — procession of fire between tower blocks
+- The Old Gang discovering the gas lamps in Westminster — their light, on streets they can no longer afford to die on
 
 ## Established Facts (Novel)
 *No chapters written yet.*

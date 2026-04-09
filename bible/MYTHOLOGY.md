@@ -82,6 +82,7 @@ The Old Gang's relationship to the modern world follows one rule: the deprived e
 - **Purple** → the impossible colour, now everywhere → gang uniform that's actually devotion
 - **Theatre** → their entertainment, live, human → rapture
 - **The Thames** → their river, now clean → bewildered drinking
+- **Fire** → light in darkness, warmth in cold → the original miracle, survival itself
 
 Each tells the same story: what was denied is now available. What was poisonous is now pure. What was impossible is now ordinary. The Old Gang experience modern London as a sensory miracle — and their gratitude is simultaneously moving and unsettling, because it reminds the reader of how terrible their world was, and how much the living take for granted.
 
@@ -208,3 +209,14 @@ The phrase functions on three levels:
 3. **For the audience (by mid-series):** A verdict. When someone gets "knocked in the Old Kent Road," they don't get up. The song is a sentence. The chorus is a eulogy.
 
 A photograph is a record of light that once touched a living face. The Old Gang were that light. They were those faces. When Sarah looks at a Victorian photograph and sees someone she recognises on a modern street, she is seeing light that touched a face 150 years ago — and that face is now touching the modern world again. The photograph is proof: they existed. The Old Gang walking the streets is the photograph coming to life.
+
+## Fire — The First Light
+Fire completes the sensory theology. The Old Gang cannot see electric light — LEDs, neon, street lamps, screens are invisible or incomprehensible to them. But fire — gas light, candle flame, torches, campfires — is THEIR light. The only light source they recognise from their world. London still has approximately 1,500 working gas lamps, maintained by hand, concentrated around Westminster, the Temple, St James's, and parts of Covent Garden. For the Old Gang, these are the only illuminated streets in London. Everything else is darkness.
+
+Fire is the most primal element in the sensory theology. Sunlight is worship. Flowers are wonder. Music is ecstasy. Fire is SURVIVAL. In their world, fire was the difference between life and death — warmth in freezing rooms, light in pitch-dark streets, cooking, industry, the only defence against the cold that killed as many as disease did. They worship flame the way they worship sunlight: as the original miracle.
+
+The image: a fire on a council estate walkway. A drum or a bin, flames at the end of a concrete landing. The fluorescent strip lighting invisible to the Old Gang — to them the walkway is pitch black until they light the fire. The flicker carries down the passage. Residents see it from their windows. Figures around a flame. Still. Cold. Lit from below. And then Victor on horseback, riding toward the fire along the walkway. Hooves on concrete. Firelight catching horse and rider. A medieval image inside a postwar building. The fire is his destination. The Old Gang are waiting around the only light they can make.
+
+Tar torches carried through the streets at night. Processions. Modern London seeing torchlight moving between estates — a protest? A vigil? An art installation? The Old Gang know: it's how you move through darkness when darkness is all there is.
+
+The gas lamps around Devil's Acre in Westminster — now the most expensive real estate in London — are the Old Gang's light in the territory of the wealthy. Their illumination, on streets they can no longer afford to die on. Another class irony: the Old Gang's technology preserved as heritage décor for the rich.

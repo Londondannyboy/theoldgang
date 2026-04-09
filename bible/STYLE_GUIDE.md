@@ -79,6 +79,9 @@ This novel is written as a novel FIRST — but structured and styled so that a N
   - The hospital reckoning — Urchin in a hoodie, patriarch begging
   - The Old Gang singing "Wot Cher!" at the Golden Eagle
   - Sarah looking at a Victorian photograph and recognising a face
+  - Victor on horseback riding toward fire on a council estate walkway — medieval image in postwar concrete
+  - The Old Gang carrying tar torches through Elephant at night — procession of flame between tower blocks
+  - The Corrupt Policeman on a bridge — Sarah's father's shadow watching — the fall
 - Write these with the PACE and CLARITY of a shot list. Short sentences. Precise images. No clutter.
 
 ### The Netflix Structure
@@ -161,6 +164,13 @@ This is the sonic identity of the story: the past and present occupying the same
 The Old Gang's music doesn't stay in the past. It enters the present and CHANGES the present. The rapper who spits over Vera Lynn creates something new — not Victorian, not modern, but the third thing that happens when both exist in the same room. This is the musical version of the story's thesis: the past doesn't replace the present. The present doesn't erase the past. They merge. They infect each other. They create something that has never existed before.
 
 This is what Elephant and Castle IS. Old pubs next to new builds. Victorian bones under modern foundations. Music hall under grime. The Old Gang walking among us. Everything at once. Everything alive.
+
+### Character Test — The Netflix Analyst Rule
+Every character must pass this test: would an actor want to play this role? If you have three friends standing together and you could interchange their dialogue without it making a difference, make it one friend or cut them. Every character — even unnamed ones — must be absolutely necessary. Ask: what would I lose if this character was cut? If there's no answer, develop them or remove them.
+
+Character is defined by CHOICES under pressure, not by exposition in quiet moments. A decision during a chase says more than a campfire monologue about childhood. Weave character development into action — don't clump it into moments of calm.
+
+This applies especially to the Old Gang's five core members: each must have a distinct voice, a distinct physicality, a distinct relationship to violence, and a distinct sensory response to the modern world. If you can swap dialogue between John and the Urchin and it reads the same, one of them isn't developed enough.
 
 ### Tone Reference for Screen
 - **Peaky Blinders** — visual style, period gang culture, the slow-motion set-piece
