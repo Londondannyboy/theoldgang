@@ -201,6 +201,9 @@ White text on black screen. No music. The fact appears. Holds for five seconds. 
 - Chapter with gin: *"Between 1720 and 1751, the gin epidemic killed an estimated 9,000 people in London annually. Most gin was adulterated with turpentine, sulphuric acid, or sawdust."*
 - Chapter with childbirth: *"In the poorest districts of Victorian London, maternal mortality exceeded one in twenty births. Most births took place without medical assistance."*
 - Chapter with the Old Gang's return: *"When permafrost thaws, bacteria preserved for centuries can become active. In 2016, a 75-year-old anthrax spore released from melting permafrost killed a child in Siberia."*
+- Chapter with political/voting theme: *"In 1867, one in three adult men in Britain could not vote. The property qualification ensured that the people who made the laws were never the people who suffered under them."*
+- Chapter with identity/existence theme: *"Civil registration of births became compulsory in England in 1837. In the poorest districts, compliance remained patchy for decades. Thousands of children were born, lived, and died without the state recording that they had existed."*
+- Chapter with Tower Bridge or prostitution theme: *"The high-level walkways of Tower Bridge, opened in 1894, became so notorious for prostitution that the City of London closed them in 1910. They remained shut for seventy-two years."*
 
 **Rules:**
 - One fact per chapter. Never more.

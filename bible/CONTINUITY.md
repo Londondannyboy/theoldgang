@@ -120,6 +120,11 @@
 - This fire scene belongs in or near Chapter 21 (Victor's revelation / horse ride)
 - Tar torches, processions with flame — the Old Gang carrying fire through Elephant at night. Modern London sees torchlight moving between estates. A protest? A vigil? The Old Gang know: it's how you move through darkness.
 - The gas lamps around Devil's Acre (Westminster) are now in very posh territory — the Old Gang seeing THEIR light source in the wealthiest streets is another class irony
+- Tower Bridge high-level walkways were used by prostitutes from 1894 until closed in 1910 due to notoriety
+- The walkways reopened in 1982 as a tourist attraction — glass floors, selfies, heritage — nobody remembers the sex trade
+- The Old Gang know the walkways as a workplace — Bankside moved upstairs
+- SCENE: Old Gang member among tourists on Tower Bridge walkway — tourists see heritage, Old Gang sees a brothel with a view
+- Connects to Winchester Geese / Bankside thread — prostitution moves, the transaction doesn't
 
 ### The Old Gang
 - They are literally dead — clinically dead on blood tests
@@ -138,6 +143,25 @@
 - Old Gang use Molecule 01 perfume to hide death smell
 - Old Gang cannot see screens, CAN perceive wireless radio
 - Old Gang refer to areas by ancient names (Jacob's Island, St Giles, Devil's Acre)
+- The standoff scene is the audience's introduction to Old Gang violence — stillness, underestimation, eruption
+- Modern gangs read Old Gang members as nobodies — scrawny, pale, wrong era — this is always a fatal mistake
+- The Avenger's philosophical rage includes DEMOCRATIC EXCLUSION — the Old Gang couldn't vote, couldn't change the laws that kept them poor
+- "They made the laws that kept us poor. They kept us too poor to change the laws. That's not corruption. That's architecture." — the Avenger's line
+- The Old Gang return to universal suffrage and see nothing has changed — same streets poor, same power in place
+- An Old Gang member (Victor or the Avenger) looking at a modern polling station in silence — the silence IS the commentary
+- The British Legion Old Boy bridges the century the Old Gang missed — wars, votes, NHS, welfare state — and he's still dying alone and penniless
+- The suffragette movement was about class AND gender — women with property voted before men without property — history simplified this
+- Potential historical fact: "In 1867, one in three adult men in Britain could not vote. The property qualification ensured that the people who made the laws were never the people who suffered under them."
+- The Old Gang had NO identity infrastructure — no birth certificates (civil registration began 1837, patchy in poorest areas), no passports, no bank accounts, no fixed address recorded by any institution
+- They existed below the level at which the state acknowledged human beings — invisible to governance
+- This connects to modern absolute poverty: ~500 million people in sub-Saharan Africa lack birth registration, millions in India have no official identity
+- No identity = no passport, no bank account, no ability to borrow, no legal recourse, no proof of existence — same condition across centuries
+- The Old Gang's poverty is NOT the poverty modern readers understand — no NHS, no benefits, no safety net — only workhouse, hospice, charitable food distribution
+- The Old Gang see modern rough sleepers, undocumented migrants, trafficking victims and RECOGNISE them — the invisibility hasn't ended, it's been exported
+- The City created the conditions of invisibility — guilds controlled who could exist — trust structures now make workers invisible globally
+- The Avenger's deepest rage: not just stolen labour or potential but stolen EXISTENCE — the system denied they existed
+- The unconsecrated grave = the physical proof of erased existence — bodies buried without record, ceremony, or acknowledgment
+- The Old Gang's return = the refusal to remain invisible — demanding to be seen — the ground returning what the system tried to erase
 - Old Gang drink from the Thames instinctively
 - Old Gang break into the Globe Theatre — rapture
 - Old Gang find suicide abhorrent — they know death is the grave
@@ -403,6 +427,8 @@
 - Fighting Priest, Hooligans, Teddy Boys, Elsbury Skinhead, Barnsley busker = atmospheric single-scene encounters only in Book 1
 
 ### Key Scenes
+- THE STANDOFF: Single Old Gang member cornered by modern street gang — stands still, doesn't flinch — they mock, circle, underestimate — then a Victorian tool nobody recognises — extreme violence — over in seconds — the scene that teaches the reader what the Old Gang are
+- This scene must be early (Part 1) — establish fear before sympathy
 - Modern gangs describe rival as "dead" — police read slang, gangs mean literally
 - White youth in custody — no camera awareness — blood test confirms dead
 - Kennish Man pub fight ("man of Kent or Kentish man?")
